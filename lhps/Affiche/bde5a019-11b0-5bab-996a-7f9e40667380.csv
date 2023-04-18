@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+bde5a019-11b0-5bab-996a-7f9e40667380,tg:lhps:28880,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28880,https://data.letterenhuis.be/ark:/24970/bde5a019-11b0-5bab-996a-7f9e40667380,Affiches,,,,
+bde5a019-11b0-5bab-996a-7f9e40667380,tg:lhps:28880,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 56.116.1592</p>
+<p>druk: Camis, Paris</p>
+","<p>Oude nummering Volkskunde: 56.116.1592</p>
+<p>druk: Camis, Paris</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bde5a019-11b0-5bab-996a-7f9e40667380,tg:lhps:28880,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined
+bde5a019-11b0-5bab-996a-7f9e40667380,tg:lhps:28880,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"L'espérance  
+Compie d'Assurances à primes fixes contre l'incendie, les accidents et la grêle",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+bde5a019-11b0-5bab-996a-7f9e40667380,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028192,referentienummer,False,,,,,,,,,,,,,,
+bde5a019-11b0-5bab-996a-7f9e40667380,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28880,brocade id,False,,,,,,,,,,,,,,
+bde5a019-11b0-5bab-996a-7f9e40667380,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28880/N,brocade url,False,,,,,,,,,,,,,,
+bde5a019-11b0-5bab-996a-7f9e40667380,tg:lhps:28880,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""24fd8a77-4b20-582c-9eea-dd5752b10c85"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3b5f8341-428e-4f4c-b460-932b01d05d65"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

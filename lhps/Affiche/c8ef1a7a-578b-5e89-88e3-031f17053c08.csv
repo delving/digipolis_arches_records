@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c8ef1a7a-578b-5e89-88e3-031f17053c08,tg:lhps:24393,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24393,https://data.letterenhuis.be/ark:/24970/c8ef1a7a-578b-5e89-88e3-031f17053c08,Affiches,,,,
+c8ef1a7a-578b-5e89-88e3-031f17053c08,tg:lhps:24393,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974.0,2089,In Copyright
+c8ef1a7a-578b-5e89-88e3-031f17053c08,tg:lhps:24393,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19740817,,,,,,,,,,,,,,,,,,,,
+c8ef1a7a-578b-5e89-88e3-031f17053c08,tg:lhps:24393,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19740930,,,,,,,,,,,,,,,,,,,,
+c8ef1a7a-578b-5e89-88e3-031f17053c08,tg:lhps:24393,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1974-09-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c8ef1a7a-578b-5e89-88e3-031f17053c08,tg:lhps:24393,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Jules Stauber  
+Cartoons - Graphic Design  
+Städtische Galerie Würzburg",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c8ef1a7a-578b-5e89-88e3-031f17053c08,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023735,referentienummer,False,,,,,,,,,,,,,,
+c8ef1a7a-578b-5e89-88e3-031f17053c08,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24393,brocade id,False,,,,,,,,,,,,,,
+c8ef1a7a-578b-5e89-88e3-031f17053c08,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24393/N,brocade url,False,,,,,,,,,,,,,,
+c8ef1a7a-578b-5e89-88e3-031f17053c08,tg:lhps:24393,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""112f59fa-0321-5a66-a8c4-d3c37909c6cd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8cc9cdd0-1a23-40a1-93b0-04479995447d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

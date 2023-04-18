@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+656107fc-0af1-5e44-b592-f833b7a0a69e,tg:lhps:16349,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:16349,https://data.letterenhuis.be/ark:/24970/656107fc-0af1-5e44-b592-f833b7a0a69e,Affiches,,,,
+656107fc-0af1-5e44-b592-f833b7a0a69e,tg:lhps:16349,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1991.0,2106,In Copyright
+656107fc-0af1-5e44-b592-f833b7a0a69e,tg:lhps:16349,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19911109,,,,,,,,,,,,,,,,,,,,
+656107fc-0af1-5e44-b592-f833b7a0a69e,tg:lhps:16349,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19911222,,,,,,,,,,,,,,,,,,,,
+656107fc-0af1-5e44-b592-f833b7a0a69e,tg:lhps:16349,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1991-12-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+656107fc-0af1-5e44-b592-f833b7a0a69e,tg:lhps:16349,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Bergmans Jacques  
+'t Toreken  
+Herdenkingstentoonstelling  
+Jacques Bergmans  
+1891-1959",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+656107fc-0af1-5e44-b592-f833b7a0a69e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000015785,referentienummer,False,,,,,,,,,,,,,,
+656107fc-0af1-5e44-b592-f833b7a0a69e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:16349,brocade id,False,,,,,,,,,,,,,,
+656107fc-0af1-5e44-b592-f833b7a0a69e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:16349/N,brocade url,False,,,,,,,,,,,,,,
+656107fc-0af1-5e44-b592-f833b7a0a69e,tg:lhps:16349,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ec7ff714-107c-569b-9d82-65339e55ecb0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c408c77b-5a70-402e-80a8-fb79a138b957"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+656107fc-0af1-5e44-b592-f833b7a0a69e,tg:lhps:16349,e73_OriginalBrocade,,,au::1642,,,,lhps,,,69cca4c0-b7f3-5966-b630-e043b877efa8,kw,,au::1642:1,au::1642g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/175694"",""au::1642"",""au::1642:1"",""ark:/83110/x0/69cca4c0-b7f3-5966-b630-e043b877efa8"",""Jacques Bergmans""],""name"":""Jacques Bergmans"",""ark"":""ark:/83110/x0/69cca4c0-b7f3-5966-b630-e043b877efa8"",""uri"":""/agents/people/175694"",""id"":""au::1642:1"",""isCapacity"":false}",ark:/83110/x0/69cca4c0-b7f3-5966-b630-e043b877efa8,agent,,,,,,,,

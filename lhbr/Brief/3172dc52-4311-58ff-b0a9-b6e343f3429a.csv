@@ -1,0 +1,6 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+3172dc52-4311-58ff-b0a9-b6e343f3429a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:121926_#1,https://data.letterenhuis.be/ark:/24970/3172dc52-4311-58ff-b0a9-b6e343f3429a,,,
+3172dc52-4311-58ff-b0a9-b6e343f3429a,,,,32835/17a,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172dc52-4311-58ff-b0a9-b6e343f3429a,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+3172dc52-4311-58ff-b0a9-b6e343f3429a,,,,,,,,,,,,,,,lhbr,,tg:lhbr:121926_#1,32835/17a,,R 985 / B,3172dc52-4311-58ff-b0a9-b6e343f3429a,,,,,,,,,,,,,,,
+3172dc52-4311-58ff-b0a9-b6e343f3429a,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required

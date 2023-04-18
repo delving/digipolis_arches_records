@@ -1,0 +1,10 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+e93b649c-eb64-569e-969c-44c35778c42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:237016_#1,https://data.letterenhuis.be/ark:/24970/e93b649c-eb64-569e-969c-44c35778c42d,,,
+e93b649c-eb64-569e-969c-44c35778c42d,,,,218692/a-b,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e93b649c-eb64-569e-969c-44c35778c42d,tr:lh:9855,"dlod={""name"":""Schenking van De Librije"",""ark"":""ark:/24970/x0/cd8e4fcf-8cff-5cbe-b058-674518c86027"",""uri"":""/repositories/11/accessions/1054488"",""id"":""tr:lh:9855"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/cd8e4fcf-8cff-5cbe-b058-674518c86027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e93b649c-eb64-569e-969c-44c35778c42d,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+e93b649c-eb64-569e-969c-44c35778c42d,,,,,,,,,,,,,,,lhbr,tr:lh:9855,tg:lhbr:237016_#1,218692/a-b,,H 965 / B1,e93b649c-eb64-569e-969c-44c35778c42d,,,,,,,,,,,,,,,
+e93b649c-eb64-569e-969c-44c35778c42d,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+e93b649c-eb64-569e-969c-44c35778c42d,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+e93b649c-eb64-569e-969c-44c35778c42d,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+e93b649c-eb64-569e-969c-44c35778c42d,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960,permission required

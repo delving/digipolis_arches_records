@@ -1,0 +1,18 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c972f823-8c06-508d-8773-a3cfd996a78e,tg:lhps:29177,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29177,https://data.letterenhuis.be/ark:/24970/c972f823-8c06-508d-8773-a3cfd996a78e,Affiches,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,tg:lhps:29177,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 93.21.438</p>
+<p>druk: Michiels, Tongeren</p>
+","<p>Oude nummering Volkskunde: 93.21.438</p>
+<p>druk: Michiels, Tongeren</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,tg:lhps:29177,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963.0,2078,In Copyright
+c972f823-8c06-508d-8773-a3cfd996a78e,tg:lhps:29177,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19631222,,,,,,,,,,,,,,,,,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,tg:lhps:29177,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640202,,,,,,,,,,,,,,,,,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,tg:lhps:29177,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-02-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,tg:lhps:29177,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Griekse meubelkunst  
+Provinciaal Gallo-Romeins Museum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028489,referentienummer,False,,,,,,,,,,,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29177,brocade id,False,,,,,,,,,,,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29177/N,brocade url,False,,,,,,,,,,,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,tg:lhps:29177,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f97ff42e-b0ef-539f-aef8-92707ed02bd5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""add2b53f-f70e-442e-9685-388ee9e5e410"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+c972f823-8c06-508d-8773-a3cfd996a78e,tg:lhps:29177,e73_OriginalBrocade,,,au::15234,,,,lhps,,,af70832c-be34-5ace-bd7a-f4e308bf5cdf,kw,,au::15234:1,au::15234g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1630038"",""au::15234"",""au::15234:1"",""ark:/83110/x0/af70832c-be34-5ace-bd7a-f4e308bf5cdf"",""Provinciaal Gallo-Romeins Museum""],""name"":""Provinciaal Gallo-Romeins Museum"",""ark"":""ark:/83110/x0/af70832c-be34-5ace-bd7a-f4e308bf5cdf"",""uri"":""/agents/corporate_entities/1630038"",""id"":""au::15234:1"",""isCapacity"":false}",ark:/83110/x0/af70832c-be34-5ace-bd7a-f4e308bf5cdf,agent,,,,,,,,

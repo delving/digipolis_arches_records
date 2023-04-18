@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,tg:lhps:23477,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23477,https://data.letterenhuis.be/ark:/24970/c03702e0-45e3-5ccd-afba-74d7e121e5aa,Affiches,,,,
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,tg:lhps:23477,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,tg:lhps:23477,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830529,,,,,,,,,,,,,,,,,,,,
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,tg:lhps:23477,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830724,,,,,,,,,,,,,,,,,,,,
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,tg:lhps:23477,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-07-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,tg:lhps:23477,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Back tot the USA  
+Amerikanische Kunst der 70er und 80er Jahre  
+Kunstmuseum Luzern",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022822,referentienummer,False,,,,,,,,,,,,,,
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23477,brocade id,False,,,,,,,,,,,,,,
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23477/N,brocade url,False,,,,,,,,,,,,,,
+c03702e0-45e3-5ccd-afba-74d7e121e5aa,tg:lhps:23477,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ad29c8cd-4630-5650-a085-bc769816ebae"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5fbe6a26-09d4-4c07-8a15-917f0e579be8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

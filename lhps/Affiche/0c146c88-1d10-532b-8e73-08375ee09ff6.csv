@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+0c146c88-1d10-532b-8e73-08375ee09ff6,tg:lhps:24981,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24981,https://data.letterenhuis.be/ark:/24970/0c146c88-1d10-532b-8e73-08375ee09ff6,Affiches,,,,
+0c146c88-1d10-532b-8e73-08375ee09ff6,tg:lhps:24981,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+0c146c88-1d10-532b-8e73-08375ee09ff6,tg:lhps:24981,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19831104,,,,,,,,,,,,,,,,,,,,
+0c146c88-1d10-532b-8e73-08375ee09ff6,tg:lhps:24981,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19831114,,,,,,,,,,,,,,,,,,,,
+0c146c88-1d10-532b-8e73-08375ee09ff6,tg:lhps:24981,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-11-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0c146c88-1d10-532b-8e73-08375ee09ff6,tg:lhps:24981,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Musek  
+Yntse Vugts  
+Het Apollohuis",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+0c146c88-1d10-532b-8e73-08375ee09ff6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024320,referentienummer,False,,,,,,,,,,,,,,
+0c146c88-1d10-532b-8e73-08375ee09ff6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24981,brocade id,False,,,,,,,,,,,,,,
+0c146c88-1d10-532b-8e73-08375ee09ff6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24981/N,brocade url,False,,,,,,,,,,,,,,
+0c146c88-1d10-532b-8e73-08375ee09ff6,tg:lhps:24981,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""97e0597c-aa3a-5ed8-8322-cacde02c39ce"", ""ontologyProperty"": """", ""resourceXresourceId"": ""761c0a8c-bc8e-4d25-91cf-98bec90d90ef"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

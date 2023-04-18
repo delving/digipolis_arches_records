@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d5b634c0-510d-58d8-a268-76f819f29712,tg:lhps:16589,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:16589,https://data.letterenhuis.be/ark:/24970/d5b634c0-510d-58d8-a268-76f819f29712,Affiches,,,,
+d5b634c0-510d-58d8-a268-76f819f29712,tg:lhps:16589,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1984.0,2099,In Copyright
+d5b634c0-510d-58d8-a268-76f819f29712,tg:lhps:16589,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840504,,,,,,,,,,,,,,,,,,,,
+d5b634c0-510d-58d8-a268-76f819f29712,tg:lhps:16589,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840603,,,,,,,,,,,,,,,,,,,,
+d5b634c0-510d-58d8-a268-76f819f29712,tg:lhps:16589,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1984-06-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d5b634c0-510d-58d8-a268-76f819f29712,tg:lhps:16589,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Tentoonstelling uitnodiging  
+het Liers begijnhof en de Nete  
+Renaat Bosschaert  
+Schilderijen en grafiek te Lier  
+Inleiding: Anton Van Wilderode",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d5b634c0-510d-58d8-a268-76f819f29712,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000016020,referentienummer,False,,,,,,,,,,,,,,
+d5b634c0-510d-58d8-a268-76f819f29712,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:16589,brocade id,False,,,,,,,,,,,,,,
+d5b634c0-510d-58d8-a268-76f819f29712,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:16589/N,brocade url,False,,,,,,,,,,,,,,
+d5b634c0-510d-58d8-a268-76f819f29712,tg:lhps:16589,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""73a67f5e-c9f3-5673-a4e4-697ccd6520de"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3bb49ec5-9415-4f58-b73d-3fd1f02d7aed"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+d5b634c0-510d-58d8-a268-76f819f29712,tg:lhps:16589,e73_OriginalBrocade,,,au::2511,,,,lhps,,,962aee73-3a04-5824-bd1c-83e5786acbcc,kw,,au::2511:1,au::2511g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/268677"",""au::2511"",""au::2511:1"",""ark:/83110/x0/962aee73-3a04-5824-bd1c-83e5786acbcc"",""Renaat Bosschaert""],""name"":""Renaat Bosschaert"",""ark"":""ark:/83110/x0/962aee73-3a04-5824-bd1c-83e5786acbcc"",""uri"":""/agents/people/268677"",""id"":""au::2511:1"",""isCapacity"":false}",ark:/83110/x0/962aee73-3a04-5824-bd1c-83e5786acbcc,agent,,,,,,,,

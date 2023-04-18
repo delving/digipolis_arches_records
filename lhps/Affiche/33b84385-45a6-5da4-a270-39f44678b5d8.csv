@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+33b84385-45a6-5da4-a270-39f44678b5d8,tg:lhps:28846,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28846,https://data.letterenhuis.be/ark:/24970/33b84385-45a6-5da4-a270-39f44678b5d8,Affiches,,,,
+33b84385-45a6-5da4-a270-39f44678b5d8,tg:lhps:28846,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 90.15.16</p>
+","<p>Oude nummering Volkskunde: 90.15.16</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b84385-45a6-5da4-a270-39f44678b5d8,tg:lhps:28846,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1989.0,2104,In Copyright
+33b84385-45a6-5da4-a270-39f44678b5d8,tg:lhps:28846,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19891209,,,,,,,,,,,,,,,,,,,,
+33b84385-45a6-5da4-a270-39f44678b5d8,tg:lhps:28846,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19901031,,,,,,,,,,,,,,,,,,,,
+33b84385-45a6-5da4-a270-39f44678b5d8,tg:lhps:28846,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1990-10-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33b84385-45a6-5da4-a270-39f44678b5d8,tg:lhps:28846,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Freischütz und Schneewittchen  
+Schweizerisches Museum für Volkskunde",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+33b84385-45a6-5da4-a270-39f44678b5d8,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028158,referentienummer,False,,,,,,,,,,,,,,
+33b84385-45a6-5da4-a270-39f44678b5d8,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28846,brocade id,False,,,,,,,,,,,,,,
+33b84385-45a6-5da4-a270-39f44678b5d8,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28846/N,brocade url,False,,,,,,,,,,,,,,
+33b84385-45a6-5da4-a270-39f44678b5d8,tg:lhps:28846,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""da9f5b42-d000-5070-aa54-888a77599518"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3cd3deac-9a71-4f19-a044-49184f18ba01"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

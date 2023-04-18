@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+6e0db70a-b812-5632-8af0-06f9f0be21d5,tg:lhps:26462,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26462,https://data.letterenhuis.be/ark:/24970/6e0db70a-b812-5632-8af0-06f9f0be21d5,Affiches,,,,
+6e0db70a-b812-5632-8af0-06f9f0be21d5,tg:lhps:26462,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+6e0db70a-b812-5632-8af0-06f9f0be21d5,tg:lhps:26462,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810609,,,,,,,,,,,,,,,,,,,,
+6e0db70a-b812-5632-8af0-06f9f0be21d5,tg:lhps:26462,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810823,,,,,,,,,,,,,,,,,,,,
+6e0db70a-b812-5632-8af0-06f9f0be21d5,tg:lhps:26462,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-08-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6e0db70a-b812-5632-8af0-06f9f0be21d5,tg:lhps:26462,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Lithografie im Bezirk Dresden  
+Plastik im Bezirk Erfurt  
+Galerie im Cranachhaus",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+6e0db70a-b812-5632-8af0-06f9f0be21d5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025785,referentienummer,False,,,,,,,,,,,,,,
+6e0db70a-b812-5632-8af0-06f9f0be21d5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26462,brocade id,False,,,,,,,,,,,,,,
+6e0db70a-b812-5632-8af0-06f9f0be21d5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26462/N,brocade url,False,,,,,,,,,,,,,,
+6e0db70a-b812-5632-8af0-06f9f0be21d5,tg:lhps:26462,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c068b9ba-9051-547d-8a67-0b86c2b058ac"", ""ontologyProperty"": """", ""resourceXresourceId"": ""affb50da-ea42-4acf-9d9d-610d4db2d19c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

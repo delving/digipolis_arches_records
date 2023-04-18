@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+56b32ae8-bec0-566d-8054-9a12b99d58e7,tg:lhps:23453,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23453,https://data.letterenhuis.be/ark:/24970/56b32ae8-bec0-566d-8054-9a12b99d58e7,Affiches,,,,
+56b32ae8-bec0-566d-8054-9a12b99d58e7,tg:lhps:23453,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Th. Schäfer, Hannover</p>
+","<p>druk: Th. Schäfer, Hannover</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56b32ae8-bec0-566d-8054-9a12b99d58e7,tg:lhps:23453,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+56b32ae8-bec0-566d-8054-9a12b99d58e7,tg:lhps:23453,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830722,,,,,,,,,,,,,,,,,,,,
+56b32ae8-bec0-566d-8054-9a12b99d58e7,tg:lhps:23453,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830904,,,,,,,,,,,,,,,,,,,,
+56b32ae8-bec0-566d-8054-9a12b99d58e7,tg:lhps:23453,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-09-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56b32ae8-bec0-566d-8054-9a12b99d58e7,tg:lhps:23453,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"New York Now  
+Kunsthalle Düsseldorf",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+56b32ae8-bec0-566d-8054-9a12b99d58e7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022798,referentienummer,False,,,,,,,,,,,,,,
+56b32ae8-bec0-566d-8054-9a12b99d58e7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23453,brocade id,False,,,,,,,,,,,,,,
+56b32ae8-bec0-566d-8054-9a12b99d58e7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23453/N,brocade url,False,,,,,,,,,,,,,,
+56b32ae8-bec0-566d-8054-9a12b99d58e7,tg:lhps:23453,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""105e3017-def7-5bdf-8391-992de447cc25"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bbea291a-b794-445d-9c44-dbb222da0f56"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

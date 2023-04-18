@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,tg:lhps:36668,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:36668,https://data.letterenhuis.be/ark:/24970/c92b3a5f-1a05-5ba3-9169-18191c5255bc,Affiches,,,,
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,tg:lhps:36668,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Kleurenlithografie; niet gesign.</p>
+<p>pub: <em>Das frühe Plakat</em>, II, p. 270, nr. 938</p>
+<p>Affiche in 2 delen</p>
+","<p>Kleurenlithografie; niet gesign.</p>
+<p>pub: <em>Das frühe Plakat</em>, II, p. 270, nr. 938</p>
+<p>Affiche in 2 delen</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,tg:lhps:36668,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1890.0,2005,No Copyright - Public Domain Mark 1.0
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,tg:lhps:36668,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,18900000,,,,,,,,,,,,,,,,,,,,
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,tg:lhps:36668,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1890,circa,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,tg:lhps:36668,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Chemin de Fer de L'Ouest / Billets d'aller & retour / dits Bains de Mer / Paris à Trouville-Deauville / [...],descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000035835,referentienummer,False,,,,,,,,,,,,,,
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:36668,brocade id,False,,,,,,,,,,,,,,
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:36668/N,brocade url,False,,,,,,,,,,,,,,
+c92b3a5f-1a05-5ba3-9169-18191c5255bc,tg:lhps:36668,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3e7ed9f3-1375-5a76-aeec-ceed0de30803"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9407c62a-5953-4b57-b3e2-666de1072606"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

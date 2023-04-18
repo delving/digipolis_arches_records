@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+88fed8fb-c119-51f1-9c19-42b813f4f21c,tg:lhps:26663,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26663,https://data.letterenhuis.be/ark:/24970/88fed8fb-c119-51f1-9c19-42b813f4f21c,Affiches,,,,
+88fed8fb-c119-51f1-9c19-42b813f4f21c,tg:lhps:26663,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1984.0,2099,In Copyright
+88fed8fb-c119-51f1-9c19-42b813f4f21c,tg:lhps:26663,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840225,,,,,,,,,,,,,,,,,,,,
+88fed8fb-c119-51f1-9c19-42b813f4f21c,tg:lhps:26663,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840318,,,,,,,,,,,,,,,,,,,,
+88fed8fb-c119-51f1-9c19-42b813f4f21c,tg:lhps:26663,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1984-03-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88fed8fb-c119-51f1-9c19-42b813f4f21c,tg:lhps:26663,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Joan Jonas  
+He saw her burning  
+Daadgalerie",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+88fed8fb-c119-51f1-9c19-42b813f4f21c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025986,referentienummer,False,,,,,,,,,,,,,,
+88fed8fb-c119-51f1-9c19-42b813f4f21c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26663,brocade id,False,,,,,,,,,,,,,,
+88fed8fb-c119-51f1-9c19-42b813f4f21c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26663/N,brocade url,False,,,,,,,,,,,,,,
+88fed8fb-c119-51f1-9c19-42b813f4f21c,tg:lhps:26663,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2cc974cc-22ab-5046-9970-c7a377ad8adf"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ba48f9fb-e2e2-4b9f-b237-5884cd2e9f7c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

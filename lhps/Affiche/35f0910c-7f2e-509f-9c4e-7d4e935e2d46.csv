@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,tg:lhps:24346,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24346,https://data.letterenhuis.be/ark:/24970/35f0910c-7f2e-509f-9c4e-7d4e935e2d46,Affiches,,,,
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,tg:lhps:24346,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1961.0,2076,In Copyright
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,tg:lhps:24346,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19611212,,,,,,,,,,,,,,,,,,,,
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,tg:lhps:24346,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19620106,,,,,,,,,,,,,,,,,,,,
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,tg:lhps:24346,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1962-01-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,tg:lhps:24346,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Great moments of the past  
+The art of Ancient America  
+André Emmerich Gallery  
+[design: Irwin Glusker]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023688,referentienummer,False,,,,,,,,,,,,,,
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24346,brocade id,False,,,,,,,,,,,,,,
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24346/N,brocade url,False,,,,,,,,,,,,,,
+35f0910c-7f2e-509f-9c4e-7d4e935e2d46,tg:lhps:24346,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""73de4541-fbd1-5184-b25a-5556bb405b3f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2f07ed74-54b2-4a01-8d52-2f0de6c5f46a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

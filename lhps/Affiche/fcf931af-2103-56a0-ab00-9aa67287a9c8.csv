@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+fcf931af-2103-56a0-ab00-9aa67287a9c8,tg:lhps:23011,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23011,https://data.letterenhuis.be/ark:/24970/fcf931af-2103-56a0-ab00-9aa67287a9c8,Affiches,,,,
+fcf931af-2103-56a0-ab00-9aa67287a9c8,tg:lhps:23011,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Zero Siebdruck, Wuppertal</p>
+","<p>druk: Zero Siebdruck, Wuppertal</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fcf931af-2103-56a0-ab00-9aa67287a9c8,tg:lhps:23011,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+fcf931af-2103-56a0-ab00-9aa67287a9c8,tg:lhps:23011,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680204,,,,,,,,,,,,,,,,,,,,
+fcf931af-2103-56a0-ab00-9aa67287a9c8,tg:lhps:23011,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680303,,,,,,,,,,,,,,,,,,,,
+fcf931af-2103-56a0-ab00-9aa67287a9c8,tg:lhps:23011,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-03-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fcf931af-2103-56a0-ab00-9aa67287a9c8,tg:lhps:23011,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gräsel  
+Städtische Kunstgalerie Bochum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+fcf931af-2103-56a0-ab00-9aa67287a9c8,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022356,referentienummer,False,,,,,,,,,,,,,,
+fcf931af-2103-56a0-ab00-9aa67287a9c8,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23011,brocade id,False,,,,,,,,,,,,,,
+fcf931af-2103-56a0-ab00-9aa67287a9c8,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23011/N,brocade url,False,,,,,,,,,,,,,,
+fcf931af-2103-56a0-ab00-9aa67287a9c8,tg:lhps:23011,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""92efe23e-7788-5cc8-94b3-82d21fe4093c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""770eaf13-9631-4272-afc9-88cc55dbbd4a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

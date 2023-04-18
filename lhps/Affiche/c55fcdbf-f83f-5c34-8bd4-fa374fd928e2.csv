@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,tg:lhps:27282,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27282,https://data.letterenhuis.be/ark:/24970/c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,Affiches,,,,
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,tg:lhps:27282,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972.0,2087,In Copyright
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,tg:lhps:27282,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19721221,,,,,,,,,,,,,,,,,,,,
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,tg:lhps:27282,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19730115,,,,,,,,,,,,,,,,,,,,
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,tg:lhps:27282,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1973-01-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,tg:lhps:27282,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Verkeer  
+Rotterdamse Kunststichting  
+Kunstzaal Zuid",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026603,referentienummer,False,,,,,,,,,,,,,,
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27282,brocade id,False,,,,,,,,,,,,,,
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27282/N,brocade url,False,,,,,,,,,,,,,,
+c55fcdbf-f83f-5c34-8bd4-fa374fd928e2,tg:lhps:27282,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8f7bd9ce-d051-5efa-a8c7-a51a1cb64c41"", ""ontologyProperty"": """", ""resourceXresourceId"": ""971d2c10-db4b-42f2-a940-0533485ebe71"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,tg:lhps:27017,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27017,https://data.letterenhuis.be/ark:/24970/e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,Affiches,,,,
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,tg:lhps:27017,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1984.0,2099,In Copyright
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,tg:lhps:27017,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840209,,,,,,,,,,,,,,,,,,,,
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,tg:lhps:27017,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840401,,,,,,,,,,,,,,,,,,,,
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,tg:lhps:27017,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1984-04-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,tg:lhps:27017,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"American Folk Art  
+Barbican Art Gallery  
+[design: Derek Birdsall]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026339,referentienummer,False,,,,,,,,,,,,,,
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27017,brocade id,False,,,,,,,,,,,,,,
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27017/N,brocade url,False,,,,,,,,,,,,,,
+e38a172d-ee78-5f76-a1d9-b7e4ac0bd9a1,tg:lhps:27017,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""43fca219-7b3e-50a1-a852-fb6de13a4a0f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f4e50782-a76f-4564-a9f0-bc07d7452c2d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

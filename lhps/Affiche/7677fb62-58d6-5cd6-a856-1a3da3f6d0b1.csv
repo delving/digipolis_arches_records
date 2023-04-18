@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,tg:lhps:25991,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25991,https://data.letterenhuis.be/ark:/24970/7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,Affiches,,,,
+7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,tg:lhps:25991,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972.0,2087,In Copyright
+7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,tg:lhps:25991,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19720400,,,,,,,,,,,,,,,,,,,,
+7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,tg:lhps:25991,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1972-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,tg:lhps:25991,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Eyffels  
+Protean Beings  
+Images for a ""Space Cathedral"", Cape Kennedy",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025319,referentienummer,False,,,,,,,,,,,,,,
+7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25991,brocade id,False,,,,,,,,,,,,,,
+7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25991/N,brocade url,False,,,,,,,,,,,,,,
+7677fb62-58d6-5cd6-a856-1a3da3f6d0b1,tg:lhps:25991,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0dd0f5c1-0eea-50ed-8f75-5776691fbf6e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7cd126e5-5170-44a9-bc00-2e2002c6617c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

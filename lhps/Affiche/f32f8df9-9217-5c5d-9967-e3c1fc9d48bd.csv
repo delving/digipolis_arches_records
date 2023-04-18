@@ -1,0 +1,18 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,tg:lhps:23458,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23458,https://data.letterenhuis.be/ark:/24970/f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,Affiches,,,,
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,tg:lhps:23458,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Coers &amp; Roest, Arnhem</p>
+","<p>druk: Coers &amp; Roest, Arnhem</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,tg:lhps:23458,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,tg:lhps:23458,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830514,,,,,,,,,,,,,,,,,,,,
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,tg:lhps:23458,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830904,,,,,,,,,,,,,,,,,,,,
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,tg:lhps:23458,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-09-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,tg:lhps:23458,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"1. De stad in het museum  
+2. Kunstenaars en het idee van de stad  
+3. De Europese stad  
+Gemeentemuseum Arnhem  
+[Ontwerp: Wagner/Schulz]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022803,referentienummer,False,,,,,,,,,,,,,,
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23458,brocade id,False,,,,,,,,,,,,,,
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23458/N,brocade url,False,,,,,,,,,,,,,,
+f32f8df9-9217-5c5d-9967-e3c1fc9d48bd,tg:lhps:23458,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d3d8c6f1-a13c-5dcd-b820-8e6c810b13cf"", ""ontologyProperty"": """", ""resourceXresourceId"": ""16fb48ce-393b-4121-a577-9c12ee66221b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

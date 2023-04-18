@@ -1,0 +1,21 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+09b327dc-7466-5a0b-81df-c7276b6086cb,tg:lhps:12825,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:12825,https://data.letterenhuis.be/ark:/24970/09b327dc-7466-5a0b-81df-c7276b6086cb,Affiches,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,tg:lhps:12825,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright
+09b327dc-7466-5a0b-81df-c7276b6086cb,tg:lhps:12825,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19730908,,,,,,,,,,,,,,,,,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,tg:lhps:12825,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19730930,,,,,,,,,,,,,,,,,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,tg:lhps:12825,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1973-09-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,tg:lhps:12825,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"De Limburgse school  
+Coolen Duchateau  
+Hamelrijck Jans  
+Keil Mulkers  
+Sprankenis  
+Stockmans Van Den Broeck  
+Van Den Meersch  
+Van Lessen Withofs  
+ICC",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012365,referentienummer,False,,,,,,,,,,,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:12825,brocade id,False,,,,,,,,,,,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:12825/N,brocade url,False,,,,,,,,,,,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,tg:lhps:12825,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0ff2201c-dd17-57b4-a69e-c1069fb3eee8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0cb6748b-cdf9-43b2-9e33-63767bb6f584"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,tg:lhps:12825,e73_MaterialRecords,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""184d0ddd-8759-586d-92c8-5a145f22482b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1bf3d39a-79ac-4cb2-9bf4-08e40082262a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+09b327dc-7466-5a0b-81df-c7276b6086cb,tg:lhps:12825,e73_OriginalBrocade,,,au::9404,,,,lhps,,,4db910fe-44ce-59d7-adc5-772150ef4877,kw,,au::9404:1,au::9404g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1006228"",""au::9404"",""au::9404:1"",""ark:/83110/x0/4db910fe-44ce-59d7-adc5-772150ef4877"",""Internationaal Cultureel Centrum""],""name"":""Internationaal Cultureel Centrum"",""ark"":""ark:/83110/x0/4db910fe-44ce-59d7-adc5-772150ef4877"",""uri"":""/agents/corporate_entities/1006228"",""id"":""au::9404:1"",""isCapacity"":false}",ark:/83110/x0/4db910fe-44ce-59d7-adc5-772150ef4877,agent,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,tg:lhps:24146,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24146,https://data.letterenhuis.be/ark:/24970/e8fa95f9-2315-50d2-86c4-153c5e910c4b,Affiches,,,,
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,tg:lhps:24146,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1965.0,2080,In Copyright
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,tg:lhps:24146,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19650627,,,,,,,,,,,,,,,,,,,,
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,tg:lhps:24146,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19650725,,,,,,,,,,,,,,,,,,,,
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,tg:lhps:24146,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1965-07-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,tg:lhps:24146,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Leiden bestudeerd  
+Universitair Lustrum 1965  
+Stedelijk Museum De Lakenhal",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023488,referentienummer,False,,,,,,,,,,,,,,
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24146,brocade id,False,,,,,,,,,,,,,,
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24146/N,brocade url,False,,,,,,,,,,,,,,
+e8fa95f9-2315-50d2-86c4-153c5e910c4b,tg:lhps:24146,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""19940505-8176-5307-bdd3-792873a83211"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2507d0a0-3b57-43c8-b025-3393f64438f6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

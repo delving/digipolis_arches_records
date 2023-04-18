@@ -1,0 +1,18 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,tg:lhps:43433,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:43433,https://data.letterenhuis.be/ark:/24970/df6920a8-e803-5bc9-80ec-70640f1b5aa4,Affiches,,,,
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,tg:lhps:43433,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,tg:lhps:43433,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19730914,,,,,,,,,,,,,,,,,,,,
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,tg:lhps:43433,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19730916,,,,,,,,,,,,,,,,,,,,
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,tg:lhps:43433,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1973-09-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,tg:lhps:43433,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Academie voor Mineralogie  
+Cultureel Centrum Kasteel Schoten  
+Mineralia '73  
+Tentoonstelling  
+Mineralen  
+Fossielen  
+Edelstenen",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000039361,referentienummer,False,,,,,,,,,,,,,,
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:43433,brocade id,False,,,,,,,,,,,,,,
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:43433/N,brocade url,False,,,,,,,,,,,,,,
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,tg:lhps:43433,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b2f42240-3a66-5f79-80fc-8e7302decd95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""20977578-9902-4e81-83f7-4e2692d58e42"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+df6920a8-e803-5bc9-80ec-70640f1b5aa4,tg:lhps:43433,e73_OriginalBrocade,,,au::48778,,,,lhps,,,0eccb923-51da-5e18-9be8-7426edcbba13,kw,,au::48778:1,au::48778g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/5219246"",""au::48778"",""au::48778:1"",""ark:/83110/x0/0eccb923-51da-5e18-9be8-7426edcbba13"",""Cultureel Centrum Schoten""],""name"":""Cultureel Centrum Schoten"",""ark"":""ark:/83110/x0/0eccb923-51da-5e18-9be8-7426edcbba13"",""uri"":""/agents/corporate_entities/5219246"",""id"":""au::48778:1"",""isCapacity"":false}",ark:/83110/x0/0eccb923-51da-5e18-9be8-7426edcbba13,agent,,,,,,,,

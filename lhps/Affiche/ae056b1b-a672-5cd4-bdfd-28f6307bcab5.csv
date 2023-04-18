@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,tg:lhps:24403,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24403,https://data.letterenhuis.be/ark:/24970/ae056b1b-a672-5cd4-bdfd-28f6307bcab5,Affiches,,,,
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,tg:lhps:24403,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,tg:lhps:24403,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760625,,,,,,,,,,,,,,,,,,,,
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,tg:lhps:24403,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760829,,,,,,,,,,,,,,,,,,,,
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,tg:lhps:24403,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1976-08-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,tg:lhps:24403,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Herbert List  
+Photographien 1930-1970  
+Die Neue Sammlung  
+Staatliches Museum für angewandte Kunst  
+[entwurf: Gottfried v. Haeseler]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023745,referentienummer,False,,,,,,,,,,,,,,
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24403,brocade id,False,,,,,,,,,,,,,,
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24403/N,brocade url,False,,,,,,,,,,,,,,
+ae056b1b-a672-5cd4-bdfd-28f6307bcab5,tg:lhps:24403,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5bfcdad7-60ff-5557-acec-9244fa5b8637"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4badcad4-12b1-43b9-aba9-173d2f6d2ba3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

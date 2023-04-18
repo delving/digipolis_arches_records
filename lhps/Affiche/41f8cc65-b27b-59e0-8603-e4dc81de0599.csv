@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+41f8cc65-b27b-59e0-8603-e4dc81de0599,tg:lhps:44633,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:44633,https://data.letterenhuis.be/ark:/24970/41f8cc65-b27b-59e0-8603-e4dc81de0599,Affiches,,,,
+41f8cc65-b27b-59e0-8603-e4dc81de0599,tg:lhps:44633,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined
+41f8cc65-b27b-59e0-8603-e4dc81de0599,tg:lhps:44633,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Welkom op de verlichte  
+Feestavondmarkt  
+Gent Groentenmarkt  
+De Streekkrant  
+11 juli",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+41f8cc65-b27b-59e0-8603-e4dc81de0599,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000040549,referentienummer,False,,,,,,,,,,,,,,
+41f8cc65-b27b-59e0-8603-e4dc81de0599,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:44633,brocade id,False,,,,,,,,,,,,,,
+41f8cc65-b27b-59e0-8603-e4dc81de0599,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:44633/N,brocade url,False,,,,,,,,,,,,,,
+41f8cc65-b27b-59e0-8603-e4dc81de0599,tg:lhps:44633,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""56b7400c-fa83-5e90-96be-bd14cdc3b213"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fc5699f8-94f3-419d-8592-d70b25e6fa6d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+41f8cc65-b27b-59e0-8603-e4dc81de0599,tg:lhps:44633,e73_OriginalBrocade,,,au::100654,,,,lhps,,,a43ec5c9-9a52-53c3-8cfc-af6cef59a6d2,kw,,au::100654:1,au::100654g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Gent (Arrondissement Gent)"",""ark"":""ark:/83110/x0/a43ec5c9-9a52-53c3-8cfc-af6cef59a6d2"",""uri"":""/subjects/10769978"",""id"":""au::100654"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/a43ec5c9-9a52-53c3-8cfc-af6cef59a6d2,place,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+206802e7-6935-524f-9e27-de6cb8d9c22e,tg:lhps:24196,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24196,https://data.letterenhuis.be/ark:/24970/206802e7-6935-524f-9e27-de6cb8d9c22e,Affiches,,,,
+206802e7-6935-524f-9e27-de6cb8d9c22e,tg:lhps:24196,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1966.0,2081,In Copyright
+206802e7-6935-524f-9e27-de6cb8d9c22e,tg:lhps:24196,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19660600,,,,,,,,,,,,,,,,,,,,
+206802e7-6935-524f-9e27-de6cb8d9c22e,tg:lhps:24196,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19660700,,,,,,,,,,,,,,,,,,,,
+206802e7-6935-524f-9e27-de6cb8d9c22e,tg:lhps:24196,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1966-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206802e7-6935-524f-9e27-de6cb8d9c22e,tg:lhps:24196,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"E.F. Reuter Sculptures  
+A. Gattlen-Galerie  
+[Arts graphiques R. Marsens]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+206802e7-6935-524f-9e27-de6cb8d9c22e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023538,referentienummer,False,,,,,,,,,,,,,,
+206802e7-6935-524f-9e27-de6cb8d9c22e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24196,brocade id,False,,,,,,,,,,,,,,
+206802e7-6935-524f-9e27-de6cb8d9c22e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24196/N,brocade url,False,,,,,,,,,,,,,,
+206802e7-6935-524f-9e27-de6cb8d9c22e,tg:lhps:24196,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""585749af-f3e4-58d1-87b5-f72b67e57477"", ""ontologyProperty"": """", ""resourceXresourceId"": ""659c7bee-dcc6-4b1d-958a-7322d2abc2d7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

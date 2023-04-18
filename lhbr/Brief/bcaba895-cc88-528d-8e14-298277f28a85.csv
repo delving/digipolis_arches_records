@@ -1,0 +1,26 @@
+ResourceID,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,source_ire_type,Connected Subject Role,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,dataset,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+bcaba895-cc88-528d-8e14-298277f28a85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:243683,https://data.letterenhuis.be/ark:/24970/bcaba895-cc88-528d-8e14-298277f28a85,Brieven,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,note.lhalg,"<p>1 handgeschreven visitekaartje van Zenit 74, 12 handgeschreven en 4 getypte brieven.</p>
+<p>In zelfde map:<br />
+2 kopies van brieven van en voor de redactie van Tijdschrift Schuim.<br />
+Doodsbrief, doodsprentje en foto van Neer Vantina.<br />
+Handgeschreven nota van Georges van Acker over het overlijden van Neer Vantina.</p>
+","<p>1 handgeschreven visitekaartje van Zenit 74, 12 handgeschreven en 4 getypte brieven.</p>
+<p>In zelfde map:<br />
+2 kopies van brieven van en voor de redactie van Tijdschrift Schuim.<br />
+Doodsbrief, doodsprentje en foto van Neer Vantina.<br />
+Handgeschreven nota van Georges van Acker over het overlijden van Neer Vantina.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,,au::16719,,,,lhbr,ow,subjects (content of works),au::16719g:1,,"dlod={""suggest"":[""/agents/corporate_entities/1788933"",""au::16719"",""au::16719:1"",""ark:/83110/x0/4a625154-b00f-50d8-9e8f-4c15519746df"",""Schuim""],""name"":""Schuim"",""ark"":""ark:/83110/x0/4a625154-b00f-50d8-9e8f-4c15519746df"",""uri"":""/agents/corporate_entities/1788933"",""id"":""au::16719:1"",""isCapacity"":false}",ark:/83110/x0/4a625154-b00f-50d8-9e8f-4c15519746df,agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+bcaba895-cc88-528d-8e14-298277f28a85,,au::19070,,,,lhbr,bs,,au::19070g:1,,,,,lhbr,Brief,correspondents (correspondence writers),,"dlod={""suggest"":[""/agents/people/2040490"",""au::19070"",""au::19070:1"",""ark:/83110/x0/e7aa16b0-7156-5626-9245-96b6e5f91f0b"",""Neer Vantina""],""name"":""Neer Vantina"",""ark"":""ark:/83110/x0/e7aa16b0-7156-5626-9245-96b6e5f91f0b"",""uri"":""/agents/people/2040490"",""id"":""au::19070:1"",""isCapacity"":false}",ark:/83110/x0/e7aa16b0-7156-5626-9245-96b6e5f91f0b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,,au::80:1:N:RSV.1,,,,lhbr,co,,au::80g:1::RSV.1,,,,,lhbr,Brief,recipients (people),,"dlod={""suggest"":[""/agents/people/8560"",""au::80"",""au::80:1"",""ark:/83110/x0/6f366e66-ca8e-587c-8e8b-55c252226a7d"",""Georges van Acker [Redactiesecretaris van Kruispunt]""],""name"":""Georges van Acker [Redactiesecretaris van Kruispunt]"",""ark"":""ark:/83110/x0/6f366e66-ca8e-587c-8e8b-55c252226a7d"",""uri"":""/agents/people/8560"",""id"":""au::80:1"",""capacity"":""Redactiesecretaris van Kruispunt"",""isCapacity"":true,""relatorRaw"":""au::80:1::RSV.1"",""orgID"":""digipolis"",""suggestType"":""agent""}",ark:/83110/x0/6f366e66-ca8e-587c-8e8b-55c252226a7d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680502,,,,,,,,,,,,,,,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19790512,,,,,,,,,,,,,,,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,,,,,,,,,,,,,,,,,,,,1979-05-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000232659,referentienummer,False,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:243683,brocade id,False,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:243683/N,brocade url,False,,,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17 brgr,groepsbeschrijving,False,17,brgr,,,,,,,,,
+bcaba895-cc88-528d-8e14-298277f28a85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4c005782-8332-5fab-8e84-60ffd16fcae8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""cb9c6b31-0edb-4f4c-86f2-e5129cc743c3"", ""inverseOntologyProperty"": """"}]",,,,,,,,

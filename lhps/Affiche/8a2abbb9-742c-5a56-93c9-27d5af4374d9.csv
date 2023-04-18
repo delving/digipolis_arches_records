@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,tg:lhps:23355,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23355,https://data.letterenhuis.be/ark:/24970/8a2abbb9-742c-5a56-93c9-27d5af4374d9,Affiches,,,,
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,tg:lhps:23355,e73_AnnotationsImmaterial,1,note.lhalg,"<p>grafische vormgeving: Nenno de Zoete</p>
+","<p>grafische vormgeving: Nenno de Zoete</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,tg:lhps:23355,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,tg:lhps:23355,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830830,,,,,,,,,,,,,,,,,,,,
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,tg:lhps:23355,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830904,,,,,,,,,,,,,,,,,,,,
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,tg:lhps:23355,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-09-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,tg:lhps:23355,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Adriaan Nette  
+Container City  
+De Haagsche Hallen, Verblijfsruimte nr. 49",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022700,referentienummer,False,,,,,,,,,,,,,,
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23355,brocade id,False,,,,,,,,,,,,,,
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23355/N,brocade url,False,,,,,,,,,,,,,,
+8a2abbb9-742c-5a56-93c9-27d5af4374d9,tg:lhps:23355,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""467fb8a0-e8ec-5ffd-b7e3-a097d67ebf26"", ""ontologyProperty"": """", ""resourceXresourceId"": ""253151c2-e41c-4e1f-96c5-e2035a317bb3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

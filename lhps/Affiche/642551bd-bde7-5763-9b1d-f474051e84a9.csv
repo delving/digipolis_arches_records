@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+642551bd-bde7-5763-9b1d-f474051e84a9,tg:lhps:26907,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26907,https://data.letterenhuis.be/ark:/24970/642551bd-bde7-5763-9b1d-f474051e84a9,Affiches,,,,
+642551bd-bde7-5763-9b1d-f474051e84a9,tg:lhps:26907,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1964.0,2079,In Copyright
+642551bd-bde7-5763-9b1d-f474051e84a9,tg:lhps:26907,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640321,,,,,,,,,,,,,,,,,,,,
+642551bd-bde7-5763-9b1d-f474051e84a9,tg:lhps:26907,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640419,,,,,,,,,,,,,,,,,,,,
+642551bd-bde7-5763-9b1d-f474051e84a9,tg:lhps:26907,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-04-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642551bd-bde7-5763-9b1d-f474051e84a9,tg:lhps:26907,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Sengai  
+Japanischer Zenmeister 1750-1837  
+Württ. Kunstverein Stuttgart",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+642551bd-bde7-5763-9b1d-f474051e84a9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026230,referentienummer,False,,,,,,,,,,,,,,
+642551bd-bde7-5763-9b1d-f474051e84a9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26907,brocade id,False,,,,,,,,,,,,,,
+642551bd-bde7-5763-9b1d-f474051e84a9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26907/N,brocade url,False,,,,,,,,,,,,,,
+642551bd-bde7-5763-9b1d-f474051e84a9,tg:lhps:26907,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3ac81614-1224-5492-940d-f6e96c78ba45"", ""ontologyProperty"": """", ""resourceXresourceId"": ""821c8584-31f6-4631-9a05-ff9dc4334145"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+123270ea-418c-5d40-a1de-bd4f27e2d327,tg:lhps:26929,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26929,https://data.letterenhuis.be/ark:/24970/123270ea-418c-5d40-a1de-bd4f27e2d327,Affiches,,,,
+123270ea-418c-5d40-a1de-bd4f27e2d327,tg:lhps:26929,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963.0,2078,In Copyright
+123270ea-418c-5d40-a1de-bd4f27e2d327,tg:lhps:26929,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19631009,,,,,,,,,,,,,,,,,,,,
+123270ea-418c-5d40-a1de-bd4f27e2d327,tg:lhps:26929,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19631124,,,,,,,,,,,,,,,,,,,,
+123270ea-418c-5d40-a1de-bd4f27e2d327,tg:lhps:26929,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1963-11-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123270ea-418c-5d40-a1de-bd4f27e2d327,tg:lhps:26929,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Kurt Schwitters  
+Wallraf-Richartz-Museum Köln  
+[Entwurf: E. Prüssen]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+123270ea-418c-5d40-a1de-bd4f27e2d327,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026251,referentienummer,False,,,,,,,,,,,,,,
+123270ea-418c-5d40-a1de-bd4f27e2d327,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26929,brocade id,False,,,,,,,,,,,,,,
+123270ea-418c-5d40-a1de-bd4f27e2d327,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26929/N,brocade url,False,,,,,,,,,,,,,,
+123270ea-418c-5d40-a1de-bd4f27e2d327,tg:lhps:26929,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dcc017a3-6306-5dec-8558-6a3b5b06fe23"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6054d8e1-5625-475f-a751-fb591e78ad50"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

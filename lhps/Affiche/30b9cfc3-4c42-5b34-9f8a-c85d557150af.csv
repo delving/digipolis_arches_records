@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,tg:lhps:24945,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24945,https://data.letterenhuis.be/ark:/24970/30b9cfc3-4c42-5b34-9f8a-c85d557150af,Affiches,,,,
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,tg:lhps:24945,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1964.0,2079,In Copyright
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,tg:lhps:24945,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640614,,,,,,,,,,,,,,,,,,,,
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,tg:lhps:24945,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640830,,,,,,,,,,,,,,,,,,,,
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,tg:lhps:24945,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-08-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,tg:lhps:24945,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Plastik-Ausstellung  
+Schloss Mosigkau  
+[entwurf: G. Voigt]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024285,referentienummer,False,,,,,,,,,,,,,,
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24945,brocade id,False,,,,,,,,,,,,,,
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24945/N,brocade url,False,,,,,,,,,,,,,,
+30b9cfc3-4c42-5b34-9f8a-c85d557150af,tg:lhps:24945,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""559fbbbf-dbcb-5e7f-b679-aa46bfc0cc50"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9376f313-2f8c-4e31-bba5-07afe798e156"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

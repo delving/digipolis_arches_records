@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f9a24517-901a-52b8-b684-1ade1f97758f,tg:lhps:26176,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26176,https://data.letterenhuis.be/ark:/24970/f9a24517-901a-52b8-b684-1ade1f97758f,Affiches,,,,
+f9a24517-901a-52b8-b684-1ade1f97758f,tg:lhps:26176,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1985.0,2100,In Copyright
+f9a24517-901a-52b8-b684-1ade1f97758f,tg:lhps:26176,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19850208,,,,,,,,,,,,,,,,,,,,
+f9a24517-901a-52b8-b684-1ade1f97758f,tg:lhps:26176,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19850324,,,,,,,,,,,,,,,,,,,,
+f9a24517-901a-52b8-b684-1ade1f97758f,tg:lhps:26176,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1985-03-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f9a24517-901a-52b8-b684-1ade1f97758f,tg:lhps:26176,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Elisabeth Frink  
+Sculpture  
+Royal Academy of Arts",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f9a24517-901a-52b8-b684-1ade1f97758f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025502,referentienummer,False,,,,,,,,,,,,,,
+f9a24517-901a-52b8-b684-1ade1f97758f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26176,brocade id,False,,,,,,,,,,,,,,
+f9a24517-901a-52b8-b684-1ade1f97758f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26176/N,brocade url,False,,,,,,,,,,,,,,
+f9a24517-901a-52b8-b684-1ade1f97758f,tg:lhps:26176,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""de1e653f-45a6-5b77-98b7-93472e168fd0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6cd13de4-a84a-434f-8c78-f51d487bcf08"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

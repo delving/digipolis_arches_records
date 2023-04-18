@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,tg:lhps:23049,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23049,https://data.letterenhuis.be/ark:/24970/a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,Affiches,,,,
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,tg:lhps:23049,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1955.0,2070,In Copyright
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,tg:lhps:23049,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19551028,,,,,,,,,,,,,,,,,,,,
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,tg:lhps:23049,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1955-10-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,tg:lhps:23049,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Cercle Royal Artistique Anvers  
+Les spectacles Gaston Arien présentent  
+Les Grand Galas Parisiens  
+Nathalie Nattier  
+Henry Murray  
+Ludo",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022394,referentienummer,False,,,,,,,,,,,,,,
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23049,brocade id,False,,,,,,,,,,,,,,
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23049/N,brocade url,False,,,,,,,,,,,,,,
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,tg:lhps:23049,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5f265c83-a88b-570b-b927-72532616a8d8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9a6e3056-deeb-4f6a-8544-d692ae033e97"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+a87cc0c1-c1a4-5206-a4e8-beeac3bcfcd6,tg:lhps:23049,e73_OriginalBrocade,,,au::10465,,,,lhps,,,5c401a9c-07dd-5b8e-b13a-b90e44052108,kw,,au::10465:1,au::10465g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1119755"",""au::10465"",""au::10465:1"",""ark:/83110/x0/5c401a9c-07dd-5b8e-b13a-b90e44052108"",""Koninklijk Kunstverbond Antwerpen""],""name"":""Koninklijk Kunstverbond Antwerpen"",""ark"":""ark:/83110/x0/5c401a9c-07dd-5b8e-b13a-b90e44052108"",""uri"":""/agents/corporate_entities/1119755"",""id"":""au::10465:1"",""isCapacity"":false}",ark:/83110/x0/5c401a9c-07dd-5b8e-b13a-b90e44052108,agent,,,,,,,,

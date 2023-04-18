@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,tg:lhps:28848,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28848,https://data.letterenhuis.be/ark:/24970/c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,Affiches,,,,
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,tg:lhps:28848,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 90.15.19</p>
+","<p>Oude nummering Volkskunde: 90.15.19</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,tg:lhps:28848,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1990.0,2105,In Copyright
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,tg:lhps:28848,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19900330,,,,,,,,,,,,,,,,,,,,
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,tg:lhps:28848,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19900930,,,,,,,,,,,,,,,,,,,,
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,tg:lhps:28848,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1990-09-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,tg:lhps:28848,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Bouwen met dieren  
+Van koevoet tot zwaluwstaartverbinding  
+Gereedschappenverzameling J.A.M. Claassens  
+Limburgs Volkskundig Centrum Kasteel Limbricht",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028160,referentienummer,False,,,,,,,,,,,,,,
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28848,brocade id,False,,,,,,,,,,,,,,
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28848/N,brocade url,False,,,,,,,,,,,,,,
+c2c9b95b-e393-5a6c-a71d-fbd0c93f39cc,tg:lhps:28848,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""58b46e8e-049c-5bad-96d1-6f39f553e4be"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b4d7728b-3f5c-4948-bf2c-4199a5451763"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

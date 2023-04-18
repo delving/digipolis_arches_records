@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+709c0689-375f-58d4-82c2-35d88216c47b,tg:lhps:26883,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26883,https://data.letterenhuis.be/ark:/24970/709c0689-375f-58d4-82c2-35d88216c47b,Affiches,,,,
+709c0689-375f-58d4-82c2-35d88216c47b,tg:lhps:26883,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1964.0,2079,In Copyright
+709c0689-375f-58d4-82c2-35d88216c47b,tg:lhps:26883,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19641009,,,,,,,,,,,,,,,,,,,,
+709c0689-375f-58d4-82c2-35d88216c47b,tg:lhps:26883,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19641231,,,,,,,,,,,,,,,,,,,,
+709c0689-375f-58d4-82c2-35d88216c47b,tg:lhps:26883,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-12-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+709c0689-375f-58d4-82c2-35d88216c47b,tg:lhps:26883,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Illustrationen-Graphische Folgen  
+Neuerwerbungen 1955-1964  
+Kestner-Museum Hannover",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+709c0689-375f-58d4-82c2-35d88216c47b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026206,referentienummer,False,,,,,,,,,,,,,,
+709c0689-375f-58d4-82c2-35d88216c47b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26883,brocade id,False,,,,,,,,,,,,,,
+709c0689-375f-58d4-82c2-35d88216c47b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26883/N,brocade url,False,,,,,,,,,,,,,,
+709c0689-375f-58d4-82c2-35d88216c47b,tg:lhps:26883,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9105a72f-f36a-5654-a002-41ed2c979032"", ""ontologyProperty"": """", ""resourceXresourceId"": ""110ba274-def1-40de-9253-b20c3049394e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

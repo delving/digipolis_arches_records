@@ -1,0 +1,11 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:227371_#1,https://data.letterenhuis.be/ark:/24970/4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,201231/4,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,tr:lh:7767,"dlod={""name"":""Schenking van Ludo Stynen"",""ark"":""ark:/24970/x0/27168b3c-f807-5195-bccb-c0a7ce5ce42e"",""uri"":""/repositories/11/accessions/831072"",""id"":""tr:lh:7767"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/27168b3c-f807-5195-bccb-c0a7ce5ce42e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,,,kenmerken.lhtypohs,hsts,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,,,,,,,,,,,,lhbr,tr:lh:7767,tg:lhbr:227371_#1,201231/4,,Z 317 / B1,4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,,,,,,,,,,,,
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,,,kenmerken.lhtypohs,hsts,,,,,,,,,,,,,,,,,,,,,,,typewriting,,,,,,
+4cb96e68-30cd-557b-a2ed-e0ae73e7424c,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1940,permission required

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+758ce46b-053d-5710-80ad-b35e781582ad,tg:lhps:25283,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25283,https://data.letterenhuis.be/ark:/24970/758ce46b-053d-5710-80ad-b35e781582ad,Affiches,,,,
+758ce46b-053d-5710-80ad-b35e781582ad,tg:lhps:25283,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1971.0,2086,In Copyright
+758ce46b-053d-5710-80ad-b35e781582ad,tg:lhps:25283,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19711217,,,,,,,,,,,,,,,,,,,,
+758ce46b-053d-5710-80ad-b35e781582ad,tg:lhps:25283,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19720118,,,,,,,,,,,,,,,,,,,,
+758ce46b-053d-5710-80ad-b35e781582ad,tg:lhps:25283,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1972-01-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+758ce46b-053d-5710-80ad-b35e781582ad,tg:lhps:25283,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Verkade Biscuits  
+Aquarellen voor de Verkade albums  
+Kunstzaal Zuid",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+758ce46b-053d-5710-80ad-b35e781582ad,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024622,referentienummer,False,,,,,,,,,,,,,,
+758ce46b-053d-5710-80ad-b35e781582ad,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25283,brocade id,False,,,,,,,,,,,,,,
+758ce46b-053d-5710-80ad-b35e781582ad,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25283/N,brocade url,False,,,,,,,,,,,,,,
+758ce46b-053d-5710-80ad-b35e781582ad,tg:lhps:25283,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""69a6ccce-a99b-5e71-9f76-483f1582b97e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6437fc8f-d804-4e0f-a273-cfd546ef7ef4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

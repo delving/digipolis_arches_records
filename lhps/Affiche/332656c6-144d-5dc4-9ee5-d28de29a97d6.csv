@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+332656c6-144d-5dc4-9ee5-d28de29a97d6,tg:lhps:28769,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28769,https://data.letterenhuis.be/ark:/24970/332656c6-144d-5dc4-9ee5-d28de29a97d6,Affiches,,,,
+332656c6-144d-5dc4-9ee5-d28de29a97d6,tg:lhps:28769,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 2008.306.001(002)</p>
+","<p>Oude nummering Volkskunde: 2008.306.001(002)</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+332656c6-144d-5dc4-9ee5-d28de29a97d6,tg:lhps:28769,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1956.0,2071,In Copyright
+332656c6-144d-5dc4-9ee5-d28de29a97d6,tg:lhps:28769,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19560826,,,,,,,,,,,,,,,,,,,,
+332656c6-144d-5dc4-9ee5-d28de29a97d6,tg:lhps:28769,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1956-08-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+332656c6-144d-5dc4-9ee5-d28de29a97d6,tg:lhps:28769,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Beveren-Waas  
+Te 3u. Inhuldiging van de Nieuwe Centrumschool  
+Te 7,30u. Voorstelling der Folkloristische Groepen  
+Te 8u. Volksdans - Te 9,30u. Volksbal",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+332656c6-144d-5dc4-9ee5-d28de29a97d6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028081,referentienummer,False,,,,,,,,,,,,,,
+332656c6-144d-5dc4-9ee5-d28de29a97d6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28769,brocade id,False,,,,,,,,,,,,,,
+332656c6-144d-5dc4-9ee5-d28de29a97d6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28769/N,brocade url,False,,,,,,,,,,,,,,
+332656c6-144d-5dc4-9ee5-d28de29a97d6,tg:lhps:28769,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3b9a36a1-9a88-5f7c-9a22-1a2b1fa200e7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""72fba38f-58cd-4fc7-890a-e180ceff8e4c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+332656c6-144d-5dc4-9ee5-d28de29a97d6,tg:lhps:28769,e73_OriginalBrocade,,,au::100756,,,,lhps,,,8355cf39-e3ea-5c84-8760-cdbfeb5dcf35,kw,,au::100756:1,au::100756g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Beveren (Sint-Niklaas)"",""ark"":""ark:/83110/x0/8355cf39-e3ea-5c84-8760-cdbfeb5dcf35"",""uri"":""/subjects/10780892"",""id"":""au::100756"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/8355cf39-e3ea-5c84-8760-cdbfeb5dcf35,place,,,,,,,,

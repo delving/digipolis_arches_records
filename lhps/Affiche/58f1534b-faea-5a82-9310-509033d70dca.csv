@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+58f1534b-faea-5a82-9310-509033d70dca,tg:lhps:21764,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:21764,https://data.letterenhuis.be/ark:/24970/58f1534b-faea-5a82-9310-509033d70dca,Affiches,,,,
+58f1534b-faea-5a82-9310-509033d70dca,tg:lhps:21764,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+58f1534b-faea-5a82-9310-509033d70dca,tg:lhps:21764,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670122,,,,,,,,,,,,,,,,,,,,
+58f1534b-faea-5a82-9310-509033d70dca,tg:lhps:21764,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-01-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58f1534b-faea-5a82-9310-509033d70dca,tg:lhps:21764,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Jeugd Opera  
+Margot Fonteyn  
+en The Royal Ballet Londen  
+Het Zwanemeer  
+De Vuurvogel  
+Undine  
+Cinema Majestic",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+58f1534b-faea-5a82-9310-509033d70dca,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021120,referentienummer,False,,,,,,,,,,,,,,
+58f1534b-faea-5a82-9310-509033d70dca,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:21764,brocade id,False,,,,,,,,,,,,,,
+58f1534b-faea-5a82-9310-509033d70dca,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:21764/N,brocade url,False,,,,,,,,,,,,,,
+58f1534b-faea-5a82-9310-509033d70dca,tg:lhps:21764,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8e93f388-a0a9-5f13-b73b-1d40b827b5bd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e5051bbb-73c7-464d-a8a3-ce0db88bbd99"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+58f1534b-faea-5a82-9310-509033d70dca,tg:lhps:21764,e73_OriginalBrocade,,,au::9717,,,,lhps,,,57ed2ea7-afa5-51f1-bd53-c74fb8dd4f7c,kw,,au::9717:1,au::9717g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1039719"",""au::9717"",""au::9717:1"",""ark:/83110/x0/57ed2ea7-afa5-51f1-bd53-c74fb8dd4f7c"",""Jeugdopera""],""name"":""Jeugdopera"",""ark"":""ark:/83110/x0/57ed2ea7-afa5-51f1-bd53-c74fb8dd4f7c"",""uri"":""/agents/corporate_entities/1039719"",""id"":""au::9717:1"",""isCapacity"":false}",ark:/83110/x0/57ed2ea7-afa5-51f1-bd53-c74fb8dd4f7c,agent,,,,,,,,

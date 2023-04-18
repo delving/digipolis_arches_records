@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+490fbcc1-d868-5858-8d30-e0177c525020,tg:lhps:27349,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27349,https://data.letterenhuis.be/ark:/24970/490fbcc1-d868-5858-8d30-e0177c525020,Affiches,,,,
+490fbcc1-d868-5858-8d30-e0177c525020,tg:lhps:27349,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1978.0,2093,In Copyright
+490fbcc1-d868-5858-8d30-e0177c525020,tg:lhps:27349,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780319,,,,,,,,,,,,,,,,,,,,
+490fbcc1-d868-5858-8d30-e0177c525020,tg:lhps:27349,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780423,,,,,,,,,,,,,,,,,,,,
+490fbcc1-d868-5858-8d30-e0177c525020,tg:lhps:27349,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1978-04-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+490fbcc1-d868-5858-8d30-e0177c525020,tg:lhps:27349,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Heinrich Danioth und der Wettbewerb für das Bundesbriefarchiv in Schwyz  
+Kunstmuseum Luzern  
+[Gestaltung: Hans Peter Dubacher; Dora Wespi]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+490fbcc1-d868-5858-8d30-e0177c525020,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026670,referentienummer,False,,,,,,,,,,,,,,
+490fbcc1-d868-5858-8d30-e0177c525020,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27349,brocade id,False,,,,,,,,,,,,,,
+490fbcc1-d868-5858-8d30-e0177c525020,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27349/N,brocade url,False,,,,,,,,,,,,,,
+490fbcc1-d868-5858-8d30-e0177c525020,tg:lhps:27349,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7af2cdf9-eabe-5406-8598-b534efb43fbb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5fbfbace-eef9-4e19-bcd7-e3d28ef21937"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

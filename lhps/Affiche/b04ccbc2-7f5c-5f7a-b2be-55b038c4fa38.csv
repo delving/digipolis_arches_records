@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,tg:lhps:23615,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23615,https://data.letterenhuis.be/ark:/24970/b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,Affiches,,,,
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,tg:lhps:23615,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1982.0,2097,In Copyright
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,tg:lhps:23615,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820711,,,,,,,,,,,,,,,,,,,,
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,tg:lhps:23615,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820912,,,,,,,,,,,,,,,,,,,,
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,tg:lhps:23615,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1982-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,tg:lhps:23615,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Englische Plastik heute  
+Kunstmuseum Luzern  
+[gestaltung: Toni Steinemann, Philipp Clemenz]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022959,referentienummer,False,,,,,,,,,,,,,,
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23615,brocade id,False,,,,,,,,,,,,,,
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23615/N,brocade url,False,,,,,,,,,,,,,,
+b04ccbc2-7f5c-5f7a-b2be-55b038c4fa38,tg:lhps:23615,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0df7fa93-fa47-543e-a310-568644115314"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b6e07d9d-74c6-454a-be53-8ccfb8a3c648"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

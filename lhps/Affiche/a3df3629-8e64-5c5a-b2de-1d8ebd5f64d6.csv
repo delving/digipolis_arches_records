@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,tg:lhps:26386,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26386,https://data.letterenhuis.be/ark:/24970/a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,Affiches,,,,
+a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,tg:lhps:26386,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1991.0,2106,In Copyright
+a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,tg:lhps:26386,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19911116,,,,,,,,,,,,,,,,,,,,
+a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,tg:lhps:26386,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1991-11-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,tg:lhps:26386,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Wilhelm Lehmbruck Museum  
+Wiederöffnung  
+[design: Henss-Dewald und CIA]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025710,referentienummer,False,,,,,,,,,,,,,,
+a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26386,brocade id,False,,,,,,,,,,,,,,
+a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26386/N,brocade url,False,,,,,,,,,,,,,,
+a3df3629-8e64-5c5a-b2de-1d8ebd5f64d6,tg:lhps:26386,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a2506558-8612-599c-a7ce-669cb3c989d1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4d16456d-6821-4f9d-b1db-e2e0b47e9ef7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

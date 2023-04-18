@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,tg:lhps:25620,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25620,https://data.letterenhuis.be/ark:/24970/0555d3b7-22e2-53c9-a1f5-29013f56cb55,Affiches,,,,
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,tg:lhps:25620,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Druk: Wurm, Munchen</p>
+","<p>Druk: Wurm, Munchen</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,tg:lhps:25620,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1966.0,2081,In Copyright
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,tg:lhps:25620,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19660304,,,,,,,,,,,,,,,,,,,,
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,tg:lhps:25620,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19660403,,,,,,,,,,,,,,,,,,,,
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,tg:lhps:25620,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1966-04-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,tg:lhps:25620,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"11 Pop Artists  
+The New Image  
+Philip Morris International  
+Galerie Friedrich + Dahlem",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024954,referentienummer,False,,,,,,,,,,,,,,
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25620,brocade id,False,,,,,,,,,,,,,,
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25620/N,brocade url,False,,,,,,,,,,,,,,
+0555d3b7-22e2-53c9-a1f5-29013f56cb55,tg:lhps:25620,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""64ac856e-d8e8-527c-858e-9011daceaf54"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1ac2e215-7e20-45c9-b6e4-bbf01dbded88"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

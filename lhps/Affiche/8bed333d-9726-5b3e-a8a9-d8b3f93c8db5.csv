@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,tg:lhps:617,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:617,https://data.letterenhuis.be/ark:/24970/8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,Affiches,,,,
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,tg:lhps:617,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1979.0,2094,In Copyright
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,tg:lhps:617,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19791125,,,,,,,,,,,,,,,,,,,,
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,tg:lhps:617,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19791223,,,,,,,,,,,,,,,,,,,,
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,tg:lhps:617,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1979-12-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,tg:lhps:617,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Baeyens, Martin R.  
+Martin Bayens.  
+Galerie Princekouter.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000000612,referentienummer,False,,,,,,,,,,,,,,
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:617,brocade id,False,,,,,,,,,,,,,,
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:617/N,brocade url,False,,,,,,,,,,,,,,
+8bed333d-9726-5b3e-a8a9-d8b3f93c8db5,tg:lhps:617,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a825e1f9-c064-51da-b6eb-4fcceebb4531"", ""ontologyProperty"": """", ""resourceXresourceId"": ""00b7f563-f3a9-4d99-8192-051da25b6d00"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+d95e4e6e-c7bc-5358-8e87-3c2f225b78cd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:295264_#1,https://data.letterenhuis.be/ark:/24970/d95e4e6e-c7bc-5358-8e87-3c2f225b78cd,,,
+d95e4e6e-c7bc-5358-8e87-3c2f225b78cd,tr:lh:140488,"dlod={""name"":""Veiling Bernaerts juni 2017"",""ark"":""ark:/24970/x0/549165f8-d9d1-558c-b6c3-4be733d49a6f"",""uri"":""/repositories/11/accessions/15032219"",""id"":""tr:lh:140488"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/549165f8-d9d1-558c-b6c3-4be733d49a6f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d95e4e6e-c7bc-5358-8e87-3c2f225b78cd,,,,,,,,,,,,,,,lhbr,tr:lh:140488,tg:lhbr:295264_#1,,,T 493 / B,d95e4e6e-c7bc-5358-8e87-3c2f225b78cd,,,,,,,,,,,,,,,
+d95e4e6e-c7bc-5358-8e87-3c2f225b78cd,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+d95e4e6e-c7bc-5358-8e87-3c2f225b78cd,,,,,,kenmerken.lhtypebr,brpp,,,,,,,,,,,,,,,,,,,,,,,,,,,picture postcards,,
+d95e4e6e-c7bc-5358-8e87-3c2f225b78cd,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+d95e4e6e-c7bc-5358-8e87-3c2f225b78cd,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953,permission required

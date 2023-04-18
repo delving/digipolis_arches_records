@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,tg:lhps:24452,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24452,https://data.letterenhuis.be/ark:/24970/34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,Affiches,,,,
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,tg:lhps:24452,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,tg:lhps:24452,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760629,,,,,,,,,,,,,,,,,,,,
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,tg:lhps:24452,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760829,,,,,,,,,,,,,,,,,,,,
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,tg:lhps:24452,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1976-08-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,tg:lhps:24452,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Henri Laurens  
+Kunstverein für die Rheinlande und Westfalen  
+Kunsthalle Düsseldorf",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023794,referentienummer,False,,,,,,,,,,,,,,
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24452,brocade id,False,,,,,,,,,,,,,,
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24452/N,brocade url,False,,,,,,,,,,,,,,
+34b4a25c-e7d5-5cba-bbb3-30e5b5f0faf3,tg:lhps:24452,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2d3df79e-af90-5e14-9116-e4666918b638"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e30b8042-1189-4bbd-bcb8-275fac08a8bf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

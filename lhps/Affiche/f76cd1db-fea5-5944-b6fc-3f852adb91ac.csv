@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,tg:lhps:22961,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22961,https://data.letterenhuis.be/ark:/24970/f76cd1db-fea5-5944-b6fc-3f852adb91ac,Affiches,,,,
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,tg:lhps:22961,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,tg:lhps:22961,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680905,,,,,,,,,,,,,,,,,,,,
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,tg:lhps:22961,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19681020,,,,,,,,,,,,,,,,,,,,
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,tg:lhps:22961,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-10-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,tg:lhps:22961,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Marzotto Europa Preis für Malerei 1968  
+Die figurative Malerei in Europa  
+Kunsthalle Nürnberg Marientor",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022306,referentienummer,False,,,,,,,,,,,,,,
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22961,brocade id,False,,,,,,,,,,,,,,
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22961/N,brocade url,False,,,,,,,,,,,,,,
+f76cd1db-fea5-5944-b6fc-3f852adb91ac,tg:lhps:22961,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4f78898c-30f5-55b2-9f44-5ba798cfa221"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c81f8506-2227-4985-b403-9e5902ae4fbe"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

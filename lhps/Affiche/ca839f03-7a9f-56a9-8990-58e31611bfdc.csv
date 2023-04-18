@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+ca839f03-7a9f-56a9-8990-58e31611bfdc,tg:lhps:25055,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25055,https://data.letterenhuis.be/ark:/24970/ca839f03-7a9f-56a9-8990-58e31611bfdc,Affiches,,,,
+ca839f03-7a9f-56a9-8990-58e31611bfdc,tg:lhps:25055,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+ca839f03-7a9f-56a9-8990-58e31611bfdc,tg:lhps:25055,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19831014,,,,,,,,,,,,,,,,,,,,
+ca839f03-7a9f-56a9-8990-58e31611bfdc,tg:lhps:25055,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840108,,,,,,,,,,,,,,,,,,,,
+ca839f03-7a9f-56a9-8990-58e31611bfdc,tg:lhps:25055,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1984-01-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ca839f03-7a9f-56a9-8990-58e31611bfdc,tg:lhps:25055,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Spansk Egen-Art  
+23 aktuella konstnärer  
+Liljevalchs Kosthall",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+ca839f03-7a9f-56a9-8990-58e31611bfdc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024394,referentienummer,False,,,,,,,,,,,,,,
+ca839f03-7a9f-56a9-8990-58e31611bfdc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25055,brocade id,False,,,,,,,,,,,,,,
+ca839f03-7a9f-56a9-8990-58e31611bfdc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25055/N,brocade url,False,,,,,,,,,,,,,,
+ca839f03-7a9f-56a9-8990-58e31611bfdc,tg:lhps:25055,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2849feaf-3655-5a11-9dd3-42f8f6f2940b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6cd4240f-dbc0-4df6-859c-ef0702bcaf83"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

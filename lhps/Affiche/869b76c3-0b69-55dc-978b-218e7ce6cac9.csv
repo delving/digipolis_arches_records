@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+869b76c3-0b69-55dc-978b-218e7ce6cac9,tg:lhps:45524,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:45524,https://data.letterenhuis.be/ark:/24970/869b76c3-0b69-55dc-978b-218e7ce6cac9,Affiches,,,,
+869b76c3-0b69-55dc-978b-218e7ce6cac9,tg:lhps:45524,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1993.0,2108,In Copyright
+869b76c3-0b69-55dc-978b-218e7ce6cac9,tg:lhps:45524,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19931221,,,,,,,,,,,,,,,,,,,,
+869b76c3-0b69-55dc-978b-218e7ce6cac9,tg:lhps:45524,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19931223,,,,,,,,,,,,,,,,,,,,
+869b76c3-0b69-55dc-978b-218e7ce6cac9,tg:lhps:45524,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1993-12-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+869b76c3-0b69-55dc-978b-218e7ce6cac9,tg:lhps:45524,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Belga Live  
+Horace Parlan & Jack van Poll  
+Jazz '93  
+Antwerpen",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+869b76c3-0b69-55dc-978b-218e7ce6cac9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000041432,referentienummer,False,,,,,,,,,,,,,,
+869b76c3-0b69-55dc-978b-218e7ce6cac9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:45524,brocade id,False,,,,,,,,,,,,,,
+869b76c3-0b69-55dc-978b-218e7ce6cac9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:45524/N,brocade url,False,,,,,,,,,,,,,,
+869b76c3-0b69-55dc-978b-218e7ce6cac9,tg:lhps:45524,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0b618c70-03ed-590c-82fb-fbfb409e175e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d315e0e8-9714-4cb7-8299-93bff089be16"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+869b76c3-0b69-55dc-978b-218e7ce6cac9,tg:lhps:45524,e73_OriginalBrocade,,,au::9669,,,,lhps,,,62cbd44f-68c1-5084-81fd-580051d7995b,kw,,au::9669:1,au::9669g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Jazz"",""ark"":""ark:/83110/x0/62cbd44f-68c1-5084-81fd-580051d7995b"",""uri"":""/subjects/1034583"",""id"":""au::9669"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/62cbd44f-68c1-5084-81fd-580051d7995b,topic,,,,,,,,

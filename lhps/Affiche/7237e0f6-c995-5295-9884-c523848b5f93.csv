@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+7237e0f6-c995-5295-9884-c523848b5f93,tg:lhps:23240,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23240,https://data.letterenhuis.be/ark:/24970/7237e0f6-c995-5295-9884-c523848b5f93,Affiches,,,,
+7237e0f6-c995-5295-9884-c523848b5f93,tg:lhps:23240,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+7237e0f6-c995-5295-9884-c523848b5f93,tg:lhps:23240,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670604,,,,,,,,,,,,,,,,,,,,
+7237e0f6-c995-5295-9884-c523848b5f93,tg:lhps:23240,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670702,,,,,,,,,,,,,,,,,,,,
+7237e0f6-c995-5295-9884-c523848b5f93,tg:lhps:23240,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-07-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7237e0f6-c995-5295-9884-c523848b5f93,tg:lhps:23240,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"André Ficus  
+Malerei - Grafik  
+Kunstverein Konstanz Wessenberghaus",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+7237e0f6-c995-5295-9884-c523848b5f93,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022585,referentienummer,False,,,,,,,,,,,,,,
+7237e0f6-c995-5295-9884-c523848b5f93,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23240,brocade id,False,,,,,,,,,,,,,,
+7237e0f6-c995-5295-9884-c523848b5f93,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23240/N,brocade url,False,,,,,,,,,,,,,,
+7237e0f6-c995-5295-9884-c523848b5f93,tg:lhps:23240,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""80725faa-e395-5576-ae7e-f88d97aebef5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5288b818-5546-4903-a262-a30a7b2e6cf3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

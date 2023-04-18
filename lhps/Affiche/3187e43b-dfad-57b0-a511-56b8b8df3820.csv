@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+3187e43b-dfad-57b0-a511-56b8b8df3820,tg:lhps:27361,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27361,https://data.letterenhuis.be/ark:/24970/3187e43b-dfad-57b0-a511-56b8b8df3820,Affiches,,,,
+3187e43b-dfad-57b0-a511-56b8b8df3820,tg:lhps:27361,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977.0,2092,In Copyright
+3187e43b-dfad-57b0-a511-56b8b8df3820,tg:lhps:27361,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19770930,,,,,,,,,,,,,,,,,,,,
+3187e43b-dfad-57b0-a511-56b8b8df3820,tg:lhps:27361,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19771220,,,,,,,,,,,,,,,,,,,,
+3187e43b-dfad-57b0-a511-56b8b8df3820,tg:lhps:27361,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1977-12-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3187e43b-dfad-57b0-a511-56b8b8df3820,tg:lhps:27361,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Exposition des oeuvres de  
+Dezeuze - Jaccard - Meurisse - Pincemin - Viallat  
+Galerie Arta",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+3187e43b-dfad-57b0-a511-56b8b8df3820,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026682,referentienummer,False,,,,,,,,,,,,,,
+3187e43b-dfad-57b0-a511-56b8b8df3820,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27361,brocade id,False,,,,,,,,,,,,,,
+3187e43b-dfad-57b0-a511-56b8b8df3820,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27361/N,brocade url,False,,,,,,,,,,,,,,
+3187e43b-dfad-57b0-a511-56b8b8df3820,tg:lhps:27361,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b4e7947b-d9b6-53f0-8c96-02f08a4b6407"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1ec1b3c7-e0ff-40a6-a9bf-af6cbc0a9fae"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

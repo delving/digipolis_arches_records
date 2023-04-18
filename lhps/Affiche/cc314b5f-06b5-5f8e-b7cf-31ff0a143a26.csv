@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,tg:lhps:26399,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26399,https://data.letterenhuis.be/ark:/24970/cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,Affiches,,,,
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,tg:lhps:26399,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1992.0,2107,In Copyright
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,tg:lhps:26399,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920209,,,,,,,,,,,,,,,,,,,,
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,tg:lhps:26399,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920420,,,,,,,,,,,,,,,,,,,,
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,tg:lhps:26399,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1992-04-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,tg:lhps:26399,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Die Metall Werkstatt Bauhaus  
+Bauhaus-Archiv Museum für Gestaltung  
+[design: Nicolaus Ott + Bernard Stein]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025723,referentienummer,False,,,,,,,,,,,,,,
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26399,brocade id,False,,,,,,,,,,,,,,
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26399/N,brocade url,False,,,,,,,,,,,,,,
+cc314b5f-06b5-5f8e-b7cf-31ff0a143a26,tg:lhps:26399,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9eb38e4b-a792-5f22-8c13-01522871d8cb"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f361c3e8-2871-4c6b-bb27-ce46226bd9ed"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

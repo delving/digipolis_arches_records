@@ -1,0 +1,22 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:57739,https://data.letterenhuis.be/ark:/24970/60600598-470b-52af-a6a3-138ccbc03545,Affiches,,,,
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,e73_AnnotationsImmaterial,1,note.lhalg,"<ul>
+<li>Drukk. André Geers, Oostakker</li>
+<li>Clichés: Photogravure &quot;Rapid&quot; Lochristi</li>
+</ul>
+","<ul>
+<li>Drukk. André Geers, Oostakker</li>
+<li>Clichés: Photogravure &quot;Rapid&quot; Lochristi</li>
+</ul>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1953.0,2068,In Copyright
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19530217,,,,,,,,,,,,,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19530303,,,,,,,,,,,,,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1953-03-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,De voorstelling van 17 Februari zal doorgaan als Gala-avond ten voordele van de slachtoffers der overstromingen / Will Ferdy in zijn vrolijke knalrevue / Kleine Hartedief / Minardschouwburg,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000053535,referentienummer,False,,,,,,,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:57739,brocade id,False,,,,,,,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:57739/N,brocade url,False,,,,,,,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d78656ff-ef75-5742-83dd-62baaa392583"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1580cecd-3333-4cde-a283-58a158b72bb8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,e73_OriginalBrocade,,,au::6698,,,,lhps,,,b76f3fb9-5751-53d6-ac2d-9ff85970f67c,kw,,au::6698:1,au::6698g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/716686"",""au::6698"",""au::6698:1"",""ark:/83110/x0/b76f3fb9-5751-53d6-ac2d-9ff85970f67c"",""Will Ferdy""],""name"":""Will Ferdy"",""ark"":""ark:/83110/x0/b76f3fb9-5751-53d6-ac2d-9ff85970f67c"",""uri"":""/agents/people/716686"",""id"":""au::6698:1"",""isCapacity"":false}",ark:/83110/x0/b76f3fb9-5751-53d6-ac2d-9ff85970f67c,agent,,,,,,,,
+60600598-470b-52af-a6a3-138ccbc03545,tg:lhps:57739,e73_OriginalBrocade,,,au::12921,,,,lhps,,,87046370-2cfb-59a9-be22-464b7ce92f8f,kw,,au::12921:1,au::12921g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/1382547"",""au::12921"",""au::12921:1"",""ark:/83110/x0/87046370-2cfb-59a9-be22-464b7ce92f8f"",""Minardschouwburg""],""name"":""Minardschouwburg"",""ark"":""ark:/83110/x0/87046370-2cfb-59a9-be22-464b7ce92f8f"",""uri"":""/agents/corporate_entities/1382547"",""id"":""au::12921:1"",""isCapacity"":false}",ark:/83110/x0/87046370-2cfb-59a9-be22-464b7ce92f8f,agent,,,,,,,,

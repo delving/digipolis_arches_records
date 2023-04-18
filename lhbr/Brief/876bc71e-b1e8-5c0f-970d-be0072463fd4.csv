@@ -1,0 +1,10 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+876bc71e-b1e8-5c0f-970d-be0072463fd4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:227382_#1,https://data.letterenhuis.be/ark:/24970/876bc71e-b1e8-5c0f-970d-be0072463fd4,,,
+876bc71e-b1e8-5c0f-970d-be0072463fd4,,,,201231/11,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+876bc71e-b1e8-5c0f-970d-be0072463fd4,tr:lh:7767,"dlod={""name"":""Schenking van Ludo Stynen"",""ark"":""ark:/24970/x0/27168b3c-f807-5195-bccb-c0a7ce5ce42e"",""uri"":""/repositories/11/accessions/831072"",""id"":""tr:lh:7767"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/27168b3c-f807-5195-bccb-c0a7ce5ce42e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+876bc71e-b1e8-5c0f-970d-be0072463fd4,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+876bc71e-b1e8-5c0f-970d-be0072463fd4,,,,,,,,,,,,,,,lhbr,tr:lh:7767,tg:lhbr:227382_#1,201231/11,,Z 317 / B1,876bc71e-b1e8-5c0f-970d-be0072463fd4,,,,,,,,,,,,,,,
+876bc71e-b1e8-5c0f-970d-be0072463fd4,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+876bc71e-b1e8-5c0f-970d-be0072463fd4,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+876bc71e-b1e8-5c0f-970d-be0072463fd4,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+876bc71e-b1e8-5c0f-970d-be0072463fd4,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1940,permission required

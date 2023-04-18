@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+63e23592-805e-5b01-aef6-122e7ee109ee,tg:lhps:24638,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24638,https://data.letterenhuis.be/ark:/24970/63e23592-805e-5b01-aef6-122e7ee109ee,Affiches,,,,
+63e23592-805e-5b01-aef6-122e7ee109ee,tg:lhps:24638,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1980.0,2095,In Copyright
+63e23592-805e-5b01-aef6-122e7ee109ee,tg:lhps:24638,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19801129,,,,,,,,,,,,,,,,,,,,
+63e23592-805e-5b01-aef6-122e7ee109ee,tg:lhps:24638,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810125,,,,,,,,,,,,,,,,,,,,
+63e23592-805e-5b01-aef6-122e7ee109ee,tg:lhps:24638,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-01-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63e23592-805e-5b01-aef6-122e7ee109ee,tg:lhps:24638,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Italienisches Möbel Design  
+Kölnisches Stadtmuseum  
+[entwurf: Bruno Monguzzi]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+63e23592-805e-5b01-aef6-122e7ee109ee,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023979,referentienummer,False,,,,,,,,,,,,,,
+63e23592-805e-5b01-aef6-122e7ee109ee,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24638,brocade id,False,,,,,,,,,,,,,,
+63e23592-805e-5b01-aef6-122e7ee109ee,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24638/N,brocade url,False,,,,,,,,,,,,,,
+63e23592-805e-5b01-aef6-122e7ee109ee,tg:lhps:24638,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c35ac26d-18df-59e9-af68-574c3a9f1a74"", ""ontologyProperty"": """", ""resourceXresourceId"": ""33b50d1b-d888-404b-b2be-b743d3d1f4bb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

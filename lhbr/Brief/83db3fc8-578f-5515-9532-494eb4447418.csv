@@ -1,0 +1,9 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+83db3fc8-578f-5515-9532-494eb4447418,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:237675_#1,https://data.letterenhuis.be/ark:/24970/83db3fc8-578f-5515-9532-494eb4447418,,,
+83db3fc8-578f-5515-9532-494eb4447418,,,,218544/2a-c,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83db3fc8-578f-5515-9532-494eb4447418,,,,,,adm.note,"Geschenk Bart Mesotten, 19.5.2006","Geschenk Bart Mesotten, 19.5.2006",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,
+83db3fc8-578f-5515-9532-494eb4447418,,,,,,,,,,,,,,,lhbr,,tg:lhbr:237675_#1,218544/2a-c,,N 135 / B1,83db3fc8-578f-5515-9532-494eb4447418,,"Geschenk Bart Mesotten, 19.5.2006",,,remarks,Nederlands,,,,,,,,,
+83db3fc8-578f-5515-9532-494eb4447418,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+83db3fc8-578f-5515-9532-494eb4447418,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+83db3fc8-578f-5515-9532-494eb4447418,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+83db3fc8-578f-5515-9532-494eb4447418,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required

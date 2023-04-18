@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+4a8658a4-6b04-59d5-8e50-73d533bcc329,tg:lhps:23014,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23014,https://data.letterenhuis.be/ark:/24970/4a8658a4-6b04-59d5-8e50-73d533bcc329,Affiches,,,,
+4a8658a4-6b04-59d5-8e50-73d533bcc329,tg:lhps:23014,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Frank Druck, Hamburg</p>
+","<p>Frank Druck, Hamburg</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4a8658a4-6b04-59d5-8e50-73d533bcc329,tg:lhps:23014,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+4a8658a4-6b04-59d5-8e50-73d533bcc329,tg:lhps:23014,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680626,,,,,,,,,,,,,,,,,,,,
+4a8658a4-6b04-59d5-8e50-73d533bcc329,tg:lhps:23014,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680901,,,,,,,,,,,,,,,,,,,,
+4a8658a4-6b04-59d5-8e50-73d533bcc329,tg:lhps:23014,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-09-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4a8658a4-6b04-59d5-8e50-73d533bcc329,tg:lhps:23014,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Architekt Christian Frederik Hansen (1756-1845)  
+Altonaer Museum in Hamburg",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+4a8658a4-6b04-59d5-8e50-73d533bcc329,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022359,referentienummer,False,,,,,,,,,,,,,,
+4a8658a4-6b04-59d5-8e50-73d533bcc329,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23014,brocade id,False,,,,,,,,,,,,,,
+4a8658a4-6b04-59d5-8e50-73d533bcc329,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23014/N,brocade url,False,,,,,,,,,,,,,,
+4a8658a4-6b04-59d5-8e50-73d533bcc329,tg:lhps:23014,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0d39310d-5348-581b-b4b4-07f813c79b6d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""940cd018-953c-431d-9911-fd8cd72c6a7b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

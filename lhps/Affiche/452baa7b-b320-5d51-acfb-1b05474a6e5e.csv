@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+452baa7b-b320-5d51-acfb-1b05474a6e5e,tg:lhps:26320,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26320,https://data.letterenhuis.be/ark:/24970/452baa7b-b320-5d51-acfb-1b05474a6e5e,Affiches,,,,
+452baa7b-b320-5d51-acfb-1b05474a6e5e,tg:lhps:26320,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1992.0,2107,In Copyright
+452baa7b-b320-5d51-acfb-1b05474a6e5e,tg:lhps:26320,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920327,,,,,,,,,,,,,,,,,,,,
+452baa7b-b320-5d51-acfb-1b05474a6e5e,tg:lhps:26320,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920530,,,,,,,,,,,,,,,,,,,,
+452baa7b-b320-5d51-acfb-1b05474a6e5e,tg:lhps:26320,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1992-05-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+452baa7b-b320-5d51-acfb-1b05474a6e5e,tg:lhps:26320,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Starck in Wien  
+Hochschule für angewandte Kunst  
+Die Kommode center für Internationales Design",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+452baa7b-b320-5d51-acfb-1b05474a6e5e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025645,referentienummer,False,,,,,,,,,,,,,,
+452baa7b-b320-5d51-acfb-1b05474a6e5e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26320,brocade id,False,,,,,,,,,,,,,,
+452baa7b-b320-5d51-acfb-1b05474a6e5e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26320/N,brocade url,False,,,,,,,,,,,,,,
+452baa7b-b320-5d51-acfb-1b05474a6e5e,tg:lhps:26320,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c88a335c-4d51-58e9-8900-9ec5fc462d6c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9667aeab-a8dd-4cc7-a921-4f344c14cf0c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

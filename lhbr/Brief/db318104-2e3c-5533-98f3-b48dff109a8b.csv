@@ -1,0 +1,9 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+db318104-2e3c-5533-98f3-b48dff109a8b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:176457_#1,https://data.letterenhuis.be/ark:/24970/db318104-2e3c-5533-98f3-b48dff109a8b,,,
+db318104-2e3c-5533-98f3-b48dff109a8b,,,,195790/50,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+db318104-2e3c-5533-98f3-b48dff109a8b,tr:lh:7370,"dlod={""name"":""Aankoop bij Jef Meert"",""ark"":""ark:/24970/x0/4a5871e1-4323-5089-a6eb-feb87cb5b1c8"",""uri"":""/repositories/11/accessions/788593"",""id"":""tr:lh:7370"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/4a5871e1-4323-5089-a6eb-feb87cb5b1c8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+db318104-2e3c-5533-98f3-b48dff109a8b,,,,,,,,,,,,,,,lhbr,tr:lh:7370,tg:lhbr:176457_#1,195790/50,,R 616 / B1,db318104-2e3c-5533-98f3-b48dff109a8b,,,,,,,,,,,,,,,
+db318104-2e3c-5533-98f3-b48dff109a8b,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+db318104-2e3c-5533-98f3-b48dff109a8b,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+db318104-2e3c-5533-98f3-b48dff109a8b,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+db318104-2e3c-5533-98f3-b48dff109a8b,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required

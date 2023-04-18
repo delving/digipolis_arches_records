@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b0ca671f-09ce-53d0-8355-9dc3344c687d,tg:lhps:24268,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24268,https://data.letterenhuis.be/ark:/24970/b0ca671f-09ce-53d0-8355-9dc3344c687d,Affiches,,,,
+b0ca671f-09ce-53d0-8355-9dc3344c687d,tg:lhps:24268,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1965.0,2080,In Copyright
+b0ca671f-09ce-53d0-8355-9dc3344c687d,tg:lhps:24268,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19650417,,,,,,,,,,,,,,,,,,,,
+b0ca671f-09ce-53d0-8355-9dc3344c687d,tg:lhps:24268,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1965-04-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b0ca671f-09ce-53d0-8355-9dc3344c687d,tg:lhps:24268,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Rosenquist  
+Leo Castelli [Gallery]  
+[Litographie by Total Color]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b0ca671f-09ce-53d0-8355-9dc3344c687d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023610,referentienummer,False,,,,,,,,,,,,,,
+b0ca671f-09ce-53d0-8355-9dc3344c687d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24268,brocade id,False,,,,,,,,,,,,,,
+b0ca671f-09ce-53d0-8355-9dc3344c687d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24268/N,brocade url,False,,,,,,,,,,,,,,
+b0ca671f-09ce-53d0-8355-9dc3344c687d,tg:lhps:24268,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""833002cf-b4e5-5d8b-a427-256d528f7e03"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1def1fc7-3944-465f-b1d0-99093028852d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

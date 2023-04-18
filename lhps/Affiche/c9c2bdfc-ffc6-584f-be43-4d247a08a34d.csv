@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,tg:lhps:19239,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:19239,https://data.letterenhuis.be/ark:/24970/c9c2bdfc-ffc6-584f-be43-4d247a08a34d,Affiches,,,,
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,tg:lhps:19239,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1962.0,2077,In Copyright
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,tg:lhps:19239,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19620914,,,,,,,,,,,,,,,,,,,,
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,tg:lhps:19239,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1962-09-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,tg:lhps:19239,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Stad Antwerpen  
+Commissie van openbare onderstand  
+Grond te Deurne  
+Verkoop aan de Commissie van Openbare Onderstand te Deurne  
+Openbaar onderzoek",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000018619,referentienummer,False,,,,,,,,,,,,,,
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:19239,brocade id,False,,,,,,,,,,,,,,
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:19239/N,brocade url,False,,,,,,,,,,,,,,
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,tg:lhps:19239,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""da830013-bd88-5eba-b0c4-4d7b35d82e2c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3215901a-6e45-458f-8b78-22747d6527fd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+c9c2bdfc-ffc6-584f-be43-4d247a08a34d,tg:lhps:19239,e73_OriginalBrocade,,,au::100147,,,,lhps,,,ccd46476-7f11-50d0-a26c-2b09d8f2efd2,kw,,au::100147:1,au::100147g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Deurne (Antwerpen)"",""ark"":""ark:/83110/x0/ccd46476-7f11-50d0-a26c-2b09d8f2efd2"",""uri"":""/subjects/10715729"",""id"":""au::100147"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/ccd46476-7f11-50d0-a26c-2b09d8f2efd2,place,,,,,,,,

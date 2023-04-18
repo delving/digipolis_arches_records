@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b9b71a83-11d9-51ab-9431-870a40f2d358,tg:lhps:24198,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24198,https://data.letterenhuis.be/ark:/24970/b9b71a83-11d9-51ab-9431-870a40f2d358,Affiches,,,,
+b9b71a83-11d9-51ab-9431-870a40f2d358,tg:lhps:24198,e73_AnnotationsImmaterial,1,note.lhalg,"<p>ontwerp &amp; druk: Zollikofer &amp; Co</p>
+","<p>ontwerp &amp; druk: Zollikofer &amp; Co</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b9b71a83-11d9-51ab-9431-870a40f2d358,tg:lhps:24198,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1966.0,2081,In Copyright
+b9b71a83-11d9-51ab-9431-870a40f2d358,tg:lhps:24198,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19660814,,,,,,,,,,,,,,,,,,,,
+b9b71a83-11d9-51ab-9431-870a40f2d358,tg:lhps:24198,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19660925,,,,,,,,,,,,,,,,,,,,
+b9b71a83-11d9-51ab-9431-870a40f2d358,tg:lhps:24198,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1966-09-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b9b71a83-11d9-51ab-9431-870a40f2d358,tg:lhps:24198,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Zeitgenössische kunst aus dem Bodemseeraum  
+Kunstmuseum St. Gallen",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b9b71a83-11d9-51ab-9431-870a40f2d358,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023540,referentienummer,False,,,,,,,,,,,,,,
+b9b71a83-11d9-51ab-9431-870a40f2d358,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24198,brocade id,False,,,,,,,,,,,,,,
+b9b71a83-11d9-51ab-9431-870a40f2d358,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24198/N,brocade url,False,,,,,,,,,,,,,,
+b9b71a83-11d9-51ab-9431-870a40f2d358,tg:lhps:24198,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b196df67-0b2d-5386-9e8e-e428c8f7225a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""aeacbee4-1dc1-43de-989c-d8bc1790824b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

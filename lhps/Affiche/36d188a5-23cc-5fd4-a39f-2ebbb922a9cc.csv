@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,tg:lhps:29138,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29138,https://data.letterenhuis.be/ark:/24970/36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,Affiches,,,,
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,tg:lhps:29138,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 93.21.419</p>
+","<p>Oude nummering Volkskunde: 93.21.419</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,tg:lhps:29138,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1892.0,2007,No Copyright - Public Domain Mark 1.0
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,tg:lhps:29138,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,18920814,,,,,,,,,,,,,,,,,,,,
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,tg:lhps:29138,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,18920815,,,,,,,,,,,,,,,,,,,,
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,tg:lhps:29138,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1892-08-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,tg:lhps:29138,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Aangekomen en te koop gesteld  
+Eenen transport van 35 Russische poneys en paarden",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028450,referentienummer,False,,,,,,,,,,,,,,
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29138,brocade id,False,,,,,,,,,,,,,,
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29138/N,brocade url,False,,,,,,,,,,,,,,
+36d188a5-23cc-5fd4-a39f-2ebbb922a9cc,tg:lhps:29138,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f8ec21f0-e631-529e-b058-2dc12dc23f32"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6c6f9d04-54e3-4933-bb3e-e974d51819fb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,tg:lhps:24021,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24021,https://data.letterenhuis.be/ark:/24970/8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,Affiches,,,,
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,tg:lhps:24021,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977.0,2092,In Copyright
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,tg:lhps:24021,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19770703,,,,,,,,,,,,,,,,,,,,
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,tg:lhps:24021,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19771002,,,,,,,,,,,,,,,,,,,,
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,tg:lhps:24021,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1977-10-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,tg:lhps:24021,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Der Sammler Theodor Ahrenberg und das Atelier Le Rocher in Chexbres  
+15 Jahre mit Kunst und Künstlern 1960-1975  
+Kunstverein für die Rheinlande und Westfalen  
+Kunsthalle Düsseldorf",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023363,referentienummer,False,,,,,,,,,,,,,,
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24021,brocade id,False,,,,,,,,,,,,,,
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24021/N,brocade url,False,,,,,,,,,,,,,,
+8dc50cc8-cbf2-5f13-9cb5-cc2a5950f176,tg:lhps:24021,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0394151f-828f-573f-a508-636437430d1e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2758476c-a6b6-4a16-876f-a443d590ae5d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

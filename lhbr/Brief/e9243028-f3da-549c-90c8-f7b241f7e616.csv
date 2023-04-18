@@ -1,0 +1,8 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+e9243028-f3da-549c-90c8-f7b241f7e616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:214940_#1,https://data.letterenhuis.be/ark:/24970/e9243028-f3da-549c-90c8-f7b241f7e616,,,
+e9243028-f3da-549c-90c8-f7b241f7e616,,,,198571/4a-b,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e9243028-f3da-549c-90c8-f7b241f7e616,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+e9243028-f3da-549c-90c8-f7b241f7e616,,,,,,,,,,,,,,,lhbr,,tg:lhbr:214940_#1,198571/4a-b,,W 803 / B1,e9243028-f3da-549c-90c8-f7b241f7e616,,,,,,,,,,,,,,,
+e9243028-f3da-549c-90c8-f7b241f7e616,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+e9243028-f3da-549c-90c8-f7b241f7e616,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+e9243028-f3da-549c-90c8-f7b241f7e616,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1899,permission required

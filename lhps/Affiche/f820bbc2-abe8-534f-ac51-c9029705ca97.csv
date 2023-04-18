@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f820bbc2-abe8-534f-ac51-c9029705ca97,tg:lhps:22203,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22203,https://data.letterenhuis.be/ark:/24970/f820bbc2-abe8-534f-ac51-c9029705ca97,Affiches,,,,
+f820bbc2-abe8-534f-ac51-c9029705ca97,tg:lhps:22203,e73_AnnotationsImmaterial,1,note.lhalg,"<p>K. und A. Stingelin-Weisskopf Siebdruckerei, Basel</p>
+","<p>K. und A. Stingelin-Weisskopf Siebdruckerei, Basel</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f820bbc2-abe8-534f-ac51-c9029705ca97,tg:lhps:22203,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+f820bbc2-abe8-534f-ac51-c9029705ca97,tg:lhps:22203,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680925,,,,,,,,,,,,,,,,,,,,
+f820bbc2-abe8-534f-ac51-c9029705ca97,tg:lhps:22203,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19681016,,,,,,,,,,,,,,,,,,,,
+f820bbc2-abe8-534f-ac51-c9029705ca97,tg:lhps:22203,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-10-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f820bbc2-abe8-534f-ac51-c9029705ca97,tg:lhps:22203,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Tadaaki Kuwayama  
+Galerie Bischofberger",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f820bbc2-abe8-534f-ac51-c9029705ca97,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021551,referentienummer,False,,,,,,,,,,,,,,
+f820bbc2-abe8-534f-ac51-c9029705ca97,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22203,brocade id,False,,,,,,,,,,,,,,
+f820bbc2-abe8-534f-ac51-c9029705ca97,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22203/N,brocade url,False,,,,,,,,,,,,,,
+f820bbc2-abe8-534f-ac51-c9029705ca97,tg:lhps:22203,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""631216e4-8ac1-5829-8de5-097372340834"", ""ontologyProperty"": """", ""resourceXresourceId"": ""20633d59-e32e-4b76-a20e-793b2c4f48db"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

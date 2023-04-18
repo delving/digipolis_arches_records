@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d2110062-d651-5229-bbce-49b6654e409e,tg:lhps:16782,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:16782,https://data.letterenhuis.be/ark:/24970/d2110062-d651-5229-bbce-49b6654e409e,Affiches,,,,
+d2110062-d651-5229-bbce-49b6654e409e,tg:lhps:16782,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+d2110062-d651-5229-bbce-49b6654e409e,tg:lhps:16782,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19681205,,,,,,,,,,,,,,,,,,,,
+d2110062-d651-5229-bbce-49b6654e409e,tg:lhps:16782,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19681205,,,,,,,,,,,,,,,,,,,,
+d2110062-d651-5229-bbce-49b6654e409e,tg:lhps:16782,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-12-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d2110062-d651-5229-bbce-49b6654e409e,tg:lhps:16782,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Brussel  
+Humanistisch verbond  
+Afdeling Oudenaarde  
+Debatavond over het probleem Brussel  
+Taalkundig Politiek economisch aspect  
+ook U wordt verwacht",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d2110062-d651-5229-bbce-49b6654e409e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000016204,referentienummer,False,,,,,,,,,,,,,,
+d2110062-d651-5229-bbce-49b6654e409e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:16782,brocade id,False,,,,,,,,,,,,,,
+d2110062-d651-5229-bbce-49b6654e409e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:16782/N,brocade url,False,,,,,,,,,,,,,,
+d2110062-d651-5229-bbce-49b6654e409e,tg:lhps:16782,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8443f7a8-dd6f-53d6-b018-54e0e2f258da"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b703b143-ef8c-4584-9481-f70dae175561"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+d2110062-d651-5229-bbce-49b6654e409e,tg:lhps:16782,e73_OriginalBrocade,,,au::100105,,,,lhps,,,99596b2b-2b42-50f2-8ec3-d578638b6d71,kw,,au::100105:1,au::100105g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Brussel (Brussel-Hoofdstad)"",""ark"":""ark:/83110/x0/99596b2b-2b42-50f2-8ec3-d578638b6d71"",""uri"":""/subjects/10711235"",""id"":""au::100105"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/99596b2b-2b42-50f2-8ec3-d578638b6d71,place,,,,,,,,

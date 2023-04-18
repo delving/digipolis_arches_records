@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,tg:lhps:23298,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23298,https://data.letterenhuis.be/ark:/24970/c0be87ef-158d-5d1e-a43f-bf58edf92f64,Affiches,,,,
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,tg:lhps:23298,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: C. Brandt, Bonn</p>
+","<p>druk: C. Brandt, Bonn</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,tg:lhps:23298,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1966.0,2081,In Copyright
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,tg:lhps:23298,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19660000,,,,,,,,,,,,,,,,,,,,
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,tg:lhps:23298,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1966,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,tg:lhps:23298,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Städtische Kunstsammlungen Bonn,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022643,referentienummer,False,,,,,,,,,,,,,,
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23298,brocade id,False,,,,,,,,,,,,,,
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23298/N,brocade url,False,,,,,,,,,,,,,,
+c0be87ef-158d-5d1e-a43f-bf58edf92f64,tg:lhps:23298,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""75948b54-6811-527a-9de3-8b3d0ee5d5c1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""819d4a4a-49a5-4bda-83b9-838285aa4f56"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

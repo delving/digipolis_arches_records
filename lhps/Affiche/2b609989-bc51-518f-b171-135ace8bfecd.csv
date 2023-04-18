@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+2b609989-bc51-518f-b171-135ace8bfecd,tg:lhps:25101,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25101,https://data.letterenhuis.be/ark:/24970/2b609989-bc51-518f-b171-135ace8bfecd,Affiches,,,,
+2b609989-bc51-518f-b171-135ace8bfecd,tg:lhps:25101,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+2b609989-bc51-518f-b171-135ace8bfecd,tg:lhps:25101,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830301,,,,,,,,,,,,,,,,,,,,
+2b609989-bc51-518f-b171-135ace8bfecd,tg:lhps:25101,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-03-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2b609989-bc51-518f-b171-135ace8bfecd,tg:lhps:25101,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Robert Mapplethorpe 1983  
+Robert Miller Gallery, New York  
+[design: John Cheim]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+2b609989-bc51-518f-b171-135ace8bfecd,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024440,referentienummer,False,,,,,,,,,,,,,,
+2b609989-bc51-518f-b171-135ace8bfecd,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25101,brocade id,False,,,,,,,,,,,,,,
+2b609989-bc51-518f-b171-135ace8bfecd,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25101/N,brocade url,False,,,,,,,,,,,,,,
+2b609989-bc51-518f-b171-135ace8bfecd,tg:lhps:25101,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fb30a729-17a0-50a4-8ec5-0637e2ad5e6e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e5e5c741-b2a3-49e2-a7fb-f0c25a146c2a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

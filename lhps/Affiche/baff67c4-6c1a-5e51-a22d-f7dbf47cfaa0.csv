@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+baff67c4-6c1a-5e51-a22d-f7dbf47cfaa0,tg:lhps:42175,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:42175,https://data.letterenhuis.be/ark:/24970/baff67c4-6c1a-5e51-a22d-f7dbf47cfaa0,Affiches,,,,
+baff67c4-6c1a-5e51-a22d-f7dbf47cfaa0,tg:lhps:42175,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined
+baff67c4-6c1a-5e51-a22d-f7dbf47cfaa0,tg:lhps:42175,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Bachte-Maria-Leerne - Deinze  
+Een leiedorp vol beelden  
+Tentoonstelling van Beeldhouwwerken  
+uit Vlaanderen en Frans-Vlaanderen in  
+. private tuinen  
+. kasteel Ooidonk  
+. het Molenhuis",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+baff67c4-6c1a-5e51-a22d-f7dbf47cfaa0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000038127,referentienummer,False,,,,,,,,,,,,,,
+baff67c4-6c1a-5e51-a22d-f7dbf47cfaa0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:42175,brocade id,False,,,,,,,,,,,,,,
+baff67c4-6c1a-5e51-a22d-f7dbf47cfaa0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:42175/N,brocade url,False,,,,,,,,,,,,,,
+baff67c4-6c1a-5e51-a22d-f7dbf47cfaa0,tg:lhps:42175,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8b6daca8-8fda-5b4f-94aa-fb386e407b7a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1b47e780-848b-4c3d-ac82-caf43aa25bc0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+baff67c4-6c1a-5e51-a22d-f7dbf47cfaa0,tg:lhps:42175,e73_OriginalBrocade,,,au::100633,,,,lhps,,,d06caae3-effd-5903-9ddc-31e1b79f00ae,kw,,au::100633:1,au::100633g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Bachte-Maria-Leerne (Deinze)"",""ark"":""ark:/83110/x0/d06caae3-effd-5903-9ddc-31e1b79f00ae"",""uri"":""/subjects/10767731"",""id"":""au::100633"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/d06caae3-effd-5903-9ddc-31e1b79f00ae,place,,,,,,,,

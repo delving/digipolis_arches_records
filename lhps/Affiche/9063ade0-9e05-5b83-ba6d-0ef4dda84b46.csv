@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,tg:lhps:23989,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23989,https://data.letterenhuis.be/ark:/24970/9063ade0-9e05-5b83-ba6d-0ef4dda84b46,Affiches,,,,
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,tg:lhps:23989,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1978.0,2093,In Copyright
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,tg:lhps:23989,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780404,,,,,,,,,,,,,,,,,,,,
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,tg:lhps:23989,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780423,,,,,,,,,,,,,,,,,,,,
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,tg:lhps:23989,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1978-04-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,tg:lhps:23989,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"2. Duisburger Akzente  
+Goethe & Co  
+Traum und Wirklichkeit der Deutschen Klassik",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023331,referentienummer,False,,,,,,,,,,,,,,
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23989,brocade id,False,,,,,,,,,,,,,,
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23989/N,brocade url,False,,,,,,,,,,,,,,
+9063ade0-9e05-5b83-ba6d-0ef4dda84b46,tg:lhps:23989,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""12205208-3ca5-5cfd-8313-fb4546e27b50"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1c4b24a0-71c3-4744-9a47-359bcfaf2e27"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

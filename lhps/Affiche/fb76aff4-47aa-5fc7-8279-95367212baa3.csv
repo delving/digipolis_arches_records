@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+fb76aff4-47aa-5fc7-8279-95367212baa3,tg:lhps:22323,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22323,https://data.letterenhuis.be/ark:/24970/fb76aff4-47aa-5fc7-8279-95367212baa3,Affiches,,,,
+fb76aff4-47aa-5fc7-8279-95367212baa3,tg:lhps:22323,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1961.0,2076,In Copyright
+fb76aff4-47aa-5fc7-8279-95367212baa3,tg:lhps:22323,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19610613,,,,,,,,,,,,,,,,,,,,
+fb76aff4-47aa-5fc7-8279-95367212baa3,tg:lhps:22323,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19610712,,,,,,,,,,,,,,,,,,,,
+fb76aff4-47aa-5fc7-8279-95367212baa3,tg:lhps:22323,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1961-07-12,reconstructie,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fb76aff4-47aa-5fc7-8279-95367212baa3,tg:lhps:22323,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Jasper Johns  
+peintures & sculptures & dessins & litho's  
+Galerie Rive Droite",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+fb76aff4-47aa-5fc7-8279-95367212baa3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021671,referentienummer,False,,,,,,,,,,,,,,
+fb76aff4-47aa-5fc7-8279-95367212baa3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22323,brocade id,False,,,,,,,,,,,,,,
+fb76aff4-47aa-5fc7-8279-95367212baa3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22323/N,brocade url,False,,,,,,,,,,,,,,
+fb76aff4-47aa-5fc7-8279-95367212baa3,tg:lhps:22323,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""06dd063b-d5bb-5183-97ae-4305ae4c80f2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1eccf0a7-265a-4f37-b667-83de43243383"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

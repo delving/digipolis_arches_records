@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+19aec449-64dc-5e87-b187-246af16617bf,tg:lhps:36465,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:36465,https://data.letterenhuis.be/ark:/24970/19aec449-64dc-5e87-b187-246af16617bf,Affiches,,,,
+19aec449-64dc-5e87-b187-246af16617bf,tg:lhps:36465,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Kleurenlithografie; gesign. en gedat. l.o. &quot;done by Kennedy North 1923&quot;</p>
+<p>Tekst op achterzijde</p>
+","<p>Kleurenlithografie; gesign. en gedat. l.o. &quot;done by Kennedy North 1923&quot;</p>
+<p>Tekst op achterzijde</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19aec449-64dc-5e87-b187-246af16617bf,tg:lhps:36465,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1924.0,2039,In Copyright
+19aec449-64dc-5e87-b187-246af16617bf,tg:lhps:36465,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19240000,,,,,,,,,,,,,,,,,,,,
+19aec449-64dc-5e87-b187-246af16617bf,tg:lhps:36465,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19aec449-64dc-5e87-b187-246af16617bf,tg:lhps:36465,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"British Empire Exhibition 1924 / Wembley Park / April-October / Its situation described in relation tot the Railways of London / Dobson, Molle & Co, Colour Printers, Edingburgh, Liverpool & London",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+19aec449-64dc-5e87-b187-246af16617bf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000035635,referentienummer,False,,,,,,,,,,,,,,
+19aec449-64dc-5e87-b187-246af16617bf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:36465,brocade id,False,,,,,,,,,,,,,,
+19aec449-64dc-5e87-b187-246af16617bf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:36465/N,brocade url,False,,,,,,,,,,,,,,
+19aec449-64dc-5e87-b187-246af16617bf,tg:lhps:36465,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cd5965c6-c78d-5bde-83fc-f2ae1cb27d46"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5816f1db-f268-4300-9e46-787597a1f455"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

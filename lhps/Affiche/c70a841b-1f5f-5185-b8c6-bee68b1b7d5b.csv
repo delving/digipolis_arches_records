@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,tg:lhps:26454,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26454,https://data.letterenhuis.be/ark:/24970/c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,Affiches,,,,
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,tg:lhps:26454,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,tg:lhps:26454,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810719,,,,,,,,,,,,,,,,,,,,
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,tg:lhps:26454,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810913,,,,,,,,,,,,,,,,,,,,
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,tg:lhps:26454,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-09-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,tg:lhps:26454,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"3000 Jahre Glaskunst  
+Kunstmuseum Luzern  
+[Gestaltung: Steinemann-Clemenz]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025777,referentienummer,False,,,,,,,,,,,,,,
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26454,brocade id,False,,,,,,,,,,,,,,
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26454/N,brocade url,False,,,,,,,,,,,,,,
+c70a841b-1f5f-5185-b8c6-bee68b1b7d5b,tg:lhps:26454,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7aa7b649-0eee-5b26-bc5e-db5591d54969"", ""ontologyProperty"": """", ""resourceXresourceId"": ""145e509c-07e9-4548-8ccc-aad133f8674a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

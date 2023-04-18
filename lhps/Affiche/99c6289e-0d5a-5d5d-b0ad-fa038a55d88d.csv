@@ -1,0 +1,19 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,tg:lhps:13161,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:13161,https://data.letterenhuis.be/ark:/24970/99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,Affiches,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,tg:lhps:13161,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1988.0,2103,In Copyright
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,tg:lhps:13161,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19880917,,,,,,,,,,,,,,,,,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,tg:lhps:13161,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19881016,,,,,,,,,,,,,,,,,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,tg:lhps:13161,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1988-10-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,tg:lhps:13161,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"KNS  
+theater een feest  
+Woyzeck  
+bewerking en regie: Daniel Benoin  
+nederlands: Hugo Claus  
+decor: Jean-marie Poumeyrol  
+Georg Buchner",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012684,referentienummer,False,,,,,,,,,,,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:13161,brocade id,False,,,,,,,,,,,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:13161/N,brocade url,False,,,,,,,,,,,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,tg:lhps:13161,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f5efb890-1624-54bb-9717-0141b26b3add"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2decb2a5-a783-4df6-8393-83fbbf436892"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,tg:lhps:13161,e73_MaterialRecords,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ce5891c2-f9e1-52e2-b1a9-e230d6ad3376"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f0fcc3a0-30d8-42a0-8a12-338482096182"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+99c6289e-0d5a-5d5d-b0ad-fa038a55d88d,tg:lhps:13161,e73_OriginalBrocade,,,au::3953,,,,lhps,,,978afd13-1056-545c-ab83-987be846b0ad,kw,,au::3953:1,au::3953g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/422971"",""au::3953"",""au::3953:1"",""ark:/83110/x0/978afd13-1056-545c-ab83-987be846b0ad"",""Hugo Claus""],""name"":""Hugo Claus"",""ark"":""ark:/83110/x0/978afd13-1056-545c-ab83-987be846b0ad"",""uri"":""/agents/people/422971"",""id"":""au::3953:1"",""isCapacity"":false}",ark:/83110/x0/978afd13-1056-545c-ab83-987be846b0ad,agent,,,,,,,,

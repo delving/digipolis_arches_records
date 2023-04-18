@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+918dfceb-3ae7-522d-a897-c51c921526cc,tg:lhps:43731,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:43731,https://data.letterenhuis.be/ark:/24970/918dfceb-3ae7-522d-a897-c51c921526cc,Affiches,,,,
+918dfceb-3ae7-522d-a897-c51c921526cc,tg:lhps:43731,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2001.0,2116,In Copyright
+918dfceb-3ae7-522d-a897-c51c921526cc,tg:lhps:43731,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,20010114,,,,,,,,,,,,,,,,,,,,
+918dfceb-3ae7-522d-a897-c51c921526cc,tg:lhps:43731,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,2XX1-01-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+918dfceb-3ae7-522d-a897-c51c921526cc,tg:lhps:43731,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Rainer Werner Fassbinder  
+Im kleinen Leben liegt der grose Schmerz  
+Kurt Van Eeghem  
+Stijn & Steven Kolancy  
+Concertzaal CC Merksem",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+918dfceb-3ae7-522d-a897-c51c921526cc,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000039655,referentienummer,False,,,,,,,,,,,,,,
+918dfceb-3ae7-522d-a897-c51c921526cc,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:43731,brocade id,False,,,,,,,,,,,,,,
+918dfceb-3ae7-522d-a897-c51c921526cc,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:43731/N,brocade url,False,,,,,,,,,,,,,,
+918dfceb-3ae7-522d-a897-c51c921526cc,tg:lhps:43731,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""40903a11-1aa4-5af3-8594-5930aeedccff"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8162673c-fabc-4283-ab78-b3fba91cd4e8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+918dfceb-3ae7-522d-a897-c51c921526cc,tg:lhps:43731,e73_OriginalBrocade,,,au::6192,,,,lhps,,,8d68b18e-4a10-5345-8412-d1bc4ec9fc64,kw,,au::6192:1,au::6192g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/662544"",""au::6192"",""au::6192:1"",""ark:/83110/x0/8d68b18e-4a10-5345-8412-d1bc4ec9fc64"",""Kurt van Eeghem""],""name"":""Kurt van Eeghem"",""ark"":""ark:/83110/x0/8d68b18e-4a10-5345-8412-d1bc4ec9fc64"",""uri"":""/agents/people/662544"",""id"":""au::6192:1"",""isCapacity"":false}",ark:/83110/x0/8d68b18e-4a10-5345-8412-d1bc4ec9fc64,agent,,,,,,,,

@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+fa307d14-672e-58e2-8fd7-593555269553,tg:lhps:28777,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28777,https://data.letterenhuis.be/ark:/24970/fa307d14-672e-58e2-8fd7-593555269553,Affiches,,,,
+fa307d14-672e-58e2-8fd7-593555269553,tg:lhps:28777,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 93.21.101</p>
+","<p>Oude nummering Volkskunde: 93.21.101</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fa307d14-672e-58e2-8fd7-593555269553,tg:lhps:28777,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974.0,2089,In Copyright
+fa307d14-672e-58e2-8fd7-593555269553,tg:lhps:28777,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19740324,,,,,,,,,,,,,,,,,,,,
+fa307d14-672e-58e2-8fd7-593555269553,tg:lhps:28777,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1974-03-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fa307d14-672e-58e2-8fd7-593555269553,tg:lhps:28777,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Middeleeuwse Zwaarddans  
+Door de Volkdansgroep Lange Wapper",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+fa307d14-672e-58e2-8fd7-593555269553,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028089,referentienummer,False,,,,,,,,,,,,,,
+fa307d14-672e-58e2-8fd7-593555269553,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28777,brocade id,False,,,,,,,,,,,,,,
+fa307d14-672e-58e2-8fd7-593555269553,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28777/N,brocade url,False,,,,,,,,,,,,,,
+fa307d14-672e-58e2-8fd7-593555269553,tg:lhps:28777,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b5e2d228-d269-59d0-b089-697168c18d01"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fafd028d-f63f-40a6-a14b-97fec8c48c53"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

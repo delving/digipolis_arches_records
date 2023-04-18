@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,tg:lhps:26111,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26111,https://data.letterenhuis.be/ark:/24970/3ba2c241-9c1d-5d1a-b708-420bd118d74a,Affiches,,,,
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,tg:lhps:26111,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1985.0,2100,In Copyright
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,tg:lhps:26111,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19850330,,,,,,,,,,,,,,,,,,,,
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,tg:lhps:26111,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19850402,,,,,,,,,,,,,,,,,,,,
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,tg:lhps:26111,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1985-04-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,tg:lhps:26111,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Arte Fiera 85  
+Mostra Mercato d'Arte Contemporanea  
+[design: G. Lanzi]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025437,referentienummer,False,,,,,,,,,,,,,,
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26111,brocade id,False,,,,,,,,,,,,,,
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26111/N,brocade url,False,,,,,,,,,,,,,,
+3ba2c241-9c1d-5d1a-b708-420bd118d74a,tg:lhps:26111,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""724f96a2-d3bf-587e-acad-adf473d46135"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c5390d0d-4f40-4be2-8b1a-3cdb9ebd54c8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

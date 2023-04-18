@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+aafb2d33-bf4b-55ae-a038-f8985109968c,tg:lhps:26075,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26075,https://data.letterenhuis.be/ark:/24970/aafb2d33-bf4b-55ae-a038-f8985109968c,Affiches,,,,
+aafb2d33-bf4b-55ae-a038-f8985109968c,tg:lhps:26075,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+aafb2d33-bf4b-55ae-a038-f8985109968c,tg:lhps:26075,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670902,,,,,,,,,,,,,,,,,,,,
+aafb2d33-bf4b-55ae-a038-f8985109968c,tg:lhps:26075,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670922,,,,,,,,,,,,,,,,,,,,
+aafb2d33-bf4b-55ae-a038-f8985109968c,tg:lhps:26075,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-09-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aafb2d33-bf4b-55ae-a038-f8985109968c,tg:lhps:26075,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Elffers  
+Chris en Ariane Beelden  
+De Doelen",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+aafb2d33-bf4b-55ae-a038-f8985109968c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025402,referentienummer,False,,,,,,,,,,,,,,
+aafb2d33-bf4b-55ae-a038-f8985109968c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26075,brocade id,False,,,,,,,,,,,,,,
+aafb2d33-bf4b-55ae-a038-f8985109968c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26075/N,brocade url,False,,,,,,,,,,,,,,
+aafb2d33-bf4b-55ae-a038-f8985109968c,tg:lhps:26075,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6df64043-ee7d-5fef-993e-22caf6eb5188"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6452ead6-d68b-41ab-88dc-673fd1296787"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

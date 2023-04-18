@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+795ba289-8139-550a-8243-582f468a5c5a,tg:lhps:23782,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23782,https://data.letterenhuis.be/ark:/24970/795ba289-8139-550a-8243-582f468a5c5a,Affiches,,,,
+795ba289-8139-550a-8243-582f468a5c5a,tg:lhps:23782,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Kemink, Utrecht</p>
+","<p>druk: Kemink, Utrecht</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+795ba289-8139-550a-8243-582f468a5c5a,tg:lhps:23782,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+795ba289-8139-550a-8243-582f468a5c5a,tg:lhps:23782,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19671216,,,,,,,,,,,,,,,,,,,,
+795ba289-8139-550a-8243-582f468a5c5a,tg:lhps:23782,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680303,,,,,,,,,,,,,,,,,,,,
+795ba289-8139-550a-8243-582f468a5c5a,tg:lhps:23782,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-03-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+795ba289-8139-550a-8243-582f468a5c5a,tg:lhps:23782,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Joep Nicolas, glazenier  
+Centraal Museum Utrecht",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+795ba289-8139-550a-8243-582f468a5c5a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023124,referentienummer,False,,,,,,,,,,,,,,
+795ba289-8139-550a-8243-582f468a5c5a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23782,brocade id,False,,,,,,,,,,,,,,
+795ba289-8139-550a-8243-582f468a5c5a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23782/N,brocade url,False,,,,,,,,,,,,,,
+795ba289-8139-550a-8243-582f468a5c5a,tg:lhps:23782,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5704847a-0f59-5970-b298-a6b56dfd1607"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d22d0c50-187c-46d2-a5e4-5608bcf52b09"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+5f446bb8-1a71-5bac-9442-3173406de08e,tg:lhps:25882,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25882,https://data.letterenhuis.be/ark:/24970/5f446bb8-1a71-5bac-9442-3173406de08e,Affiches,,,,
+5f446bb8-1a71-5bac-9442-3173406de08e,tg:lhps:25882,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1960.0,2075,In Copyright
+5f446bb8-1a71-5bac-9442-3173406de08e,tg:lhps:25882,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19601100,,,,,,,,,,,,,,,,,,,,
+5f446bb8-1a71-5bac-9442-3173406de08e,tg:lhps:25882,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19601200,,,,,,,,,,,,,,,,,,,,
+5f446bb8-1a71-5bac-9442-3173406de08e,tg:lhps:25882,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1960-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5f446bb8-1a71-5bac-9442-3173406de08e,tg:lhps:25882,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Sonja Niels  
+Hennie Onstad Collection  
+Kunstnernes Hus",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+5f446bb8-1a71-5bac-9442-3173406de08e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025213,referentienummer,False,,,,,,,,,,,,,,
+5f446bb8-1a71-5bac-9442-3173406de08e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25882,brocade id,False,,,,,,,,,,,,,,
+5f446bb8-1a71-5bac-9442-3173406de08e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25882/N,brocade url,False,,,,,,,,,,,,,,
+5f446bb8-1a71-5bac-9442-3173406de08e,tg:lhps:25882,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""db659676-e03f-5be2-9f5c-ab444daf86fa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c71b9aec-67fe-44d0-becc-959ee40fac35"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

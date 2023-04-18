@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+19ce4a90-5b70-5bc2-9282-5e33797c8b48,tg:lhps:23556,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23556,https://data.letterenhuis.be/ark:/24970/19ce4a90-5b70-5bc2-9282-5e33797c8b48,Affiches,,,,
+19ce4a90-5b70-5bc2-9282-5e33797c8b48,tg:lhps:23556,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1982.0,2097,In Copyright
+19ce4a90-5b70-5bc2-9282-5e33797c8b48,tg:lhps:23556,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820607,,,,,,,,,,,,,,,,,,,,
+19ce4a90-5b70-5bc2-9282-5e33797c8b48,tg:lhps:23556,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1982-06-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19ce4a90-5b70-5bc2-9282-5e33797c8b48,tg:lhps:23556,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Madonna  
+Rae Johnson Paintings 80-82  
+Mercer Union",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+19ce4a90-5b70-5bc2-9282-5e33797c8b48,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022900,referentienummer,False,,,,,,,,,,,,,,
+19ce4a90-5b70-5bc2-9282-5e33797c8b48,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23556,brocade id,False,,,,,,,,,,,,,,
+19ce4a90-5b70-5bc2-9282-5e33797c8b48,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23556/N,brocade url,False,,,,,,,,,,,,,,
+19ce4a90-5b70-5bc2-9282-5e33797c8b48,tg:lhps:23556,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5da397a0-fabf-50df-afdc-22a32a29b525"", ""ontologyProperty"": """", ""resourceXresourceId"": ""10ed3a31-bf33-4b15-933e-5a763da103d5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

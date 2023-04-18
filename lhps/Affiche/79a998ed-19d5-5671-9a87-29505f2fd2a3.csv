@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+79a998ed-19d5-5671-9a87-29505f2fd2a3,tg:lhps:18785,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:18785,https://data.letterenhuis.be/ark:/24970/79a998ed-19d5-5671-9a87-29505f2fd2a3,Affiches,,,,
+79a998ed-19d5-5671-9a87-29505f2fd2a3,tg:lhps:18785,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1992.0,2107,In Copyright
+79a998ed-19d5-5671-9a87-29505f2fd2a3,tg:lhps:18785,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920729,,,,,,,,,,,,,,,,,,,,
+79a998ed-19d5-5671-9a87-29505f2fd2a3,tg:lhps:18785,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1992-07-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79a998ed-19d5-5671-9a87-29505f2fd2a3,tg:lhps:18785,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Aan de oevers van de Wolga.  
+Solist: Oleg Jewsewsky, Kiev  
+Direktie: Alexander Petrow  
+Wolga Kosaken  
+Casino Oostende",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+79a998ed-19d5-5671-9a87-29505f2fd2a3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000018167,referentienummer,False,,,,,,,,,,,,,,
+79a998ed-19d5-5671-9a87-29505f2fd2a3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:18785,brocade id,False,,,,,,,,,,,,,,
+79a998ed-19d5-5671-9a87-29505f2fd2a3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:18785/N,brocade url,False,,,,,,,,,,,,,,
+79a998ed-19d5-5671-9a87-29505f2fd2a3,tg:lhps:18785,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f7117364-534d-548c-a4f3-7a4cf1b1cf6c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""54dabd76-2b14-45a7-b70e-f1ae264b9e55"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+79a998ed-19d5-5671-9a87-29505f2fd2a3,tg:lhps:18785,e73_OriginalBrocade,,,au::3601,,,,lhps,,,b4c3520d-5856-57ac-af15-6af52524c39e,kw,,au::3601:1,au::3601g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/385307"",""au::3601"",""au::3601:1"",""ark:/83110/x0/b4c3520d-5856-57ac-af15-6af52524c39e"",""Casino Oostende""],""name"":""Casino Oostende"",""ark"":""ark:/83110/x0/b4c3520d-5856-57ac-af15-6af52524c39e"",""uri"":""/agents/corporate_entities/385307"",""id"":""au::3601:1"",""isCapacity"":false}",ark:/83110/x0/b4c3520d-5856-57ac-af15-6af52524c39e,agent,,,,,,,,

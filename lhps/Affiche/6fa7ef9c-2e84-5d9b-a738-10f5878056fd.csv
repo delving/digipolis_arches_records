@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,tg:lhps:24020,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24020,https://data.letterenhuis.be/ark:/24970/6fa7ef9c-2e84-5d9b-a738-10f5878056fd,Affiches,,,,
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,tg:lhps:24020,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Peter Keuck, Straelen</p>
+","<p>druk: Peter Keuck, Straelen</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,tg:lhps:24020,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977.0,2092,In Copyright
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,tg:lhps:24020,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19770703,,,,,,,,,,,,,,,,,,,,
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,tg:lhps:24020,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19771002,,,,,,,,,,,,,,,,,,,,
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,tg:lhps:24020,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1977-10-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,tg:lhps:24020,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Schlüssel, Schlösser und Beschläge  
+Museum für niederrheinische Volkskunde",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023362,referentienummer,False,,,,,,,,,,,,,,
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24020,brocade id,False,,,,,,,,,,,,,,
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24020/N,brocade url,False,,,,,,,,,,,,,,
+6fa7ef9c-2e84-5d9b-a738-10f5878056fd,tg:lhps:24020,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""19ab4458-102f-5159-b8bd-99eba5aa924d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d4b83c13-012a-481e-b2ad-d9c360eec12c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,tg:lhps:24961,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24961,https://data.letterenhuis.be/ark:/24970/839c3dfb-549f-53fb-ab31-23da1a0a50a1,Affiches,,,,
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,tg:lhps:24961,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,tg:lhps:24961,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810905,,,,,,,,,,,,,,,,,,,,
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,tg:lhps:24961,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19811008,,,,,,,,,,,,,,,,,,,,
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,tg:lhps:24961,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-10-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,tg:lhps:24961,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Fredrik Magnus Piper  
+och den romantiska parken  
+Konstakademien",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024301,referentienummer,False,,,,,,,,,,,,,,
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24961,brocade id,False,,,,,,,,,,,,,,
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24961/N,brocade url,False,,,,,,,,,,,,,,
+839c3dfb-549f-53fb-ab31-23da1a0a50a1,tg:lhps:24961,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0c8897a1-08e6-5bd1-8d92-349d66bd7601"", ""ontologyProperty"": """", ""resourceXresourceId"": ""45df08d4-1e18-49a3-baf4-fe15bec8d928"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

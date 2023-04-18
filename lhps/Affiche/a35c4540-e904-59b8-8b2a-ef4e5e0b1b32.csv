@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,tg:lhps:27022,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27022,https://data.letterenhuis.be/ark:/24970/a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,Affiches,,,,
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,tg:lhps:27022,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1984.0,2099,In Copyright
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,tg:lhps:27022,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840112,,,,,,,,,,,,,,,,,,,,
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,tg:lhps:27022,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840219,,,,,,,,,,,,,,,,,,,,
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,tg:lhps:27022,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1984-02-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,tg:lhps:27022,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Die Architektur von Richard Neutra  
+Bauhaus Archiv-Museum für Gestaltung  
+[Gestaltung: Nicolaus Ott + Bernard Stein]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026344,referentienummer,False,,,,,,,,,,,,,,
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27022,brocade id,False,,,,,,,,,,,,,,
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27022/N,brocade url,False,,,,,,,,,,,,,,
+a35c4540-e904-59b8-8b2a-ef4e5e0b1b32,tg:lhps:27022,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c2ba0dfb-7873-5963-b495-b8b86f7d5959"", ""ontologyProperty"": """", ""resourceXresourceId"": ""82061f4e-74ee-46c8-924c-2e4c80b1eee3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

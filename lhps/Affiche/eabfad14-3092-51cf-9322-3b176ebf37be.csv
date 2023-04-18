@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+eabfad14-3092-51cf-9322-3b176ebf37be,tg:lhps:23861,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23861,https://data.letterenhuis.be/ark:/24970/eabfad14-3092-51cf-9322-3b176ebf37be,Affiches,,,,
+eabfad14-3092-51cf-9322-3b176ebf37be,tg:lhps:23861,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977.0,2092,In Copyright
+eabfad14-3092-51cf-9322-3b176ebf37be,tg:lhps:23861,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19770909,,,,,,,,,,,,,,,,,,,,
+eabfad14-3092-51cf-9322-3b176ebf37be,tg:lhps:23861,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19771113,,,,,,,,,,,,,,,,,,,,
+eabfad14-3092-51cf-9322-3b176ebf37be,tg:lhps:23861,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1977-11-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eabfad14-3092-51cf-9322-3b176ebf37be,tg:lhps:23861,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Michael Schwarze  
+Skulpturen, Zeichnungen 1967-1977  
+Kunstverein für die Rheinlande und Westfalen  
+Kunsthalle Düsseldorf",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+eabfad14-3092-51cf-9322-3b176ebf37be,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023203,referentienummer,False,,,,,,,,,,,,,,
+eabfad14-3092-51cf-9322-3b176ebf37be,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23861,brocade id,False,,,,,,,,,,,,,,
+eabfad14-3092-51cf-9322-3b176ebf37be,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23861/N,brocade url,False,,,,,,,,,,,,,,
+eabfad14-3092-51cf-9322-3b176ebf37be,tg:lhps:23861,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e9e07342-36b6-5960-a9ac-2037d319d96d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c60a7524-39ef-4428-9f99-9c29807aac54"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

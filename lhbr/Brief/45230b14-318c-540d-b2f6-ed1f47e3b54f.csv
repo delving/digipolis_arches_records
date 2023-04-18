@@ -1,0 +1,9 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+45230b14-318c-540d-b2f6-ed1f47e3b54f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:182161_#1,https://data.letterenhuis.be/ark:/24970/45230b14-318c-540d-b2f6-ed1f47e3b54f,,,
+45230b14-318c-540d-b2f6-ed1f47e3b54f,,,,168608/a-d,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45230b14-318c-540d-b2f6-ed1f47e3b54f,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+45230b14-318c-540d-b2f6-ed1f47e3b54f,,,,,,,,,,,,,,,lhbr,,tg:lhbr:182161_#1,168608/a-d,,GG 127 / B1,45230b14-318c-540d-b2f6-ed1f47e3b54f,,,,,,,,,,,,,,,
+45230b14-318c-540d-b2f6-ed1f47e3b54f,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+45230b14-318c-540d-b2f6-ed1f47e3b54f,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+45230b14-318c-540d-b2f6-ed1f47e3b54f,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+45230b14-318c-540d-b2f6-ed1f47e3b54f,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1846,open

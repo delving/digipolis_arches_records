@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,tg:lhps:25298,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25298,https://data.letterenhuis.be/ark:/24970/d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,Affiches,,,,
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,tg:lhps:25298,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1971.0,2086,In Copyright
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,tg:lhps:25298,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19710807,,,,,,,,,,,,,,,,,,,,
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,tg:lhps:25298,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19710927,,,,,,,,,,,,,,,,,,,,
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,tg:lhps:25298,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1971-09-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,tg:lhps:25298,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Meer dan 400 Rotterdamse kunstenaars tonen en verkopen hun werk  
+Lijnbaancentrum  
+Rotterdamse Kunststichting",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024637,referentienummer,False,,,,,,,,,,,,,,
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25298,brocade id,False,,,,,,,,,,,,,,
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25298/N,brocade url,False,,,,,,,,,,,,,,
+d91525a6-b9d1-5f8a-b0fa-4a2022c7820f,tg:lhps:25298,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d7edb527-ca3e-5c82-afe3-f4df89d7b3f9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0570b8c2-1791-4023-bb2d-528de6201599"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

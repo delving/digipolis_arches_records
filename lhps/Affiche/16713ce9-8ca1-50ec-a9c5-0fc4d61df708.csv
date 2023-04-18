@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,tg:lhps:27245,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27245,https://data.letterenhuis.be/ark:/24970/16713ce9-8ca1-50ec-a9c5-0fc4d61df708,Affiches,,,,
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,tg:lhps:27245,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972.0,2087,In Copyright
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,tg:lhps:27245,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19720212,,,,,,,,,,,,,,,,,,,,
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,tg:lhps:27245,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19720312,,,,,,,,,,,,,,,,,,,,
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,tg:lhps:27245,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1972-03-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,tg:lhps:27245,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"[.?.] London WC 2  
+Aargauer Kunsthaus  
+[ontwerp: Georg Stark/Heidy Widmer]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026566,referentienummer,False,,,,,,,,,,,,,,
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27245,brocade id,False,,,,,,,,,,,,,,
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27245/N,brocade url,False,,,,,,,,,,,,,,
+16713ce9-8ca1-50ec-a9c5-0fc4d61df708,tg:lhps:27245,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fb4481a2-a33e-5caa-8e0d-96ea929c412d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""95144541-cae9-437e-a877-d04362f3b953"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

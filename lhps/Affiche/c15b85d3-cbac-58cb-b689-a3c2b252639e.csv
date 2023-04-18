@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c15b85d3-cbac-58cb-b689-a3c2b252639e,tg:lhps:24261,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24261,https://data.letterenhuis.be/ark:/24970/c15b85d3-cbac-58cb-b689-a3c2b252639e,Affiches,,,,
+c15b85d3-cbac-58cb-b689-a3c2b252639e,tg:lhps:24261,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963.0,2078,In Copyright
+c15b85d3-cbac-58cb-b689-a3c2b252639e,tg:lhps:24261,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19630518,,,,,,,,,,,,,,,,,,,,
+c15b85d3-cbac-58cb-b689-a3c2b252639e,tg:lhps:24261,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1963-05-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c15b85d3-cbac-58cb-b689-a3c2b252639e,tg:lhps:24261,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Drawings  
+Leo Castelli [Gallery]  
+[Tekening: Roy Lichtenstein]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c15b85d3-cbac-58cb-b689-a3c2b252639e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023603,referentienummer,False,,,,,,,,,,,,,,
+c15b85d3-cbac-58cb-b689-a3c2b252639e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24261,brocade id,False,,,,,,,,,,,,,,
+c15b85d3-cbac-58cb-b689-a3c2b252639e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24261/N,brocade url,False,,,,,,,,,,,,,,
+c15b85d3-cbac-58cb-b689-a3c2b252639e,tg:lhps:24261,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6efa4349-e414-5b26-ab61-69d3ec131998"", ""ontologyProperty"": """", ""resourceXresourceId"": ""da029cd0-745b-41f1-a98d-8efbc71eba12"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

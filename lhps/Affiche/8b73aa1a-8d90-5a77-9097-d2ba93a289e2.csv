@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,tg:lhps:13067,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:13067,https://data.letterenhuis.be/ark:/24970/8b73aa1a-8d90-5a77-9097-d2ba93a289e2,Affiches,,,,
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,tg:lhps:13067,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,tg:lhps:13067,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810206,,,,,,,,,,,,,,,,,,,,
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,tg:lhps:13067,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810301,,,,,,,,,,,,,,,,,,,,
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,tg:lhps:13067,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-03-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,tg:lhps:13067,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"CCH  
+ik, gij,wij  
+Vincent Gyselinck",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012594,referentienummer,False,,,,,,,,,,,,,,
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:13067,brocade id,False,,,,,,,,,,,,,,
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:13067/N,brocade url,False,,,,,,,,,,,,,,
+8b73aa1a-8d90-5a77-9097-d2ba93a289e2,tg:lhps:13067,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8a9bbb8b-4295-5dce-be92-96c66020886f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3f29978f-b755-4210-b430-70b8a7476ea5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

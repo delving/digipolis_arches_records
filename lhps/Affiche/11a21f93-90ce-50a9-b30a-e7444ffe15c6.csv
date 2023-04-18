@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,tg:lhps:24365,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24365,https://data.letterenhuis.be/ark:/24970/11a21f93-90ce-50a9-b30a-e7444ffe15c6,Affiches,,,,
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,tg:lhps:24365,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974.0,2089,In Copyright
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,tg:lhps:24365,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19740410,,,,,,,,,,,,,,,,,,,,
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,tg:lhps:24365,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19740728,,,,,,,,,,,,,,,,,,,,
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,tg:lhps:24365,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1974-07-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,tg:lhps:24365,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Französische Keramik des Fin de Siècle  
+Sammlung Heuser, Hamburg  
+Kunstgewerbemuseum Köln",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023707,referentienummer,False,,,,,,,,,,,,,,
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24365,brocade id,False,,,,,,,,,,,,,,
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24365/N,brocade url,False,,,,,,,,,,,,,,
+11a21f93-90ce-50a9-b30a-e7444ffe15c6,tg:lhps:24365,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ca4d93f9-3fa9-5f3d-847b-94193d936dc7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d0b5886e-af1b-4d4e-8ad6-3ea2cd5db43e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

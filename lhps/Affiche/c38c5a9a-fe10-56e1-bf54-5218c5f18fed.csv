@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,tg:lhps:25040,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25040,https://data.letterenhuis.be/ark:/24970/c38c5a9a-fe10-56e1-bf54-5218c5f18fed,Affiches,,,,
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,tg:lhps:25040,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,tg:lhps:25040,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830826,,,,,,,,,,,,,,,,,,,,
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,tg:lhps:25040,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830916,,,,,,,,,,,,,,,,,,,,
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,tg:lhps:25040,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-09-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,tg:lhps:25040,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Bruce Rod  
+Person, Place or Thing  
+Art Gallery New Mexico State University",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024379,referentienummer,False,,,,,,,,,,,,,,
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25040,brocade id,False,,,,,,,,,,,,,,
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25040/N,brocade url,False,,,,,,,,,,,,,,
+c38c5a9a-fe10-56e1-bf54-5218c5f18fed,tg:lhps:25040,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e1efcd4f-b08d-5db9-a7ac-bd37b3ccc9d3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f2c14b2f-0770-41e0-9249-8c0d027bf363"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

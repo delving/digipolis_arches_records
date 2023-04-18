@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a2c66631-5400-545d-8b24-43518771ac25,tg:lhps:24389,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24389,https://data.letterenhuis.be/ark:/24970/a2c66631-5400-545d-8b24-43518771ac25,Affiches,,,,
+a2c66631-5400-545d-8b24-43518771ac25,tg:lhps:24389,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974.0,2089,In Copyright
+a2c66631-5400-545d-8b24-43518771ac25,tg:lhps:24389,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19740111,,,,,,,,,,,,,,,,,,,,
+a2c66631-5400-545d-8b24-43518771ac25,tg:lhps:24389,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19740217,,,,,,,,,,,,,,,,,,,,
+a2c66631-5400-545d-8b24-43518771ac25,tg:lhps:24389,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1974-02-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a2c66631-5400-545d-8b24-43518771ac25,tg:lhps:24389,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Luigi Veronesi  
+Städtisches Museum Leverkusen  
+Schloss Morsbroich",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a2c66631-5400-545d-8b24-43518771ac25,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023731,referentienummer,False,,,,,,,,,,,,,,
+a2c66631-5400-545d-8b24-43518771ac25,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24389,brocade id,False,,,,,,,,,,,,,,
+a2c66631-5400-545d-8b24-43518771ac25,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24389/N,brocade url,False,,,,,,,,,,,,,,
+a2c66631-5400-545d-8b24-43518771ac25,tg:lhps:24389,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""78fc85b7-58d4-5347-a9f6-c04f150a6f95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fb8b7a3f-1c5a-4fb2-b105-7ce9046d8972"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

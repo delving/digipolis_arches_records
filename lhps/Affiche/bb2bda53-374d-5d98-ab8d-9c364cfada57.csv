@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+bb2bda53-374d-5d98-ab8d-9c364cfada57,tg:lhps:28914,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28914,https://data.letterenhuis.be/ark:/24970/bb2bda53-374d-5d98-ab8d-9c364cfada57,Affiches,,,,
+bb2bda53-374d-5d98-ab8d-9c364cfada57,tg:lhps:28914,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: VM 89.82.4</p>
+<p>Vormgeving: Rineke Borman</p>
+","<p>Oude nummering Volkskunde: VM 89.82.4</p>
+<p>Vormgeving: Rineke Borman</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bb2bda53-374d-5d98-ab8d-9c364cfada57,tg:lhps:28914,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1989.0,2104,In Copyright
+bb2bda53-374d-5d98-ab8d-9c364cfada57,tg:lhps:28914,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19890826,,,,,,,,,,,,,,,,,,,,
+bb2bda53-374d-5d98-ab8d-9c364cfada57,tg:lhps:28914,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19891029,,,,,,,,,,,,,,,,,,,,
+bb2bda53-374d-5d98-ab8d-9c364cfada57,tg:lhps:28914,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1989-10-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bb2bda53-374d-5d98-ab8d-9c364cfada57,tg:lhps:28914,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Kunst uit oude Katholieke Kerken  
+Het Catharijneconvent Utrecht",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+bb2bda53-374d-5d98-ab8d-9c364cfada57,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028226,referentienummer,False,,,,,,,,,,,,,,
+bb2bda53-374d-5d98-ab8d-9c364cfada57,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28914,brocade id,False,,,,,,,,,,,,,,
+bb2bda53-374d-5d98-ab8d-9c364cfada57,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28914/N,brocade url,False,,,,,,,,,,,,,,
+bb2bda53-374d-5d98-ab8d-9c364cfada57,tg:lhps:28914,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""21b7d9f6-1caa-5cc5-96d7-f912a3921030"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4933d067-7840-4b15-acce-afdb81f24063"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

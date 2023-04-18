@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,tg:lhps:18052,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:18052,https://data.letterenhuis.be/ark:/24970/a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,Affiches,,,,
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,tg:lhps:18052,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1969.0,2084,In Copyright
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,tg:lhps:18052,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19690508,,,,,,,,,,,,,,,,,,,,
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,tg:lhps:18052,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19690521,,,,,,,,,,,,,,,,,,,,
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,tg:lhps:18052,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1969-05-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,tg:lhps:18052,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"ADC  
+NY  
+USA  
+1 jaar publiciteitskunst in USA  
+Design Centre",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000017445,referentienummer,False,,,,,,,,,,,,,,
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:18052,brocade id,False,,,,,,,,,,,,,,
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:18052/N,brocade url,False,,,,,,,,,,,,,,
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,tg:lhps:18052,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e4451d12-baea-5b98-941c-49a01f04f16f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b166d1bc-96eb-422e-8b2f-669b81b1473e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+a0db91c5-1e2b-55fa-bc48-dbdc53cc6a6c,tg:lhps:18052,e73_OriginalBrocade,,,au::58133,,,,lhps,,,a2964451-bdee-59dd-b633-cd4489ecb24b,kw,,au::58133:1,au::58133g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/6220231"",""au::58133"",""au::58133:1"",""ark:/83110/x0/a2964451-bdee-59dd-b633-cd4489ecb24b"",""Design Centre""],""name"":""Design Centre"",""ark"":""ark:/83110/x0/a2964451-bdee-59dd-b633-cd4489ecb24b"",""uri"":""/agents/corporate_entities/6220231"",""id"":""au::58133:1"",""isCapacity"":false}",ark:/83110/x0/a2964451-bdee-59dd-b633-cd4489ecb24b,agent,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a44b745f-4396-5294-852b-2c5b2201658e,tg:lhps:22755,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22755,https://data.letterenhuis.be/ark:/24970/a44b745f-4396-5294-852b-2c5b2201658e,Affiches,,,,
+a44b745f-4396-5294-852b-2c5b2201658e,tg:lhps:22755,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1969.0,2084,In Copyright
+a44b745f-4396-5294-852b-2c5b2201658e,tg:lhps:22755,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19691122,,,,,,,,,,,,,,,,,,,,
+a44b745f-4396-5294-852b-2c5b2201658e,tg:lhps:22755,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19700118,,,,,,,,,,,,,,,,,,,,
+a44b745f-4396-5294-852b-2c5b2201658e,tg:lhps:22755,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1970-01-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a44b745f-4396-5294-852b-2c5b2201658e,tg:lhps:22755,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Klingende Kostbarkeiten  
+Tischglocken aus 5 Jahrhunderten  
+Kestner-Museum Hannover",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a44b745f-4396-5294-852b-2c5b2201658e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022101,referentienummer,False,,,,,,,,,,,,,,
+a44b745f-4396-5294-852b-2c5b2201658e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22755,brocade id,False,,,,,,,,,,,,,,
+a44b745f-4396-5294-852b-2c5b2201658e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22755/N,brocade url,False,,,,,,,,,,,,,,
+a44b745f-4396-5294-852b-2c5b2201658e,tg:lhps:22755,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d08a8096-9275-58e4-89b9-098802180e0f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c8e80ce6-6954-49bb-9954-f139208f0fca"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

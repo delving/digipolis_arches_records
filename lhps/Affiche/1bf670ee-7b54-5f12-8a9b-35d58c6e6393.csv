@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,tg:lhps:29711,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29711,https://data.letterenhuis.be/ark:/24970/1bf670ee-7b54-5f12-8a9b-35d58c6e6393,Affiches,,,,
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,tg:lhps:29711,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 93.21.11</p>
+<p>druk: Schuerman, Temse</p>
+","<p>Oude nummering Volkskunde: 93.21.11</p>
+<p>druk: Schuerman, Temse</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,tg:lhps:29711,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1965.0,2080,In Copyright
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,tg:lhps:29711,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19650814,,,,,,,,,,,,,,,,,,,,
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,tg:lhps:29711,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19650822,,,,,,,,,,,,,,,,,,,,
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,tg:lhps:29711,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1965-08-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,tg:lhps:29711,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gemeente Steendorp  
+Kermisfeesten - Zestiende Zomerjaarmarkt",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000029020,referentienummer,False,,,,,,,,,,,,,,
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29711,brocade id,False,,,,,,,,,,,,,,
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29711/N,brocade url,False,,,,,,,,,,,,,,
+1bf670ee-7b54-5f12-8a9b-35d58c6e6393,tg:lhps:29711,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d243d03f-687b-5da3-9739-78806d6402f7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8db38a8b-682e-448a-9aba-c4a65da1cf1d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

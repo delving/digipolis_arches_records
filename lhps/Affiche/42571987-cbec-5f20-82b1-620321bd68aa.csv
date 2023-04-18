@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+42571987-cbec-5f20-82b1-620321bd68aa,tg:lhps:24417,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24417,https://data.letterenhuis.be/ark:/24970/42571987-cbec-5f20-82b1-620321bd68aa,Affiches,,,,
+42571987-cbec-5f20-82b1-620321bd68aa,tg:lhps:24417,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright
+42571987-cbec-5f20-82b1-620321bd68aa,tg:lhps:24417,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760310,,,,,,,,,,,,,,,,,,,,
+42571987-cbec-5f20-82b1-620321bd68aa,tg:lhps:24417,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760418,,,,,,,,,,,,,,,,,,,,
+42571987-cbec-5f20-82b1-620321bd68aa,tg:lhps:24417,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1976-04-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42571987-cbec-5f20-82b1-620321bd68aa,tg:lhps:24417,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Armin Lambert  
+Zeichnungen und Plastiken  
+Badischer Kunstverein",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+42571987-cbec-5f20-82b1-620321bd68aa,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023759,referentienummer,False,,,,,,,,,,,,,,
+42571987-cbec-5f20-82b1-620321bd68aa,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24417,brocade id,False,,,,,,,,,,,,,,
+42571987-cbec-5f20-82b1-620321bd68aa,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24417/N,brocade url,False,,,,,,,,,,,,,,
+42571987-cbec-5f20-82b1-620321bd68aa,tg:lhps:24417,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""603e8da2-aa43-56ef-aead-720cc69fdc0e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""75af08dc-3e7b-4165-9d14-c59a01af1a0d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

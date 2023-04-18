@@ -1,0 +1,8 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+10e557ab-2f50-5fef-96bd-3a071dad53eb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:214937_#1,https://data.letterenhuis.be/ark:/24970/10e557ab-2f50-5fef-96bd-3a071dad53eb,,,
+10e557ab-2f50-5fef-96bd-3a071dad53eb,,,,198571/2a-b,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10e557ab-2f50-5fef-96bd-3a071dad53eb,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+10e557ab-2f50-5fef-96bd-3a071dad53eb,,,,,,,,,,,,,,,lhbr,,tg:lhbr:214937_#1,198571/2a-b,,W 803 / B1,10e557ab-2f50-5fef-96bd-3a071dad53eb,,,,,,,,,,,,,,,
+10e557ab-2f50-5fef-96bd-3a071dad53eb,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+10e557ab-2f50-5fef-96bd-3a071dad53eb,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+10e557ab-2f50-5fef-96bd-3a071dad53eb,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1899,permission required

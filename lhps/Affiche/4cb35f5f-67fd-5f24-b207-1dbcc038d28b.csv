@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,tg:lhps:28879,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28879,https://data.letterenhuis.be/ark:/24970/4cb35f5f-67fd-5f24-b207-1dbcc038d28b,Affiches,,,,
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,tg:lhps:28879,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering: 84.7.27-30</p>
+<p>druk: Oscar Lamberty, Brussel</p>
+","<p>Oude nummering: 84.7.27-30</p>
+<p>druk: Oscar Lamberty, Brussel</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,tg:lhps:28879,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1903.0,2018,No Known Copyright
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,tg:lhps:28879,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19030000,,,,,,,,,,,,,,,,,,,,
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,tg:lhps:28879,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1903,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,tg:lhps:28879,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Te eeten, te drinken en voor te smooren  
+[Tentoonstelling der Volksoverlevering]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028191,referentienummer,False,,,,,,,,,,,,,,
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28879,brocade id,False,,,,,,,,,,,,,,
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28879/N,brocade url,False,,,,,,,,,,,,,,
+4cb35f5f-67fd-5f24-b207-1dbcc038d28b,tg:lhps:28879,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ba367c4c-f091-54a0-9810-8917fc39d598"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e2e7f261-98b8-42bd-b480-398ebeed3f84"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

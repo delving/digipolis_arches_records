@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,tg:lhps:22886,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22886,https://data.letterenhuis.be/ark:/24970/fe197246-cf6c-5b73-9d46-32f221dc9bfb,Affiches,,,,
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,tg:lhps:22886,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1969.0,2084,In Copyright
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,tg:lhps:22886,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19690506,,,,,,,,,,,,,,,,,,,,
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,tg:lhps:22886,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19690608,,,,,,,,,,,,,,,,,,,,
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,tg:lhps:22886,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1969-06-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,tg:lhps:22886,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gerhard Marcks  
+Werke der Kölner Jahre 1950/69  
+Kölnischer Kunstverein",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022232,referentienummer,False,,,,,,,,,,,,,,
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22886,brocade id,False,,,,,,,,,,,,,,
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22886/N,brocade url,False,,,,,,,,,,,,,,
+fe197246-cf6c-5b73-9d46-32f221dc9bfb,tg:lhps:22886,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f12333bb-44bf-5703-beea-4fe3e95ee726"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3d844ed8-d234-4bf5-b355-cb59a925c9d9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

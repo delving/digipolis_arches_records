@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+dafdce4a-15e2-53ea-b179-c47d52862d48,tg:lhps:42284,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:42284,https://data.letterenhuis.be/ark:/24970/dafdce4a-15e2-53ea-b179-c47d52862d48,Affiches,,,,
+dafdce4a-15e2-53ea-b179-c47d52862d48,tg:lhps:42284,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1989.0,2104,In Copyright
+dafdce4a-15e2-53ea-b179-c47d52862d48,tg:lhps:42284,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19890826,,,,,,,,,,,,,,,,,,,,
+dafdce4a-15e2-53ea-b179-c47d52862d48,tg:lhps:42284,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1989-08-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dafdce4a-15e2-53ea-b179-c47d52862d48,tg:lhps:42284,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gemeente Beveren  
+Levende bevrijders  
+Long live the liberators  
+Niech zyje polska  
+Bevrijdingsfeest 1944 1989  
+45ste verjaring  
+Feestprogramma",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+dafdce4a-15e2-53ea-b179-c47d52862d48,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000038232,referentienummer,False,,,,,,,,,,,,,,
+dafdce4a-15e2-53ea-b179-c47d52862d48,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:42284,brocade id,False,,,,,,,,,,,,,,
+dafdce4a-15e2-53ea-b179-c47d52862d48,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:42284/N,brocade url,False,,,,,,,,,,,,,,
+dafdce4a-15e2-53ea-b179-c47d52862d48,tg:lhps:42284,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9d75c8a1-dd12-5753-9ff2-4d20eb3227d3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""81dbcccf-a195-4614-acc8-8d4a4e596247"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+dafdce4a-15e2-53ea-b179-c47d52862d48,tg:lhps:42284,e73_OriginalBrocade,,,au::100756,,,,lhps,,,8355cf39-e3ea-5c84-8760-cdbfeb5dcf35,kw,,au::100756:1,au::100756g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Beveren (Sint-Niklaas)"",""ark"":""ark:/83110/x0/8355cf39-e3ea-5c84-8760-cdbfeb5dcf35"",""uri"":""/subjects/10780892"",""id"":""au::100756"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/8355cf39-e3ea-5c84-8760-cdbfeb5dcf35,place,,,,,,,,

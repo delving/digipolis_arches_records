@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,tg:lhps:23544,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23544,https://data.letterenhuis.be/ark:/24970/0860ec8b-06f9-54de-93c0-9ab0fec40fed,Affiches,,,,
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,tg:lhps:23544,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1982.0,2097,In Copyright
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,tg:lhps:23544,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820612,,,,,,,,,,,,,,,,,,,,
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,tg:lhps:23544,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820703,,,,,,,,,,,,,,,,,,,,
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,tg:lhps:23544,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1982-07-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,tg:lhps:23544,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Sky Felts"" by Jenny Cowern  
+Photographs by Ian McCurrach and Alexander Porter  
+Ceramics by Moira McKenzie  
+Artspace",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022888,referentienummer,False,,,,,,,,,,,,,,
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23544,brocade id,False,,,,,,,,,,,,,,
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23544/N,brocade url,False,,,,,,,,,,,,,,
+0860ec8b-06f9-54de-93c0-9ab0fec40fed,tg:lhps:23544,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""735dd604-1752-554f-903f-3b15002a68e9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e6e29ac1-0aa1-48c3-a19c-9469f8486580"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

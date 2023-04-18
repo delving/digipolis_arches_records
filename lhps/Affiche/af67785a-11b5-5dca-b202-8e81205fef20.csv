@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+af67785a-11b5-5dca-b202-8e81205fef20,tg:lhps:26886,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26886,https://data.letterenhuis.be/ark:/24970/af67785a-11b5-5dca-b202-8e81205fef20,Affiches,,,,
+af67785a-11b5-5dca-b202-8e81205fef20,tg:lhps:26886,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1964.0,2079,In Copyright
+af67785a-11b5-5dca-b202-8e81205fef20,tg:lhps:26886,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640717,,,,,,,,,,,,,,,,,,,,
+af67785a-11b5-5dca-b202-8e81205fef20,tg:lhps:26886,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19641004,,,,,,,,,,,,,,,,,,,,
+af67785a-11b5-5dca-b202-8e81205fef20,tg:lhps:26886,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-10-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+af67785a-11b5-5dca-b202-8e81205fef20,tg:lhps:26886,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Glas  
+Form und Farbe  
+Rheinischen Landesmuseum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+af67785a-11b5-5dca-b202-8e81205fef20,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026209,referentienummer,False,,,,,,,,,,,,,,
+af67785a-11b5-5dca-b202-8e81205fef20,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26886,brocade id,False,,,,,,,,,,,,,,
+af67785a-11b5-5dca-b202-8e81205fef20,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26886/N,brocade url,False,,,,,,,,,,,,,,
+af67785a-11b5-5dca-b202-8e81205fef20,tg:lhps:26886,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""81c2a416-0e8d-555f-a52e-aa1c5a212891"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bec2fec3-b32d-43ee-a7ba-53c88cea2c7f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

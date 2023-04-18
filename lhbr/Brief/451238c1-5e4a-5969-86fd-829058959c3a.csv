@@ -1,0 +1,9 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+451238c1-5e4a-5969-86fd-829058959c3a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:234759_#1,https://data.letterenhuis.be/ark:/24970/451238c1-5e4a-5969-86fd-829058959c3a,,,
+451238c1-5e4a-5969-86fd-829058959c3a,,,,200174/a-b,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+451238c1-5e4a-5969-86fd-829058959c3a,tr:lh:7692,"dlod={""name"":""Schenking van Kunsthandel De Roos"",""ark"":""ark:/24970/x0/b9ec74e8-38e7-5090-8c60-b6262c57c405"",""uri"":""/repositories/11/accessions/823047"",""id"":""tr:lh:7692"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/b9ec74e8-38e7-5090-8c60-b6262c57c405,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+451238c1-5e4a-5969-86fd-829058959c3a,,,,,,,,,,,,,,,lhbr,tr:lh:7692,tg:lhbr:234759_#1,200174/a-b,,M 403 / B1,451238c1-5e4a-5969-86fd-829058959c3a,,,,,,,,,,,,,,,
+451238c1-5e4a-5969-86fd-829058959c3a,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+451238c1-5e4a-5969-86fd-829058959c3a,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+451238c1-5e4a-5969-86fd-829058959c3a,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+451238c1-5e4a-5969-86fd-829058959c3a,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1991,permission required

@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+aa627a23-754a-596d-972c-567e92ff3c07,tg:lhps:32554,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:32554,https://data.letterenhuis.be/ark:/24970/aa627a23-754a-596d-972c-567e92ff3c07,Affiches,,,,
+aa627a23-754a-596d-972c-567e92ff3c07,tg:lhps:32554,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Kleurenlithografie; onleesbare signatuur r.o.</p>
+","<p>Kleurenlithografie; onleesbare signatuur r.o.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa627a23-754a-596d-972c-567e92ff3c07,tg:lhps:32554,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1905.0,2020,No Known Copyright
+aa627a23-754a-596d-972c-567e92ff3c07,tg:lhps:32554,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19050000,,,,,,,,,,,,,,,,,,,,
+aa627a23-754a-596d-972c-567e92ff3c07,tg:lhps:32554,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1905,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aa627a23-754a-596d-972c-567e92ff3c07,tg:lhps:32554,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Istoriko-Khoedojestvennaya / Vistavka / Russkikh / Portretou / [...]  
+[Historische Tentoonstelling van Russische Portretten]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+aa627a23-754a-596d-972c-567e92ff3c07,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000031803,referentienummer,False,,,,,,,,,,,,,,
+aa627a23-754a-596d-972c-567e92ff3c07,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:32554,brocade id,False,,,,,,,,,,,,,,
+aa627a23-754a-596d-972c-567e92ff3c07,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:32554/N,brocade url,False,,,,,,,,,,,,,,
+aa627a23-754a-596d-972c-567e92ff3c07,tg:lhps:32554,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8723cc3a-22a5-59b7-814c-ae4799c4dd67"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d8d578ab-41ba-4880-854e-68951e537c6f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

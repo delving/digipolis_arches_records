@@ -1,0 +1,18 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,tg:lhps:30447,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:30447,https://data.letterenhuis.be/ark:/24970/4b7080ea-050e-5633-be0a-6e0187cb6ca6,Affiches,,,,
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,tg:lhps:30447,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering NSM: E 33150</p>
+<p>druk: Ancelle, Antwerpen</p>
+","<p>Oude nummering NSM: E 33150</p>
+<p>druk: Ancelle, Antwerpen</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,tg:lhps:30447,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1845.0,1960,No Copyright - Public Domain Mark 1.0
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,tg:lhps:30447,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,18450915,,,,,,,,,,,,,,,,,,,,
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,tg:lhps:30447,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1845-09-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,tg:lhps:30447,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Bateau à vapeur  
+British-Queen  
+[Vente Publique du magnifique Bateau..]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000029752,referentienummer,False,,,,,,,,,,,,,,
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:30447,brocade id,False,,,,,,,,,,,,,,
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:30447/N,brocade url,False,,,,,,,,,,,,,,
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,tg:lhps:30447,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9c8b77e9-ea04-56f1-a895-c56ff025dbe4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6d74c5d1-8237-4ab0-a337-89003301b583"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+4b7080ea-050e-5633-be0a-6e0187cb6ca6,tg:lhps:30447,e73_OriginalBrocade,,,au::46320,,,,lhps,,,ff142383-8374-553e-aa86-ae82efd47f70,kw,,au::46320:1,au::46320g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Scheepvaart"",""ark"":""ark:/83110/x0/ff142383-8374-553e-aa86-ae82efd47f70"",""uri"":""/subjects/4956240"",""id"":""au::46320"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/ff142383-8374-553e-aa86-ae82efd47f70,topic,,,,,,,,

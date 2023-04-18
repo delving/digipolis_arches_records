@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+94efaea5-370e-588d-8617-a39c53f00876,tg:lhps:28604,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28604,https://data.letterenhuis.be/ark:/24970/94efaea5-370e-588d-8617-a39c53f00876,Affiches,,,,
+94efaea5-370e-588d-8617-a39c53f00876,tg:lhps:28604,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering: 61.43.37</p>
+<p>druk: Victor van Nieuwenhove, Geraardsbergen</p>
+","<p>Oude nummering: 61.43.37</p>
+<p>druk: Victor van Nieuwenhove, Geraardsbergen</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94efaea5-370e-588d-8617-a39c53f00876,tg:lhps:28604,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1959.0,2074,In Copyright
+94efaea5-370e-588d-8617-a39c53f00876,tg:lhps:28604,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19590613,,,,,,,,,,,,,,,,,,,,
+94efaea5-370e-588d-8617-a39c53f00876,tg:lhps:28604,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19590615,,,,,,,,,,,,,,,,,,,,
+94efaea5-370e-588d-8617-a39c53f00876,tg:lhps:28604,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1959-06-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94efaea5-370e-588d-8617-a39c53f00876,tg:lhps:28604,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Het Feest van Manneken-Pis,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+94efaea5-370e-588d-8617-a39c53f00876,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000027917,referentienummer,False,,,,,,,,,,,,,,
+94efaea5-370e-588d-8617-a39c53f00876,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28604,brocade id,False,,,,,,,,,,,,,,
+94efaea5-370e-588d-8617-a39c53f00876,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28604/N,brocade url,False,,,,,,,,,,,,,,
+94efaea5-370e-588d-8617-a39c53f00876,tg:lhps:28604,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""53030eaa-1c08-5c8a-ab59-619c250031b2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fb3c2a22-7cbd-483f-8cda-a74a468dfd4a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+94efaea5-370e-588d-8617-a39c53f00876,tg:lhps:28604,e73_OriginalBrocade,,,au::100527,,,,lhps,,,5616cabe-67c4-5967-b1ac-e9265ecfab0d,kw,,au::100527:1,au::100527g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Geraardsbergen (Arrondissement Aalst)"",""ark"":""ark:/83110/x0/5616cabe-67c4-5967-b1ac-e9265ecfab0d"",""uri"":""/subjects/10756389"",""id"":""au::100527"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/5616cabe-67c4-5967-b1ac-e9265ecfab0d,place,,,,,,,,

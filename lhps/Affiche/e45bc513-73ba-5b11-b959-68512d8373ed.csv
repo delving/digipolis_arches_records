@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e45bc513-73ba-5b11-b959-68512d8373ed,tg:lhps:24024,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24024,https://data.letterenhuis.be/ark:/24970/e45bc513-73ba-5b11-b959-68512d8373ed,Affiches,,,,
+e45bc513-73ba-5b11-b959-68512d8373ed,tg:lhps:24024,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977.0,2092,In Copyright
+e45bc513-73ba-5b11-b959-68512d8373ed,tg:lhps:24024,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19770521,,,,,,,,,,,,,,,,,,,,
+e45bc513-73ba-5b11-b959-68512d8373ed,tg:lhps:24024,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19770703,,,,,,,,,,,,,,,,,,,,
+e45bc513-73ba-5b11-b959-68512d8373ed,tg:lhps:24024,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1977-07-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e45bc513-73ba-5b11-b959-68512d8373ed,tg:lhps:24024,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Johannes Molzahn  
+Aquarelle + Druckgraphik  
+Wilhelm-Lehmbruck-Museum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e45bc513-73ba-5b11-b959-68512d8373ed,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023366,referentienummer,False,,,,,,,,,,,,,,
+e45bc513-73ba-5b11-b959-68512d8373ed,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24024,brocade id,False,,,,,,,,,,,,,,
+e45bc513-73ba-5b11-b959-68512d8373ed,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24024/N,brocade url,False,,,,,,,,,,,,,,
+e45bc513-73ba-5b11-b959-68512d8373ed,tg:lhps:24024,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2dbf7f3a-5a9f-5f33-ad5e-1fc8cbeb2d31"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3bc329e4-86b8-419f-a5a0-5e8c0def84af"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

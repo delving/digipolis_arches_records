@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+60accffb-cdf0-562b-8a4b-e112e88adf33,tg:lhps:26927,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26927,https://data.letterenhuis.be/ark:/24970/60accffb-cdf0-562b-8a4b-e112e88adf33,Affiches,,,,
+60accffb-cdf0-562b-8a4b-e112e88adf33,tg:lhps:26927,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Seelig, München</p>
+","<p>druk: Seelig, München</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60accffb-cdf0-562b-8a4b-e112e88adf33,tg:lhps:26927,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963.0,2078,In Copyright
+60accffb-cdf0-562b-8a4b-e112e88adf33,tg:lhps:26927,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19630927,,,,,,,,,,,,,,,,,,,,
+60accffb-cdf0-562b-8a4b-e112e88adf33,tg:lhps:26927,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19631027,,,,,,,,,,,,,,,,,,,,
+60accffb-cdf0-562b-8a4b-e112e88adf33,tg:lhps:26927,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1963-10-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60accffb-cdf0-562b-8a4b-e112e88adf33,tg:lhps:26927,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Deutscher Kunstpreis der Jugend '63  
+Kunsthalle Baden-Baden",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+60accffb-cdf0-562b-8a4b-e112e88adf33,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026249,referentienummer,False,,,,,,,,,,,,,,
+60accffb-cdf0-562b-8a4b-e112e88adf33,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26927,brocade id,False,,,,,,,,,,,,,,
+60accffb-cdf0-562b-8a4b-e112e88adf33,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26927/N,brocade url,False,,,,,,,,,,,,,,
+60accffb-cdf0-562b-8a4b-e112e88adf33,tg:lhps:26927,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""624c9f4c-06bc-56eb-872a-50988bbe64c4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""75fe94ae-9645-4bef-bb75-c4983484b599"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

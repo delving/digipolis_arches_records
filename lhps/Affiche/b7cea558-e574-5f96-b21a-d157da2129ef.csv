@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b7cea558-e574-5f96-b21a-d157da2129ef,tg:lhps:23152,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23152,https://data.letterenhuis.be/ark:/24970/b7cea558-e574-5f96-b21a-d157da2129ef,Affiches,,,,
+b7cea558-e574-5f96-b21a-d157da2129ef,tg:lhps:23152,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+b7cea558-e574-5f96-b21a-d157da2129ef,tg:lhps:23152,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19671203,,,,,,,,,,,,,,,,,,,,
+b7cea558-e574-5f96-b21a-d157da2129ef,tg:lhps:23152,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680107,,,,,,,,,,,,,,,,,,,,
+b7cea558-e574-5f96-b21a-d157da2129ef,tg:lhps:23152,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-01-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b7cea558-e574-5f96-b21a-d157da2129ef,tg:lhps:23152,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Joachim Karsch  
+Skulpturen - Zeichnungen - Gaphik  
+Wilhelm-Lehmbruck-Museum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b7cea558-e574-5f96-b21a-d157da2129ef,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022497,referentienummer,False,,,,,,,,,,,,,,
+b7cea558-e574-5f96-b21a-d157da2129ef,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23152,brocade id,False,,,,,,,,,,,,,,
+b7cea558-e574-5f96-b21a-d157da2129ef,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23152/N,brocade url,False,,,,,,,,,,,,,,
+b7cea558-e574-5f96-b21a-d157da2129ef,tg:lhps:23152,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""daadc9c4-3b7c-5a05-b41b-555cb39013ca"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3513f0d7-7fbf-4b3e-83a2-8ebca7f07598"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

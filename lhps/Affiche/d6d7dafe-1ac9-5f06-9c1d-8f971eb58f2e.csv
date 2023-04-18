@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,tg:lhps:22585,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22585,https://data.letterenhuis.be/ark:/24970/d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,Affiches,,,,
+d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,tg:lhps:22585,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1970.0,2085,In Copyright
+d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,tg:lhps:22585,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19700000,,,,,,,,,,,,,,,,,,,,
+d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,tg:lhps:22585,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1970,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,tg:lhps:22585,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Cologne - Köln - Colonia  
+Dom  
+fotografiert mit Panorama Kamera  
+[Gestaltung: Heinz Wedewardt]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021932,referentienummer,False,,,,,,,,,,,,,,
+d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22585,brocade id,False,,,,,,,,,,,,,,
+d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22585/N,brocade url,False,,,,,,,,,,,,,,
+d6d7dafe-1ac9-5f06-9c1d-8f971eb58f2e,tg:lhps:22585,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""55bf7e72-d032-5b6a-b373-3c7ec8dfc0d7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0f045277-d431-4c35-b439-119a499fa89c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

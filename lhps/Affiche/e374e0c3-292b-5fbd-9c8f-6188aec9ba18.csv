@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,tg:lhps:26131,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26131,https://data.letterenhuis.be/ark:/24970/e374e0c3-292b-5fbd-9c8f-6188aec9ba18,Affiches,,,,
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,tg:lhps:26131,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,tg:lhps:26131,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,00001109,,,,,,,,,,,,,,,,,,,,
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,tg:lhps:26131,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,XXXX-11-09,circa,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,tg:lhps:26131,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Vlaamsche Nationalisten Antwerpen  
+Groote meeting  
+Geen cent aan 't Leger  
+Minder Lasten!  
+Vlaanderen vrij!",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025457,referentienummer,False,,,,,,,,,,,,,,
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26131,brocade id,False,,,,,,,,,,,,,,
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26131/N,brocade url,False,,,,,,,,,,,,,,
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,tg:lhps:26131,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""20c8f759-7e2f-5284-9637-b3a7419a74a1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8e772491-9777-4cab-97c7-268720bfb0e1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+e374e0c3-292b-5fbd-9c8f-6188aec9ba18,tg:lhps:26131,e73_OriginalBrocade,,,au::20085,,,,lhps,,,d4c2df15-6bd7-56ab-a1c8-e2ad73821ab5,kw,,au::20085:1,au::20085g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Vlaams Nationalisme"",""ark"":""ark:/83110/x0/d4c2df15-6bd7-56ab-a1c8-e2ad73821ab5"",""uri"":""/subjects/2149095"",""id"":""au::20085"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/d4c2df15-6bd7-56ab-a1c8-e2ad73821ab5,topic,,,,,,,,

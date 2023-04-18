@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,tg:lhps:22595,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22595,https://data.letterenhuis.be/ark:/24970/e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,Affiches,,,,
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,tg:lhps:22595,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Gestaltung: Götzinger; druk: C. Brandt, Bonn</p>
+","<p>Gestaltung: Götzinger; druk: C. Brandt, Bonn</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,tg:lhps:22595,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1970.0,2085,In Copyright
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,tg:lhps:22595,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19701112,,,,,,,,,,,,,,,,,,,,
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,tg:lhps:22595,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19701213,,,,,,,,,,,,,,,,,,,,
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,tg:lhps:22595,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1970-12-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,tg:lhps:22595,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Lajos Barta  
+Plastiken und Zeichnungen  
+Museum Städtische Kunstsammlungen Bonn",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021941,referentienummer,False,,,,,,,,,,,,,,
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22595,brocade id,False,,,,,,,,,,,,,,
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22595/N,brocade url,False,,,,,,,,,,,,,,
+e99fa86b-f78f-5c10-b5e5-17fd1a8afd15,tg:lhps:22595,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e134bec2-8e7a-578f-bb4d-2d691bed6a11"", ""ontologyProperty"": """", ""resourceXresourceId"": ""36e7454d-11df-4540-9cde-d1d835211cf7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

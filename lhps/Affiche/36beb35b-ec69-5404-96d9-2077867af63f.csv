@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+36beb35b-ec69-5404-96d9-2077867af63f,tg:lhps:33440,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:33440,https://data.letterenhuis.be/ark:/24970/36beb35b-ec69-5404-96d9-2077867af63f,Affiches,,,,
+36beb35b-ec69-5404-96d9-2077867af63f,tg:lhps:33440,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Kleurenlithografie; monogram r.o. &quot;AR&quot;, toegeschreven aan Armand Rassenfosse</p>
+<p>Affiche in 2 stukken</p>
+","<p>Kleurenlithografie; monogram r.o. &quot;AR&quot;, toegeschreven aan Armand Rassenfosse</p>
+<p>Affiche in 2 stukken</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36beb35b-ec69-5404-96d9-2077867af63f,tg:lhps:33440,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1900.0,2015,No Known Copyright
+36beb35b-ec69-5404-96d9-2077867af63f,tg:lhps:33440,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19000000,,,,,,,,,,,,,,,,,,,,
+36beb35b-ec69-5404-96d9-2077867af63f,tg:lhps:33440,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,19XX,circa,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36beb35b-ec69-5404-96d9-2077867af63f,tg:lhps:33440,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Casino Grétry / Bould. d'Avroy / Grands Bals Masqués & Travestis / [...],descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+36beb35b-ec69-5404-96d9-2077867af63f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000032636,referentienummer,False,,,,,,,,,,,,,,
+36beb35b-ec69-5404-96d9-2077867af63f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:33440,brocade id,False,,,,,,,,,,,,,,
+36beb35b-ec69-5404-96d9-2077867af63f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:33440/N,brocade url,False,,,,,,,,,,,,,,
+36beb35b-ec69-5404-96d9-2077867af63f,tg:lhps:33440,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d0c5fb43-8b6c-5bb7-af11-9c9ea6172150"", ""ontologyProperty"": """", ""resourceXresourceId"": ""db11c892-a723-44fa-87ef-97c16da37515"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

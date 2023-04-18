@@ -1,0 +1,18 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+5a4d1554-4e5b-5ee4-8851-af622054a956,tg:lhps:34604,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:34604,https://data.letterenhuis.be/ark:/24970/5a4d1554-4e5b-5ee4-8851-af622054a956,Affiches,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,tg:lhps:34604,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Het officiële affiche voor de Olympische Spelen van München 1972<br />
+pub: Margaret Timmers, <em>A Century of Olympic Posters</em>, p. 81-89 + p. 138</p>
+","<p>Het officiële affiche voor de Olympische Spelen van München 1972<br />
+pub: Margaret Timmers, <em>A Century of Olympic Posters</em>, p. 81-89 + p. 138</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,tg:lhps:34604,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972.0,2087,In Copyright
+5a4d1554-4e5b-5ee4-8851-af622054a956,tg:lhps:34604,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19720826,,,,,,,,,,,,,,,,,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,tg:lhps:34604,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19720910,,,,,,,,,,,,,,,,,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,tg:lhps:34604,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1972-09-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,tg:lhps:34604,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"München 1972  
+[Ontwerp: Otl Aicher]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000033776,referentienummer,False,,,,,,,,,,,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:34604,brocade id,False,,,,,,,,,,,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:34604/N,brocade url,False,,,,,,,,,,,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,tg:lhps:34604,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1bfc9f38-17bb-5ebb-865e-20f2f60f27b9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""18e30ad3-0321-4f35-b536-12a4922cbb70"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+5a4d1554-4e5b-5ee4-8851-af622054a956,tg:lhps:34604,e73_OriginalBrocade,,,au::17413,,,,lhps,,,26f48e78-16da-5d8f-bb5c-ddef95135b30,kw,,au::17413:1,au::17413g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Sport [Algemeen]"",""ark"":""ark:/83110/x0/26f48e78-16da-5d8f-bb5c-ddef95135b30"",""uri"":""/subjects/1863191"",""id"":""au::17413"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/26f48e78-16da-5d8f-bb5c-ddef95135b30,topic,,,,,,,,

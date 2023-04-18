@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,tg:lhps:28666,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28666,https://data.letterenhuis.be/ark:/24970/b4bf86a1-833b-58dc-993a-94e2fcc16a1d,Affiches,,,,
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,tg:lhps:28666,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering: HH 2298</p>
+<p>druk: Fretz Frères, Zürich</p>
+","<p>Oude nummering: HH 2298</p>
+<p>druk: Fretz Frères, Zürich</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,tg:lhps:28666,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1939.0,2054,In Copyright
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,tg:lhps:28666,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19390500,,,,,,,,,,,,,,,,,,,,
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,tg:lhps:28666,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19391000,,,,,,,,,,,,,,,,,,,,
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,tg:lhps:28666,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1939-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,tg:lhps:28666,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Exposition Nationale Suisse 1939 Zürich,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000027979,referentienummer,False,,,,,,,,,,,,,,
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28666,brocade id,False,,,,,,,,,,,,,,
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28666/N,brocade url,False,,,,,,,,,,,,,,
+b4bf86a1-833b-58dc-993a-94e2fcc16a1d,tg:lhps:28666,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""391284ee-0445-5497-8d99-dcd90faae390"", ""ontologyProperty"": """", ""resourceXresourceId"": ""db7dc5c7-f256-415e-ab8f-2f1fa21b53c2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

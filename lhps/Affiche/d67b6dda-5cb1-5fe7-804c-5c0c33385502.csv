@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,tg:lhps:27637,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27637,https://data.letterenhuis.be/ark:/24970/d67b6dda-5cb1-5fe7-804c-5c0c33385502,Affiches,,,,
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,tg:lhps:27637,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963.0,2078,In Copyright
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,tg:lhps:27637,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19631221,,,,,,,,,,,,,,,,,,,,
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,tg:lhps:27637,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640209,,,,,,,,,,,,,,,,,,,,
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,tg:lhps:27637,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-02-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,tg:lhps:27637,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Kinderen van deze eeuw  
+Zonnehof  
+[ontwerp: Barend van den Brink]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026956,referentienummer,False,,,,,,,,,,,,,,
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27637,brocade id,False,,,,,,,,,,,,,,
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27637/N,brocade url,False,,,,,,,,,,,,,,
+d67b6dda-5cb1-5fe7-804c-5c0c33385502,tg:lhps:27637,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9ddeadfd-0df3-5f5c-8dee-ea40352b62bd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""70fe8ed6-573b-4017-95db-51a2b3692d0d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,tg:lhps:23334,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23334,https://data.letterenhuis.be/ark:/24970/b7af7078-6d4d-5f85-a287-ac0d411cf4a5,Affiches,,,,
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,tg:lhps:23334,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1965.0,2080,In Copyright
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,tg:lhps:23334,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19650313,,,,,,,,,,,,,,,,,,,,
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,tg:lhps:23334,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19650502,,,,,,,,,,,,,,,,,,,,
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,tg:lhps:23334,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1965-05-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,tg:lhps:23334,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Die Pelikan Kunstsammlung  
+Alte Meister Deutschland und Niederlande 19. und 20. Jahrhundert  
+Würtembergischer Kunstverein Stuttgart  
+Kunstgebäude am Schlossplatz",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022679,referentienummer,False,,,,,,,,,,,,,,
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23334,brocade id,False,,,,,,,,,,,,,,
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23334/N,brocade url,False,,,,,,,,,,,,,,
+b7af7078-6d4d-5f85-a287-ac0d411cf4a5,tg:lhps:23334,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b428e3f3-4109-5cef-8061-0e2b3ea7808f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f519de33-e160-4328-8aeb-60bcd46f8881"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

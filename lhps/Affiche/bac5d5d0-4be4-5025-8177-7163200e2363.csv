@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+bac5d5d0-4be4-5025-8177-7163200e2363,tg:lhps:25029,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25029,https://data.letterenhuis.be/ark:/24970/bac5d5d0-4be4-5025-8177-7163200e2363,Affiches,,,,
+bac5d5d0-4be4-5025-8177-7163200e2363,tg:lhps:25029,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+bac5d5d0-4be4-5025-8177-7163200e2363,tg:lhps:25029,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830607,,,,,,,,,,,,,,,,,,,,
+bac5d5d0-4be4-5025-8177-7163200e2363,tg:lhps:25029,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830712,,,,,,,,,,,,,,,,,,,,
+bac5d5d0-4be4-5025-8177-7163200e2363,tg:lhps:25029,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-07-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bac5d5d0-4be4-5025-8177-7163200e2363,tg:lhps:25029,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Shidoni Sculpture  
+9th Annual Outdoor Show - 1983  
+Tesuque, New Mexico",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+bac5d5d0-4be4-5025-8177-7163200e2363,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024368,referentienummer,False,,,,,,,,,,,,,,
+bac5d5d0-4be4-5025-8177-7163200e2363,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25029,brocade id,False,,,,,,,,,,,,,,
+bac5d5d0-4be4-5025-8177-7163200e2363,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25029/N,brocade url,False,,,,,,,,,,,,,,
+bac5d5d0-4be4-5025-8177-7163200e2363,tg:lhps:25029,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""60cf05c7-1dce-508e-ac49-c7409e9826dc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""98e7b594-c8a6-4d1e-92b2-07e31086c7d1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

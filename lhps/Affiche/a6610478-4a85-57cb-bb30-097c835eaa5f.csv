@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a6610478-4a85-57cb-bb30-097c835eaa5f,tg:lhps:29731,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29731,https://data.letterenhuis.be/ark:/24970/a6610478-4a85-57cb-bb30-097c835eaa5f,Affiches,,,,
+a6610478-4a85-57cb-bb30-097c835eaa5f,tg:lhps:29731,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 93.21.66</p>
+","<p>Oude nummering Volkskunde: 93.21.66</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a6610478-4a85-57cb-bb30-097c835eaa5f,tg:lhps:29731,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1961.0,2076,In Copyright
+a6610478-4a85-57cb-bb30-097c835eaa5f,tg:lhps:29731,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19610000,,,,,,,,,,,,,,,,,,,,
+a6610478-4a85-57cb-bb30-097c835eaa5f,tg:lhps:29731,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1961,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a6610478-4a85-57cb-bb30-097c835eaa5f,tg:lhps:29731,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gemeente Overijse  
+Grote Druiven- en Wijnfeesten 1961  
+Kwik-parade",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a6610478-4a85-57cb-bb30-097c835eaa5f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000029040,referentienummer,False,,,,,,,,,,,,,,
+a6610478-4a85-57cb-bb30-097c835eaa5f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29731,brocade id,False,,,,,,,,,,,,,,
+a6610478-4a85-57cb-bb30-097c835eaa5f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29731/N,brocade url,False,,,,,,,,,,,,,,
+a6610478-4a85-57cb-bb30-097c835eaa5f,tg:lhps:29731,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""159db9c3-a3f5-5913-b889-93913666c2e5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c3041e97-436e-4911-8c95-b3494181efc6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+a6610478-4a85-57cb-bb30-097c835eaa5f,tg:lhps:29731,e73_OriginalBrocade,,,au::100857,,,,lhps,,,ffeea096-6b43-54cf-b213-e05016dd2eea,kw,,au::100857:1,au::100857g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Overijse (Halle-Vilvoorde)"",""ark"":""ark:/83110/x0/ffeea096-6b43-54cf-b213-e05016dd2eea"",""uri"":""/subjects/10791699"",""id"":""au::100857"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/ffeea096-6b43-54cf-b213-e05016dd2eea,place,,,,,,,,

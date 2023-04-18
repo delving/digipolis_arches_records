@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,tg:lhps:22551,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22551,https://data.letterenhuis.be/ark:/24970/8b5c9a83-217b-53f2-bd1e-65f11c038d9f,Affiches,,,,
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,tg:lhps:22551,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1990.0,2105,In Copyright
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,tg:lhps:22551,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19900902,,,,,,,,,,,,,,,,,,,,
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,tg:lhps:22551,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19901028,,,,,,,,,,,,,,,,,,,,
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,tg:lhps:22551,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1990-10-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,tg:lhps:22551,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Dan Flavin  
+4 Werke in fluoreszierenden Licht aus der Sammlung Reinhard Onnasch  
+Städtisches Museum Abteiberg",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021898,referentienummer,False,,,,,,,,,,,,,,
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22551,brocade id,False,,,,,,,,,,,,,,
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22551/N,brocade url,False,,,,,,,,,,,,,,
+8b5c9a83-217b-53f2-bd1e-65f11c038d9f,tg:lhps:22551,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""349fc4cf-cb22-5243-ba2d-316175be50e6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8326462d-614c-46a7-ab0c-fcd78fe88112"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,tg:lhps:35351,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:35351,https://data.letterenhuis.be/ark:/24970/f2707b6a-1b6e-5620-bc6d-69c4cb206a15,Affiches,,,,
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,tg:lhps:35351,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Ontwerp: E. Sciotti</p>
+<p>Twee exempl.</p>
+","<p>Ontwerp: E. Sciotti</p>
+<p>Twee exempl.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,tg:lhps:35351,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,tg:lhps:35351,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1985,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,tg:lhps:35351,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Alcove / Un film de Joe d'Almato,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000034522,referentienummer,False,,,,,,,,,,,,,,
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:35351,brocade id,False,,,,,,,,,,,,,,
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:35351/N,brocade url,False,,,,,,,,,,,,,,
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,tg:lhps:35351,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3ee3cfff-8bcb-55b1-a7cd-4df79956b3fc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""606ac7d8-d58d-49d6-98c0-dbb2bc87d343"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+f2707b6a-1b6e-5620-bc6d-69c4cb206a15,tg:lhps:35351,e73_OriginalBrocade,,,au::6754,,,,lhps,,,e13aee2e-5fa9-5d19-ba0a-f40af4ad7968,kw,,au::6754:1,au::6754g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Film"",""ark"":""ark:/83110/x0/e13aee2e-5fa9-5d19-ba0a-f40af4ad7968"",""uri"":""/subjects/722678"",""id"":""au::6754"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/e13aee2e-5fa9-5d19-ba0a-f40af4ad7968,topic,,,,,,,,

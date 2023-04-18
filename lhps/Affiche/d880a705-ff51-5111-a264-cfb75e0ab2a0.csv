@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d880a705-ff51-5111-a264-cfb75e0ab2a0,tg:lhps:22188,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22188,https://data.letterenhuis.be/ark:/24970/d880a705-ff51-5111-a264-cfb75e0ab2a0,Affiches,,,,
+d880a705-ff51-5111-a264-cfb75e0ab2a0,tg:lhps:22188,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+d880a705-ff51-5111-a264-cfb75e0ab2a0,tg:lhps:22188,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680316,,,,,,,,,,,,,,,,,,,,
+d880a705-ff51-5111-a264-cfb75e0ab2a0,tg:lhps:22188,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680408,,,,,,,,,,,,,,,,,,,,
+d880a705-ff51-5111-a264-cfb75e0ab2a0,tg:lhps:22188,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-04-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d880a705-ff51-5111-a264-cfb75e0ab2a0,tg:lhps:22188,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Perry Abramsen  
+Rob Figee  
+Expositiezaal De Doelen",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d880a705-ff51-5111-a264-cfb75e0ab2a0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021536,referentienummer,False,,,,,,,,,,,,,,
+d880a705-ff51-5111-a264-cfb75e0ab2a0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22188,brocade id,False,,,,,,,,,,,,,,
+d880a705-ff51-5111-a264-cfb75e0ab2a0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22188/N,brocade url,False,,,,,,,,,,,,,,
+d880a705-ff51-5111-a264-cfb75e0ab2a0,tg:lhps:22188,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4f5c8734-b28d-5304-b4e8-5e49150935f0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""edf74151-fd49-4720-870c-a5937c09f406"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

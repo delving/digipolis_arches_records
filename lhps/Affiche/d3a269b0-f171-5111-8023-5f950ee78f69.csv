@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d3a269b0-f171-5111-8023-5f950ee78f69,tg:lhps:23523,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23523,https://data.letterenhuis.be/ark:/24970/d3a269b0-f171-5111-8023-5f950ee78f69,Affiches,,,,
+d3a269b0-f171-5111-8023-5f950ee78f69,tg:lhps:23523,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+d3a269b0-f171-5111-8023-5f950ee78f69,tg:lhps:23523,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19831023,,,,,,,,,,,,,,,,,,,,
+d3a269b0-f171-5111-8023-5f950ee78f69,tg:lhps:23523,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19831128,,,,,,,,,,,,,,,,,,,,
+d3a269b0-f171-5111-8023-5f950ee78f69,tg:lhps:23523,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-11-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d3a269b0-f171-5111-8023-5f950ee78f69,tg:lhps:23523,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Antonio Segui  
+""Parques Nocturnos""  
+Musée de Louvain-la-Neuve",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d3a269b0-f171-5111-8023-5f950ee78f69,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022868,referentienummer,False,,,,,,,,,,,,,,
+d3a269b0-f171-5111-8023-5f950ee78f69,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23523,brocade id,False,,,,,,,,,,,,,,
+d3a269b0-f171-5111-8023-5f950ee78f69,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23523/N,brocade url,False,,,,,,,,,,,,,,
+d3a269b0-f171-5111-8023-5f950ee78f69,tg:lhps:23523,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2cc20be6-11af-5523-a988-b3e8e3d84d65"", ""ontologyProperty"": """", ""resourceXresourceId"": ""86d3a9b6-49f3-4c14-acf2-daf4f991eaf0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

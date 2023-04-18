@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+57f605f9-2d5d-5d6d-957e-eef820bf0725,tg:lhps:26401,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26401,https://data.letterenhuis.be/ark:/24970/57f605f9-2d5d-5d6d-957e-eef820bf0725,Affiches,,,,
+57f605f9-2d5d-5d6d-957e-eef820bf0725,tg:lhps:26401,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1992.0,2107,In Copyright
+57f605f9-2d5d-5d6d-957e-eef820bf0725,tg:lhps:26401,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920117,,,,,,,,,,,,,,,,,,,,
+57f605f9-2d5d-5d6d-957e-eef820bf0725,tg:lhps:26401,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920405,,,,,,,,,,,,,,,,,,,,
+57f605f9-2d5d-5d6d-957e-eef820bf0725,tg:lhps:26401,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1992-04-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57f605f9-2d5d-5d6d-957e-eef820bf0725,tg:lhps:26401,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrea Mantegna  
+Royal Academy of Arts  
+[design: Bailey & Kenny]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+57f605f9-2d5d-5d6d-957e-eef820bf0725,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025725,referentienummer,False,,,,,,,,,,,,,,
+57f605f9-2d5d-5d6d-957e-eef820bf0725,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26401,brocade id,False,,,,,,,,,,,,,,
+57f605f9-2d5d-5d6d-957e-eef820bf0725,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26401/N,brocade url,False,,,,,,,,,,,,,,
+57f605f9-2d5d-5d6d-957e-eef820bf0725,tg:lhps:26401,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dd0834d1-8a71-5817-972a-b6f18964cdb1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""08698722-43a8-49f2-ac6d-f61bafc569c3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

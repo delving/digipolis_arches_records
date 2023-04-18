@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,tg:lhps:23581,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23581,https://data.letterenhuis.be/ark:/24970/9bb6bcc7-d72d-5676-963e-1ab08fb36c64,Affiches,,,,
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,tg:lhps:23581,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1982.0,2097,In Copyright
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,tg:lhps:23581,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820814,,,,,,,,,,,,,,,,,,,,
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,tg:lhps:23581,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19821015,,,,,,,,,,,,,,,,,,,,
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,tg:lhps:23581,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1982-10-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,tg:lhps:23581,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Welsh Sculpture Trust  
+Sculpture at Margam  
+Maquettes for Public Sculpture",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022925,referentienummer,False,,,,,,,,,,,,,,
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23581,brocade id,False,,,,,,,,,,,,,,
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23581/N,brocade url,False,,,,,,,,,,,,,,
+9bb6bcc7-d72d-5676-963e-1ab08fb36c64,tg:lhps:23581,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""83711274-820d-57f8-b040-d31d96ace0a4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""39005dd5-bcda-4c77-a98b-e66e75a1f43f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

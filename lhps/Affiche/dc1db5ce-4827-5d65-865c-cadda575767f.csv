@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+dc1db5ce-4827-5d65-865c-cadda575767f,tg:lhps:26061,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26061,https://data.letterenhuis.be/ark:/24970/dc1db5ce-4827-5d65-865c-cadda575767f,Affiches,,,,
+dc1db5ce-4827-5d65-865c-cadda575767f,tg:lhps:26061,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+dc1db5ce-4827-5d65-865c-cadda575767f,tg:lhps:26061,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670803,,,,,,,,,,,,,,,,,,,,
+dc1db5ce-4827-5d65-865c-cadda575767f,tg:lhps:26061,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-08-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc1db5ce-4827-5d65-865c-cadda575767f,tg:lhps:26061,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Over de streep  
+Keuze uit het einde werk 1967 van de vrije afdeling van de Rotterdamse Academie van Beeldende Kunsten  
+Expositiezaal De Doelen  
+[ontwerp: Paul van der Lem]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+dc1db5ce-4827-5d65-865c-cadda575767f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025388,referentienummer,False,,,,,,,,,,,,,,
+dc1db5ce-4827-5d65-865c-cadda575767f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26061,brocade id,False,,,,,,,,,,,,,,
+dc1db5ce-4827-5d65-865c-cadda575767f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26061/N,brocade url,False,,,,,,,,,,,,,,
+dc1db5ce-4827-5d65-865c-cadda575767f,tg:lhps:26061,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""676ecd7f-a2e5-5a44-a440-c12f36feb131"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8462e454-4196-4a18-847c-02863548ea33"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

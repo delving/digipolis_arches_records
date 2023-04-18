@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+40101c24-a706-5de8-a7fe-62ad31380c8b,tg:lhps:26093,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26093,https://data.letterenhuis.be/ark:/24970/40101c24-a706-5de8-a7fe-62ad31380c8b,Affiches,,,,
+40101c24-a706-5de8-a7fe-62ad31380c8b,tg:lhps:26093,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1992.0,2107,In Copyright
+40101c24-a706-5de8-a7fe-62ad31380c8b,tg:lhps:26093,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920614,,,,,,,,,,,,,,,,,,,,
+40101c24-a706-5de8-a7fe-62ad31380c8b,tg:lhps:26093,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920823,,,,,,,,,,,,,,,,,,,,
+40101c24-a706-5de8-a7fe-62ad31380c8b,tg:lhps:26093,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1992-08-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40101c24-a706-5de8-a7fe-62ad31380c8b,tg:lhps:26093,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Ellsworth Kelly  
+Die Jahre in Frankreich 1948-1954  
+Westfälisches Landesmuseum Münster",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+40101c24-a706-5de8-a7fe-62ad31380c8b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025419,referentienummer,False,,,,,,,,,,,,,,
+40101c24-a706-5de8-a7fe-62ad31380c8b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26093,brocade id,False,,,,,,,,,,,,,,
+40101c24-a706-5de8-a7fe-62ad31380c8b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26093/N,brocade url,False,,,,,,,,,,,,,,
+40101c24-a706-5de8-a7fe-62ad31380c8b,tg:lhps:26093,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7ef3d723-c326-5734-8b91-7f363dc42cfe"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8798d4a4-a1f0-4a7f-ad0c-e282c8d4f8c7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

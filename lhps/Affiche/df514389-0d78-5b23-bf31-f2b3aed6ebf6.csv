@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,tg:lhps:26629,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26629,https://data.letterenhuis.be/ark:/24970/df514389-0d78-5b23-bf31-f2b3aed6ebf6,Affiches,,,,
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,tg:lhps:26629,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,tg:lhps:26629,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760711,,,,,,,,,,,,,,,,,,,,
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,tg:lhps:26629,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760912,,,,,,,,,,,,,,,,,,,,
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,tg:lhps:26629,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1976-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,tg:lhps:26629,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Mentalität: Zeichnung  
+Kunstmuseum Luzern  
+[Gestaltung: Dora Wespi]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025952,referentienummer,False,,,,,,,,,,,,,,
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26629,brocade id,False,,,,,,,,,,,,,,
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26629/N,brocade url,False,,,,,,,,,,,,,,
+df514389-0d78-5b23-bf31-f2b3aed6ebf6,tg:lhps:26629,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7a235558-004d-51f8-a6a5-f4bef64d60b1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""02f83ea9-4ad8-4b43-894a-64992a102673"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

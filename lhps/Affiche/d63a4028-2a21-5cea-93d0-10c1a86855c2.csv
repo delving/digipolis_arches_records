@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d63a4028-2a21-5cea-93d0-10c1a86855c2,tg:lhps:13110,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:13110,https://data.letterenhuis.be/ark:/24970/d63a4028-2a21-5cea-93d0-10c1a86855c2,Affiches,,,,
+d63a4028-2a21-5cea-93d0-10c1a86855c2,tg:lhps:13110,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1990.0,2105,In Copyright
+d63a4028-2a21-5cea-93d0-10c1a86855c2,tg:lhps:13110,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19900913,,,,,,,,,,,,,,,,,,,,
+d63a4028-2a21-5cea-93d0-10c1a86855c2,tg:lhps:13110,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19901104,,,,,,,,,,,,,,,,,,,,
+d63a4028-2a21-5cea-93d0-10c1a86855c2,tg:lhps:13110,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1990-11-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d63a4028-2a21-5cea-93d0-10c1a86855c2,tg:lhps:13110,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"CCL  
+Programma  
+Cultureel centrum Luchtbal  
+september-Oktober",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d63a4028-2a21-5cea-93d0-10c1a86855c2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012636,referentienummer,False,,,,,,,,,,,,,,
+d63a4028-2a21-5cea-93d0-10c1a86855c2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:13110,brocade id,False,,,,,,,,,,,,,,
+d63a4028-2a21-5cea-93d0-10c1a86855c2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:13110/N,brocade url,False,,,,,,,,,,,,,,
+d63a4028-2a21-5cea-93d0-10c1a86855c2,tg:lhps:13110,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e8572283-4eb1-50d7-a924-c08db4347cbd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""94848bfb-b648-45dc-80b5-4b0c032fe25c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

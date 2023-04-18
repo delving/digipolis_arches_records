@@ -1,0 +1,18 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,tg:lhps:32527,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:32527,https://data.letterenhuis.be/ark:/24970/81aa1010-fd4b-56ae-85dc-ceec3fa0840d,Affiches,,,,
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,tg:lhps:32527,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Aankondiging van de uitgave van &quot;Fantaisie sur les mois&quot; met 12 originele<br />
+litho's van Roedel</p>
+<p>Litho in één kleur; gesign. r.o. &quot;Roedel</p>
+","<p>Aankondiging van de uitgave van &quot;Fantaisie sur les mois&quot; met 12 originele<br />
+litho's van Roedel</p>
+<p>Litho in één kleur; gesign. r.o. &quot;Roedel</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,tg:lhps:32527,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1895.0,2010,No Known Copyright
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,tg:lhps:32527,e73_CreationActors,,,au::58794,,,,lhps,lhps,Affiche,e339b3df-1ad0-5e3a-9f8a-ee9c181595ae,ds,designers,au::58794:1,au::58794g:1,,"dlod={""suggest"":[""/agents/people/6290958"",""au::58794"",""au::58794:1"",""ark:/83110/x0/e339b3df-1ad0-5e3a-9f8a-ee9c181595ae"",""Auguste Roedel""],""name"":""Auguste Roedel"",""ark"":""ark:/83110/x0/e339b3df-1ad0-5e3a-9f8a-ee9c181595ae"",""uri"":""/agents/people/6290958"",""id"":""au::58794:1"",""isCapacity"":false}",ark:/83110/x0/e339b3df-1ad0-5e3a-9f8a-ee9c181595ae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,tg:lhps:32527,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,18950000,,,,,,,,,,,,,,,,,,,,
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,tg:lhps:32527,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,tg:lhps:32527,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Pour paraître prochainement / Fantaisie sur les Mois / 1895 / 12 lithos originales : par Roedel / tirage à 100 exemplaires / Imp. Eug. Marx (Atelier Belfond) / 10, Rue Gaillon - Paris",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000031776,referentienummer,False,,,,,,,,,,,,,,
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:32527,brocade id,False,,,,,,,,,,,,,,
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:32527/N,brocade url,False,,,,,,,,,,,,,,
+81aa1010-fd4b-56ae-85dc-ceec3fa0840d,tg:lhps:32527,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3518c065-93d2-51ac-a861-0c5a675e2c4d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""88137920-ee86-496e-ade9-b5ea2b25360b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

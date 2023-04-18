@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+5a0f822c-649e-5861-9ec1-ac84c10936ce,tg:lhps:23178,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23178,https://data.letterenhuis.be/ark:/24970/5a0f822c-649e-5861-9ec1-ac84c10936ce,Affiches,,,,
+5a0f822c-649e-5861-9ec1-ac84c10936ce,tg:lhps:23178,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+5a0f822c-649e-5861-9ec1-ac84c10936ce,tg:lhps:23178,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670211,,,,,,,,,,,,,,,,,,,,
+5a0f822c-649e-5861-9ec1-ac84c10936ce,tg:lhps:23178,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670327,,,,,,,,,,,,,,,,,,,,
+5a0f822c-649e-5861-9ec1-ac84c10936ce,tg:lhps:23178,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-03-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5a0f822c-649e-5861-9ec1-ac84c10936ce,tg:lhps:23178,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Manfredo Borsi  
+Arbeiten 1957-1967  
+Malerei - Graphik - Keramische Bilder  
+Kunstgewerbemuseum der Stadt Köln  
+[Entwurf: Ehrenfried Schmidt]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+5a0f822c-649e-5861-9ec1-ac84c10936ce,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022523,referentienummer,False,,,,,,,,,,,,,,
+5a0f822c-649e-5861-9ec1-ac84c10936ce,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23178,brocade id,False,,,,,,,,,,,,,,
+5a0f822c-649e-5861-9ec1-ac84c10936ce,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23178/N,brocade url,False,,,,,,,,,,,,,,
+5a0f822c-649e-5861-9ec1-ac84c10936ce,tg:lhps:23178,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""31587fdd-29be-5440-904d-c32b952b2328"", ""ontologyProperty"": """", ""resourceXresourceId"": ""afbe3886-aff5-4c6c-9d16-9f834573c439"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

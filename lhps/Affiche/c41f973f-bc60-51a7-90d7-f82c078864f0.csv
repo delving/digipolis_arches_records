@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c41f973f-bc60-51a7-90d7-f82c078864f0,tg:lhps:26938,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26938,https://data.letterenhuis.be/ark:/24970/c41f973f-bc60-51a7-90d7-f82c078864f0,Affiches,,,,
+c41f973f-bc60-51a7-90d7-f82c078864f0,tg:lhps:26938,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963.0,2078,In Copyright
+c41f973f-bc60-51a7-90d7-f82c078864f0,tg:lhps:26938,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19631016,,,,,,,,,,,,,,,,,,,,
+c41f973f-bc60-51a7-90d7-f82c078864f0,tg:lhps:26938,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640215,,,,,,,,,,,,,,,,,,,,
+c41f973f-bc60-51a7-90d7-f82c078864f0,tg:lhps:26938,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-02-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c41f973f-bc60-51a7-90d7-f82c078864f0,tg:lhps:26938,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Monumenta Judaica  
+Kölnischen Stadtmuseum  
+[Entwurf: Ehrenfried Schmidt]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c41f973f-bc60-51a7-90d7-f82c078864f0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026260,referentienummer,False,,,,,,,,,,,,,,
+c41f973f-bc60-51a7-90d7-f82c078864f0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26938,brocade id,False,,,,,,,,,,,,,,
+c41f973f-bc60-51a7-90d7-f82c078864f0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26938/N,brocade url,False,,,,,,,,,,,,,,
+c41f973f-bc60-51a7-90d7-f82c078864f0,tg:lhps:26938,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""99dc6561-0ba9-5908-a2ae-39734fd30db2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""04ea2a5b-05e6-43ed-9ba8-0beeae689848"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

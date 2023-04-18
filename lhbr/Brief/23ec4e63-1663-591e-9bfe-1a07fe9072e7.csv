@@ -1,0 +1,14 @@
+ResourceID,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,source_ire_type,Connected Subject Role,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,dataset,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:116771,https://data.letterenhuis.be/ark:/24970/23ec4e63-1663-591e-9bfe-1a07fe9072e7,Brieven,,,,
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,note.lhalg,"<p>B: Document</p>
+","<p>B: Document</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1961.0,2076,In Copyright
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,,au::14932:1:N:MWV.1,,,,lhbr,bs,,au::14932g:1::MWV.1,,,,,lhbr,Brief,correspondents (correspondence writers),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19610221,,,,,,,,,,,,,,,,,,,,,,,,,
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,,,,,,,,,,,,,,,,,,,,1961-02-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000109925,referentienummer,False,,,,,,,,,,,
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:116771,brocade id,False,,,,,,,,,,,
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:116771/N,brocade url,False,,,,,,,,,,,
+23ec4e63-1663-591e-9bfe-1a07fe9072e7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b292b577-3c04-5b3f-882c-c7a4ec93b0fc"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e7080143-3f80-4174-b8e4-17e1311223b7"", ""inverseOntologyProperty"": """"}]",,,,,,,,

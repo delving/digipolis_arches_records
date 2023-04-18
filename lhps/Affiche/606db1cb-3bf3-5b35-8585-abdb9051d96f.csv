@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+606db1cb-3bf3-5b35-8585-abdb9051d96f,tg:lhps:26204,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26204,https://data.letterenhuis.be/ark:/24970/606db1cb-3bf3-5b35-8585-abdb9051d96f,Affiches,,,,
+606db1cb-3bf3-5b35-8585-abdb9051d96f,tg:lhps:26204,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1984.0,2099,In Copyright
+606db1cb-3bf3-5b35-8585-abdb9051d96f,tg:lhps:26204,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19841209,,,,,,,,,,,,,,,,,,,,
+606db1cb-3bf3-5b35-8585-abdb9051d96f,tg:lhps:26204,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19850113,,,,,,,,,,,,,,,,,,,,
+606db1cb-3bf3-5b35-8585-abdb9051d96f,tg:lhps:26204,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1985-01-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+606db1cb-3bf3-5b35-8585-abdb9051d96f,tg:lhps:26204,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Innerschweizer Künstler 1984  
+Kunstmuseum Luzern  
+[Gestaltung: SFG Luzern, Monika Sommerhalder]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+606db1cb-3bf3-5b35-8585-abdb9051d96f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025530,referentienummer,False,,,,,,,,,,,,,,
+606db1cb-3bf3-5b35-8585-abdb9051d96f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26204,brocade id,False,,,,,,,,,,,,,,
+606db1cb-3bf3-5b35-8585-abdb9051d96f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26204/N,brocade url,False,,,,,,,,,,,,,,
+606db1cb-3bf3-5b35-8585-abdb9051d96f,tg:lhps:26204,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a3bd7fb9-3182-559f-b382-39ef6c454923"", ""ontologyProperty"": """", ""resourceXresourceId"": ""158e2853-b60e-40f4-88cf-a7d0a16104e7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

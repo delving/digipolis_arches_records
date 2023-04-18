@@ -1,0 +1,18 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,tg:lhps:16922,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:16922,https://data.letterenhuis.be/ark:/24970/7073b12f-69d0-5f61-8e0f-a3220b4c7003,Affiches,,,,
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,tg:lhps:16922,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,tg:lhps:16922,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810227,,,,,,,,,,,,,,,,,,,,
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,tg:lhps:16922,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810227,,,,,,,,,,,,,,,,,,,,
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,tg:lhps:16922,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-02-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,tg:lhps:16922,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Le Ballet Royal De Wallonie  
+Présente  
+Giselle  
+Chorégraphie: José Pares  
+Musique: Adolphe Adam  
+Décors et costumes: Miguel Navarro  
+Cultureel Centrum Hasselt",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000016342,referentienummer,False,,,,,,,,,,,,,,
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:16922,brocade id,False,,,,,,,,,,,,,,
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:16922/N,brocade url,False,,,,,,,,,,,,,,
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,tg:lhps:16922,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f9a87594-4b43-5b00-9e82-0a6087d90045"", ""ontologyProperty"": """", ""resourceXresourceId"": ""022d0802-4898-436a-bbc6-bb5d344611df"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+7073b12f-69d0-5f61-8e0f-a3220b4c7003,tg:lhps:16922,e73_OriginalBrocade,,,au::1051,,,,lhps,,,e8e8b4ab-e097-540b-9825-f353294ca549,kw,,au::1051:1,au::1051g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/112457"",""au::1051"",""au::1051:1"",""ark:/83110/x0/e8e8b4ab-e097-540b-9825-f353294ca549"",""Ballet Royale de Wallonie""],""name"":""Ballet Royale de Wallonie"",""ark"":""ark:/83110/x0/e8e8b4ab-e097-540b-9825-f353294ca549"",""uri"":""/agents/corporate_entities/112457"",""id"":""au::1051:1"",""isCapacity"":false}",ark:/83110/x0/e8e8b4ab-e097-540b-9825-f353294ca549,agent,,,,,,,,

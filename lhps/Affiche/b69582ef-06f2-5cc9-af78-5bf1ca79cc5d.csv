@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,tg:lhps:32397,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:32397,https://data.letterenhuis.be/ark:/24970/b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,Affiches,,,,
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,tg:lhps:32397,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Aankondiging van de uitgave van &quot;Dariel&quot; van R.D. Blackmore</p>
+<p>Kleurenlitho: rose, groen, ultramarijn; niet geïdentificeerd monogram m.o. in<br />
+tekening &quot;h</p>
+","<p>Aankondiging van de uitgave van &quot;Dariel&quot; van R.D. Blackmore</p>
+<p>Kleurenlitho: rose, groen, ultramarijn; niet geïdentificeerd monogram m.o. in<br />
+tekening &quot;h</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,tg:lhps:32397,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1897.0,2012,No Known Copyright
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,tg:lhps:32397,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,18970000,,,,,,,,,,,,,,,,,,,,
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,tg:lhps:32397,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1897,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,tg:lhps:32397,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Dariel / A Romance of Surrey / By R.D. Blackmore / Author of Lorna Doone / Dodd, Mead & Co Publishers",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000031651,referentienummer,False,,,,,,,,,,,,,,
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:32397,brocade id,False,,,,,,,,,,,,,,
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:32397/N,brocade url,False,,,,,,,,,,,,,,
+b69582ef-06f2-5cc9-af78-5bf1ca79cc5d,tg:lhps:32397,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f9caa761-ee0d-5d6d-913c-7915ca27f123"", ""ontologyProperty"": """", ""resourceXresourceId"": ""006c6286-43a5-4414-aa79-757b32a2778a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

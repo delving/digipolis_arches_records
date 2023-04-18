@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,tg:lhps:15538,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:15538,https://data.letterenhuis.be/ark:/24970/418fdc74-103d-553f-a6f7-7c0fecf9dc31,Affiches,,,,
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,tg:lhps:15538,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,tg:lhps:15538,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670318,,,,,,,,,,,,,,,,,,,,
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,tg:lhps:15538,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670318,,,,,,,,,,,,,,,,,,,,
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,tg:lhps:15538,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-03-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,tg:lhps:15538,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gaston Martens  
+Martens - avond  
+de plezante begrafenis van Klakke Verdoest  
+Schiettecatte Daniel  
+Lamme Goedzak verliefd  
+Collage Marc",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000014998,referentienummer,False,,,,,,,,,,,,,,
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:15538,brocade id,False,,,,,,,,,,,,,,
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:15538/N,brocade url,False,,,,,,,,,,,,,,
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,tg:lhps:15538,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a17c3cab-a1ae-5a78-906f-d2cdb85a3f54"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d6f63919-1218-406a-b377-bf62539d55a0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+418fdc74-103d-553f-a6f7-7c0fecf9dc31,tg:lhps:15538,e73_OriginalBrocade,,,au::12295,,,,lhps,,,8d511621-de70-5a5d-bf36-1176201877bc,kw,,au::12295:1,au::12295g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1315565"",""au::12295"",""au::12295:1"",""ark:/83110/x0/8d511621-de70-5a5d-bf36-1176201877bc"",""Gaston-Marie Martens""],""name"":""Gaston-Marie Martens"",""ark"":""ark:/83110/x0/8d511621-de70-5a5d-bf36-1176201877bc"",""uri"":""/agents/people/1315565"",""id"":""au::12295:1"",""isCapacity"":false}",ark:/83110/x0/8d511621-de70-5a5d-bf36-1176201877bc,agent,,,,,,,,

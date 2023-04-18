@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,tg:lhps:27048,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27048,https://data.letterenhuis.be/ark:/24970/b9b76a83-06e6-54e2-aea3-b47f06b2d143,Affiches,,,,
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,tg:lhps:27048,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1982.0,2097,In Copyright
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,tg:lhps:27048,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820311,,,,,,,,,,,,,,,,,,,,
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,tg:lhps:27048,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820411,,,,,,,,,,,,,,,,,,,,
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,tg:lhps:27048,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1982-04-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,tg:lhps:27048,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Ruth Francken - Techninger  
+[Foto van Jean Paul Sartre]  
+Henie-Onstad Kunstsenter",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026370,referentienummer,False,,,,,,,,,,,,,,
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27048,brocade id,False,,,,,,,,,,,,,,
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27048/N,brocade url,False,,,,,,,,,,,,,,
+b9b76a83-06e6-54e2-aea3-b47f06b2d143,tg:lhps:27048,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""555102f1-cb23-5f02-ad80-ffe7078a751b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b3a03dd2-d78e-403b-87e5-e07aae28e120"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

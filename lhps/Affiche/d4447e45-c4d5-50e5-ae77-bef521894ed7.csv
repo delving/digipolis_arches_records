@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d4447e45-c4d5-50e5-ae77-bef521894ed7,tg:lhps:29742,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29742,https://data.letterenhuis.be/ark:/24970/d4447e45-c4d5-50e5-ae77-bef521894ed7,Affiches,,,,
+d4447e45-c4d5-50e5-ae77-bef521894ed7,tg:lhps:29742,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 93.21.49</p>
+","<p>Oude nummering Volkskunde: 93.21.49</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d4447e45-c4d5-50e5-ae77-bef521894ed7,tg:lhps:29742,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1958.0,2073,In Copyright
+d4447e45-c4d5-50e5-ae77-bef521894ed7,tg:lhps:29742,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19580000,,,,,,,,,,,,,,,,,,,,
+d4447e45-c4d5-50e5-ae77-bef521894ed7,tg:lhps:29742,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1958,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d4447e45-c4d5-50e5-ae77-bef521894ed7,tg:lhps:29742,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gemeente Tielrode  
+Kon. staande wipmaatschappij St. Sebastiaan  
+Voorbehouden dagen 1958",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d4447e45-c4d5-50e5-ae77-bef521894ed7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000029051,referentienummer,False,,,,,,,,,,,,,,
+d4447e45-c4d5-50e5-ae77-bef521894ed7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29742,brocade id,False,,,,,,,,,,,,,,
+d4447e45-c4d5-50e5-ae77-bef521894ed7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29742/N,brocade url,False,,,,,,,,,,,,,,
+d4447e45-c4d5-50e5-ae77-bef521894ed7,tg:lhps:29742,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f6c5e83c-905d-58da-835e-a4d68b383547"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bd1280a7-e1c5-4589-b0e3-a94e0e555531"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+d4447e45-c4d5-50e5-ae77-bef521894ed7,tg:lhps:29742,e73_OriginalBrocade,,,au::44849,,,,lhps,,,60a4c3d1-98fc-5ac8-b808-87b30bdcbe19,kw,,au::44849:1,au::44849g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Volkssporten"",""ark"":""ark:/83110/x0/60a4c3d1-98fc-5ac8-b808-87b30bdcbe19"",""uri"":""/subjects/4798843"",""id"":""au::44849"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/60a4c3d1-98fc-5ac8-b808-87b30bdcbe19,topic,,,,,,,,

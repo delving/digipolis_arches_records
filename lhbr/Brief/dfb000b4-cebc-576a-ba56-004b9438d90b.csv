@@ -1,0 +1,17 @@
+ResourceID,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,source_ire_type,Connected Subject Role,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,dataset,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+dfb000b4-cebc-576a-ba56-004b9438d90b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:252974,https://data.letterenhuis.be/ark:/24970/dfb000b4-cebc-576a-ba56-004b9438d90b,Brieven,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,note.lhalg,"<p>Volledig gekopieerde briefwisseling, ingebonden in ringbandje.</p>
+","<p>Volledig gekopieerde briefwisseling, ingebonden in ringbandje.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1994.0,2109,In Copyright
+dfb000b4-cebc-576a-ba56-004b9438d90b,,au::56589,,,,lhbr,bs,,au::56589g:1,,,,,lhbr,Brief,correspondents (correspondence writers),,"dlod={""suggest"":[""/agents/people/6055023"",""au::56589"",""au::56589:1"",""ark:/83110/x0/9b4cbbdb-cdf9-5016-8033-2015b044b5a7"",""Ida de Ridder""],""name"":""Ida de Ridder"",""ark"":""ark:/83110/x0/9b4cbbdb-cdf9-5016-8033-2015b044b5a7"",""uri"":""/agents/people/6055023"",""id"":""au::56589:1"",""isCapacity"":false}",ark:/83110/x0/9b4cbbdb-cdf9-5016-8033-2015b044b5a7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19940000,,,,,,,,,,,,,,,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19980000,,,,,,,,,,,,,,,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,,,,,,,,,,,,,,,,,,,,1998,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Briefwisseling met Jaap Pameijer,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000241790,referentienummer,False,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:252974,brocade id,False,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:252974/N,brocade url,False,,,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100 brgr,groepsbeschrijving,False,100,brgr,,,,,,,,,
+dfb000b4-cebc-576a-ba56-004b9438d90b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fb9196db-73fb-5d4d-85c9-a731e63a620b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""62c668ae-5539-4983-b0eb-90008ff9346e"", ""inverseOntologyProperty"": """"}]",,,,,,,,

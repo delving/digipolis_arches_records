@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,tg:lhps:23064,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23064,https://data.letterenhuis.be/ark:/24970/7765ec4f-259a-56d1-a59b-07f7ef0674dd,Affiches,,,,
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,tg:lhps:23064,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: C. Brandt, Bonn</p>
+","<p>druk: C. Brandt, Bonn</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,tg:lhps:23064,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,tg:lhps:23064,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680508,,,,,,,,,,,,,,,,,,,,
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,tg:lhps:23064,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680603,,,,,,,,,,,,,,,,,,,,
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,tg:lhps:23064,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-06-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,tg:lhps:23064,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Peter Joseph Lenné  
+Gartenarchitekt und Landschaftskünstler 1789-1866  
+Städtische Kunstsammlungen Bonn - Arndt-Haus",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022409,referentienummer,False,,,,,,,,,,,,,,
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23064,brocade id,False,,,,,,,,,,,,,,
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23064/N,brocade url,False,,,,,,,,,,,,,,
+7765ec4f-259a-56d1-a59b-07f7ef0674dd,tg:lhps:23064,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f319e74f-776e-54b2-b958-4a322dacba46"", ""ontologyProperty"": """", ""resourceXresourceId"": ""85d4d15c-1838-492d-a6b5-8f36ec3a2ca5"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

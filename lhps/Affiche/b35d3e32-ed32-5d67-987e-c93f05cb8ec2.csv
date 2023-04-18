@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,tg:lhps:22822,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22822,https://data.letterenhuis.be/ark:/24970/b35d3e32-ed32-5d67-987e-c93f05cb8ec2,Affiches,,,,
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,tg:lhps:22822,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1979.0,2094,In Copyright
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,tg:lhps:22822,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19790318,,,,,,,,,,,,,,,,,,,,
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,tg:lhps:22822,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1979-03-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,tg:lhps:22822,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Jubelseizoen  
+Primaverakoor  
+Concert  
+Duits jeugdorkest  
+Vocale omlijsting door Primaverakoor",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022168,referentienummer,False,,,,,,,,,,,,,,
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22822,brocade id,False,,,,,,,,,,,,,,
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22822/N,brocade url,False,,,,,,,,,,,,,,
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,tg:lhps:22822,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b5902cd9-aba4-5517-b20e-3c67d8f9ec6e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8ee01555-d58e-4389-b0ce-3cc3a700cefe"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+b35d3e32-ed32-5d67-987e-c93f05cb8ec2,tg:lhps:22822,e73_OriginalBrocade,,,au::10567,,,,lhps,,,7682e623-6b41-5851-bccb-2b9cbf330aa9,kw,,au::10567:1,au::10567g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Koren"",""ark"":""ark:/83110/x0/7682e623-6b41-5851-bccb-2b9cbf330aa9"",""uri"":""/subjects/1130669"",""id"":""au::10567"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/7682e623-6b41-5851-bccb-2b9cbf330aa9,topic,,,,,,,,

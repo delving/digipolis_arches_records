@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+2e587d16-3a97-575c-bbc2-b03abe338a3e,tg:lhps:13129,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:13129,https://data.letterenhuis.be/ark:/24970/2e587d16-3a97-575c-bbc2-b03abe338a3e,Affiches,,,,
+2e587d16-3a97-575c-bbc2-b03abe338a3e,tg:lhps:13129,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined
+2e587d16-3a97-575c-bbc2-b03abe338a3e,tg:lhps:13129,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,00000421,,,,,,,,,,,,,,,,,,,,
+2e587d16-3a97-575c-bbc2-b03abe338a3e,tg:lhps:13129,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,00000421,,,,,,,,,,,,,,,,,,,,
+2e587d16-3a97-575c-bbc2-b03abe338a3e,tg:lhps:13129,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,XXXX-04-21,circa,circa,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2e587d16-3a97-575c-bbc2-b03abe338a3e,tg:lhps:13129,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"CCL  
+mini-musical museum  
+Leo Brant (K.J.T.)  
+zingt: begeleid door  
+Dirk Van oerle",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+2e587d16-3a97-575c-bbc2-b03abe338a3e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012655,referentienummer,False,,,,,,,,,,,,,,
+2e587d16-3a97-575c-bbc2-b03abe338a3e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:13129,brocade id,False,,,,,,,,,,,,,,
+2e587d16-3a97-575c-bbc2-b03abe338a3e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:13129/N,brocade url,False,,,,,,,,,,,,,,
+2e587d16-3a97-575c-bbc2-b03abe338a3e,tg:lhps:13129,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1e81c05e-1a55-5dd9-92a1-6b4e0a891c7e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9cddfa9d-8e00-4d73-a15f-c98ade54f6f8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

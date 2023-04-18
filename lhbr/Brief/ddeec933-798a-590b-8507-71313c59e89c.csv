@@ -1,0 +1,15 @@
+ResourceID,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,source_ire_type,Connected Subject Role,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,dataset,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+ddeec933-798a-590b-8507-71313c59e89c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:156428,https://data.letterenhuis.be/ark:/24970/ddeec933-798a-590b-8507-71313c59e89c,Brieven,,,,
+ddeec933-798a-590b-8507-71313c59e89c,note.lhalg,"<p>B: Omslag</p>
+","<p>B: Omslag</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ddeec933-798a-590b-8507-71313c59e89c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1974.0,2089,In Copyright
+ddeec933-798a-590b-8507-71313c59e89c,,au::7553,,,,lhbr,co,,au::7553g:1,,,,,lhbr,Brief,recipients (people),,"dlod={""suggest"":[""/agents/people/808171"",""au::7553"",""au::7553:1"",""ark:/83110/x0/17120235-effa-5490-a424-40fbede73ff6"",""Eugeen Gilliams""],""name"":""Eugeen Gilliams"",""ark"":""ark:/83110/x0/17120235-effa-5490-a424-40fbede73ff6"",""uri"":""/agents/people/808171"",""id"":""au::7553:1"",""isCapacity"":false}",ark:/83110/x0/17120235-effa-5490-a424-40fbede73ff6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ddeec933-798a-590b-8507-71313c59e89c,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19741204,,,,,,,,,,,,,,,,,,,,,,,,,
+ddeec933-798a-590b-8507-71313c59e89c,,,,,,,,,,,,,,,,,,,,1974-12-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ddeec933-798a-590b-8507-71313c59e89c,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Van de weduwe van Victor van Vriesland,descriptive note,Nederlands,,,,,,,,,,,,,,,,,,,,,,
+ddeec933-798a-590b-8507-71313c59e89c,kenmerken.lhlanguagehs,dut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dutch (language),,,,,,,,,,,,,,
+ddeec933-798a-590b-8507-71313c59e89c,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000147664,referentienummer,False,,,,,,,,,,,
+ddeec933-798a-590b-8507-71313c59e89c,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:156428,brocade id,False,,,,,,,,,,,
+ddeec933-798a-590b-8507-71313c59e89c,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:156428/N,brocade url,False,,,,,,,,,,,
+ddeec933-798a-590b-8507-71313c59e89c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b6017d5a-9636-5c06-8dd9-da26e66b3213"", ""ontologyProperty"": """", ""resourceXresourceId"": ""60e1f8c0-0c6f-4639-a9d9-b3f53e13a737"", ""inverseOntologyProperty"": """"}]",,,,,,,,

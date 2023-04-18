@@ -1,0 +1,22 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,tg:lhps:30473,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:30473,https://data.letterenhuis.be/ark:/24970/219e1a66-a86a-5ddd-8b89-6f48efc8bf85,Affiches,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,tg:lhps:30473,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering NSM: E 35513</p>
+<p>Projet: @ J. Pfirter</p>
+<p>Impression Duo d'Art s.a.</p>
+<p>Photo: Christian Poite</p>
+","<p>Oude nummering NSM: E 35513</p>
+<p>Projet: @ J. Pfirter</p>
+<p>Impression Duo d'Art s.a.</p>
+<p>Photo: Christian Poite</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,tg:lhps:30473,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,tg:lhps:30473,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,00000401,,,,,,,,,,,,,,,,,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,tg:lhps:30473,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,00001031,,,,,,,,,,,,,,,,,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,tg:lhps:30473,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,XXXX-10-31,circa,circa,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,tg:lhps:30473,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Musée d'Histoire des Sciences 
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000029778,referentienummer,False,,,,,,,,,,,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:30473,brocade id,False,,,,,,,,,,,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:30473/N,brocade url,False,,,,,,,,,,,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,tg:lhps:30473,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""90f98723-220e-5e54-a5b9-baadc2527bb8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6c606fbd-eb4e-4b61-83fd-9a2478bc22e1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+219e1a66-a86a-5ddd-8b89-6f48efc8bf85,tg:lhps:30473,e73_OriginalBrocade,,,au::106632,,,,lhps,,,82791e7a-d544-51c6-9c43-bd133d9ba779,vb,,au::106632:1,au::106632g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Genève (Genève)"",""ark"":""ark:/83110/x0/82791e7a-d544-51c6-9c43-bd133d9ba779"",""uri"":""/subjects/11409624"",""id"":""au::106632"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/82791e7a-d544-51c6-9c43-bd133d9ba779,place,,,,,,,,

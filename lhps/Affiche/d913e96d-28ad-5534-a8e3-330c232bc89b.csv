@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d913e96d-28ad-5534-a8e3-330c232bc89b,tg:lhps:23311,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23311,https://data.letterenhuis.be/ark:/24970/d913e96d-28ad-5534-a8e3-330c232bc89b,Affiches,,,,
+d913e96d-28ad-5534-a8e3-330c232bc89b,tg:lhps:23311,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: F. Kamp, Bochum</p>
+","<p>druk: F. Kamp, Bochum</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d913e96d-28ad-5534-a8e3-330c232bc89b,tg:lhps:23311,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1966.0,2081,In Copyright
+d913e96d-28ad-5534-a8e3-330c232bc89b,tg:lhps:23311,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19660605,,,,,,,,,,,,,,,,,,,,
+d913e96d-28ad-5534-a8e3-330c232bc89b,tg:lhps:23311,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19660717,,,,,,,,,,,,,,,,,,,,
+d913e96d-28ad-5534-a8e3-330c232bc89b,tg:lhps:23311,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1966-07-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d913e96d-28ad-5534-a8e3-330c232bc89b,tg:lhps:23311,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Jan Koblasa  
+Städtische Kunstgalerie Bochum  
+[Entwurf: Kaplan]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d913e96d-28ad-5534-a8e3-330c232bc89b,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022656,referentienummer,False,,,,,,,,,,,,,,
+d913e96d-28ad-5534-a8e3-330c232bc89b,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23311,brocade id,False,,,,,,,,,,,,,,
+d913e96d-28ad-5534-a8e3-330c232bc89b,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23311/N,brocade url,False,,,,,,,,,,,,,,
+d913e96d-28ad-5534-a8e3-330c232bc89b,tg:lhps:23311,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""8abd211d-6b09-5d32-a5d5-08d1f80a4d0e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d3260937-8cf3-4c4a-acba-7a760d48c39e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

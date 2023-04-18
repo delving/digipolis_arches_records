@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+98ca847a-9d55-5d6e-89b3-02a6e864b980,tg:lhps:23573,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23573,https://data.letterenhuis.be/ark:/24970/98ca847a-9d55-5d6e-89b3-02a6e864b980,Affiches,,,,
+98ca847a-9d55-5d6e-89b3-02a6e864b980,tg:lhps:23573,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1982.0,2097,In Copyright
+98ca847a-9d55-5d6e-89b3-02a6e864b980,tg:lhps:23573,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820905,,,,,,,,,,,,,,,,,,,,
+98ca847a-9d55-5d6e-89b3-02a6e864b980,tg:lhps:23573,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19821003,,,,,,,,,,,,,,,,,,,,
+98ca847a-9d55-5d6e-89b3-02a6e864b980,tg:lhps:23573,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1982-10-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98ca847a-9d55-5d6e-89b3-02a6e864b980,tg:lhps:23573,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Daniel Buren  
+Von da an (à partir de la)  
+Städtisches Museum Abteiberg",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+98ca847a-9d55-5d6e-89b3-02a6e864b980,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022917,referentienummer,False,,,,,,,,,,,,,,
+98ca847a-9d55-5d6e-89b3-02a6e864b980,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23573,brocade id,False,,,,,,,,,,,,,,
+98ca847a-9d55-5d6e-89b3-02a6e864b980,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23573/N,brocade url,False,,,,,,,,,,,,,,
+98ca847a-9d55-5d6e-89b3-02a6e864b980,tg:lhps:23573,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""4bb64382-e66e-5218-a241-36c466652cfd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8e8dbb81-b8c2-46ef-9a81-f52258fe1173"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+42170676-54d8-51cc-8a0f-dece8f70c74f,tg:lhps:29143,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29143,https://data.letterenhuis.be/ark:/24970/42170676-54d8-51cc-8a0f-dece8f70c74f,Affiches,,,,
+42170676-54d8-51cc-8a0f-dece8f70c74f,tg:lhps:29143,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering: 93.21.430</p>
+","<p>Oude nummering: 93.21.430</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42170676-54d8-51cc-8a0f-dece8f70c74f,tg:lhps:29143,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1917.0,2032,In Copyright
+42170676-54d8-51cc-8a0f-dece8f70c74f,tg:lhps:29143,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19170710,,,,,,,,,,,,,,,,,,,,
+42170676-54d8-51cc-8a0f-dece8f70c74f,tg:lhps:29143,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1917-07-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42170676-54d8-51cc-8a0f-dece8f70c74f,tg:lhps:29143,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Groote Liefdadigheidsprijskamp van Bakspel  
+Ten voordeele van den Liefdadigheidsmaatschappij De Biekorf  
+In lokaal ""Hotel des Sports",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+42170676-54d8-51cc-8a0f-dece8f70c74f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028455,referentienummer,False,,,,,,,,,,,,,,
+42170676-54d8-51cc-8a0f-dece8f70c74f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29143,brocade id,False,,,,,,,,,,,,,,
+42170676-54d8-51cc-8a0f-dece8f70c74f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29143/N,brocade url,False,,,,,,,,,,,,,,
+42170676-54d8-51cc-8a0f-dece8f70c74f,tg:lhps:29143,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d2a1f3d0-2b66-518a-9deb-d6035e94ff21"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4e06382f-b56f-47be-ac0b-c333b387190e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+42170676-54d8-51cc-8a0f-dece8f70c74f,tg:lhps:29143,e73_OriginalBrocade,,,au::44849,,,,lhps,,,60a4c3d1-98fc-5ac8-b808-87b30bdcbe19,kw,,au::44849:1,au::44849g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Volkssporten"",""ark"":""ark:/83110/x0/60a4c3d1-98fc-5ac8-b808-87b30bdcbe19"",""uri"":""/subjects/4798843"",""id"":""au::44849"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/60a4c3d1-98fc-5ac8-b808-87b30bdcbe19,topic,,,,,,,,

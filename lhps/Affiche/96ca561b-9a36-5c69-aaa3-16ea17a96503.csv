@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+96ca561b-9a36-5c69-aaa3-16ea17a96503,tg:lhps:25993,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25993,https://data.letterenhuis.be/ark:/24970/96ca561b-9a36-5c69-aaa3-16ea17a96503,Affiches,,,,
+96ca561b-9a36-5c69-aaa3-16ea17a96503,tg:lhps:25993,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972.0,2087,In Copyright
+96ca561b-9a36-5c69-aaa3-16ea17a96503,tg:lhps:25993,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19721118,,,,,,,,,,,,,,,,,,,,
+96ca561b-9a36-5c69-aaa3-16ea17a96503,tg:lhps:25993,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1972-11-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96ca561b-9a36-5c69-aaa3-16ea17a96503,tg:lhps:25993,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"No says the room  
+Arakawa (from the mechanism of meaning)  
+Ronald Feldman Fine Arts",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+96ca561b-9a36-5c69-aaa3-16ea17a96503,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025321,referentienummer,False,,,,,,,,,,,,,,
+96ca561b-9a36-5c69-aaa3-16ea17a96503,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25993,brocade id,False,,,,,,,,,,,,,,
+96ca561b-9a36-5c69-aaa3-16ea17a96503,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25993/N,brocade url,False,,,,,,,,,,,,,,
+96ca561b-9a36-5c69-aaa3-16ea17a96503,tg:lhps:25993,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""772cf5b5-5ac7-577c-91d3-4b7e4a242662"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9c5adc5b-1f81-4ce4-8872-8c683a284956"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

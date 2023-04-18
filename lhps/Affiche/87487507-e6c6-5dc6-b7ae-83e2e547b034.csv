@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+87487507-e6c6-5dc6-b7ae-83e2e547b034,tg:lhps:29235,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29235,https://data.letterenhuis.be/ark:/24970/87487507-e6c6-5dc6-b7ae-83e2e547b034,Affiches,,,,
+87487507-e6c6-5dc6-b7ae-83e2e547b034,tg:lhps:29235,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 95.35.6</p>
+","<p>Oude nummering Volkskunde: 95.35.6</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87487507-e6c6-5dc6-b7ae-83e2e547b034,tg:lhps:29235,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1995.0,2110,In Copyright
+87487507-e6c6-5dc6-b7ae-83e2e547b034,tg:lhps:29235,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19950500,,,,,,,,,,,,,,,,,,,,
+87487507-e6c6-5dc6-b7ae-83e2e547b034,tg:lhps:29235,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19951000,,,,,,,,,,,,,,,,,,,,
+87487507-e6c6-5dc6-b7ae-83e2e547b034,tg:lhps:29235,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1995-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87487507-e6c6-5dc6-b7ae-83e2e547b034,tg:lhps:29235,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Schmuck  
+Filigrane Kunst aus Gold- und Silberfäden  
+Sonderausstellung des Österreichischen Museums für Volkskunde  
+Schlossmuseum Gobelsburg",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+87487507-e6c6-5dc6-b7ae-83e2e547b034,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028547,referentienummer,False,,,,,,,,,,,,,,
+87487507-e6c6-5dc6-b7ae-83e2e547b034,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29235,brocade id,False,,,,,,,,,,,,,,
+87487507-e6c6-5dc6-b7ae-83e2e547b034,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29235/N,brocade url,False,,,,,,,,,,,,,,
+87487507-e6c6-5dc6-b7ae-83e2e547b034,tg:lhps:29235,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cbb3ad17-610d-52aa-bfff-e6adb53e7413"", ""ontologyProperty"": """", ""resourceXresourceId"": ""280737d1-89af-4b99-a235-667c9a507242"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

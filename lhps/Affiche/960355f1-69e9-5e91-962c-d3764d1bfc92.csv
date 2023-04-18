@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+960355f1-69e9-5e91-962c-d3764d1bfc92,tg:lhps:24285,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24285,https://data.letterenhuis.be/ark:/24970/960355f1-69e9-5e91-962c-d3764d1bfc92,Affiches,,,,
+960355f1-69e9-5e91-962c-d3764d1bfc92,tg:lhps:24285,e73_AnnotationsImmaterial,1,note.lhalg,"<p>foto: Jay Maisel</p>
+","<p>foto: Jay Maisel</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+960355f1-69e9-5e91-962c-d3764d1bfc92,tg:lhps:24285,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1961.0,2076,In Copyright
+960355f1-69e9-5e91-962c-d3764d1bfc92,tg:lhps:24285,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19611121,,,,,,,,,,,,,,,,,,,,
+960355f1-69e9-5e91-962c-d3764d1bfc92,tg:lhps:24285,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19611216,,,,,,,,,,,,,,,,,,,,
+960355f1-69e9-5e91-962c-d3764d1bfc92,tg:lhps:24285,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1961-12-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+960355f1-69e9-5e91-962c-d3764d1bfc92,tg:lhps:24285,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Exhibition of paintings by Edward Dugmore  
+The Howard Wise Gallery  
+[design by Chermayeff & Geismar]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+960355f1-69e9-5e91-962c-d3764d1bfc92,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023627,referentienummer,False,,,,,,,,,,,,,,
+960355f1-69e9-5e91-962c-d3764d1bfc92,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24285,brocade id,False,,,,,,,,,,,,,,
+960355f1-69e9-5e91-962c-d3764d1bfc92,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24285/N,brocade url,False,,,,,,,,,,,,,,
+960355f1-69e9-5e91-962c-d3764d1bfc92,tg:lhps:24285,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e0461471-ffeb-5112-8af8-8f471823e8e6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6ef99f0f-27d2-4ad0-bca4-f2be5b4009dc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

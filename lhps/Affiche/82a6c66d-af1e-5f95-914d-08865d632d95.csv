@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+82a6c66d-af1e-5f95-914d-08865d632d95,tg:lhps:23891,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23891,https://data.letterenhuis.be/ark:/24970/82a6c66d-af1e-5f95-914d-08865d632d95,Affiches,,,,
+82a6c66d-af1e-5f95-914d-08865d632d95,tg:lhps:23891,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Kupijaj &amp; Prochnow</p>
+","<p>druk: Kupijaj &amp; Prochnow</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82a6c66d-af1e-5f95-914d-08865d632d95,tg:lhps:23891,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1978.0,2093,In Copyright
+82a6c66d-af1e-5f95-914d-08865d632d95,tg:lhps:23891,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780219,,,,,,,,,,,,,,,,,,,,
+82a6c66d-af1e-5f95-914d-08865d632d95,tg:lhps:23891,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780319,,,,,,,,,,,,,,,,,,,,
+82a6c66d-af1e-5f95-914d-08865d632d95,tg:lhps:23891,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1978-03-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82a6c66d-af1e-5f95-914d-08865d632d95,tg:lhps:23891,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Peter Sedgleyµ  
+Neue Kinetisch Arbeiten  
+Berliner Künstlerprogramm/DAAD in der Akademie der Künste  
+[Entwurf: Witt]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+82a6c66d-af1e-5f95-914d-08865d632d95,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023233,referentienummer,False,,,,,,,,,,,,,,
+82a6c66d-af1e-5f95-914d-08865d632d95,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23891,brocade id,False,,,,,,,,,,,,,,
+82a6c66d-af1e-5f95-914d-08865d632d95,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23891/N,brocade url,False,,,,,,,,,,,,,,
+82a6c66d-af1e-5f95-914d-08865d632d95,tg:lhps:23891,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""36939d62-f748-56e2-9f66-5a6124064997"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8b135324-2c1d-48c3-8759-653b347cac3e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

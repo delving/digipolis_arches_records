@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,tg:lhps:25909,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25909,https://data.letterenhuis.be/ark:/24970/b6d98e0b-75d4-5382-b58e-eafa9399f5b6,Affiches,,,,
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,tg:lhps:25909,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Wassermann, Basel</p>
+","<p>druk: Wassermann, Basel</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,tg:lhps:25909,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1980.0,2095,In Copyright
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,tg:lhps:25909,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19801109,,,,,,,,,,,,,,,,,,,,
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,tg:lhps:25909,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810628,,,,,,,,,,,,,,,,,,,,
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,tg:lhps:25909,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-06-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,tg:lhps:25909,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Minimal + Conceptual Art aus der Sammlung Panza  
+Museum für Gegenwartskunst Basel  
+[prent: Richard Senna]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025240,referentienummer,False,,,,,,,,,,,,,,
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25909,brocade id,False,,,,,,,,,,,,,,
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25909/N,brocade url,False,,,,,,,,,,,,,,
+b6d98e0b-75d4-5382-b58e-eafa9399f5b6,tg:lhps:25909,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""305ac99a-6f4b-5ec7-8efd-17404adcd17d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""20f9c004-9b2f-4024-b46c-1cd157dd817d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

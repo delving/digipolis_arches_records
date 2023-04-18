@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+800a737f-702d-5511-90d6-413cfaa127fa,tg:lhps:24863,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24863,https://data.letterenhuis.be/ark:/24970/800a737f-702d-5511-90d6-413cfaa127fa,Affiches,,,,
+800a737f-702d-5511-90d6-413cfaa127fa,tg:lhps:24863,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+800a737f-702d-5511-90d6-413cfaa127fa,tg:lhps:24863,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830203,,,,,,,,,,,,,,,,,,,,
+800a737f-702d-5511-90d6-413cfaa127fa,tg:lhps:24863,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830227,,,,,,,,,,,,,,,,,,,,
+800a737f-702d-5511-90d6-413cfaa127fa,tg:lhps:24863,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-02-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+800a737f-702d-5511-90d6-413cfaa127fa,tg:lhps:24863,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"New York by Ted Savinar  
+Pennsylvania State University  
+Zoller Gallery",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+800a737f-702d-5511-90d6-413cfaa127fa,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024203,referentienummer,False,,,,,,,,,,,,,,
+800a737f-702d-5511-90d6-413cfaa127fa,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24863,brocade id,False,,,,,,,,,,,,,,
+800a737f-702d-5511-90d6-413cfaa127fa,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24863/N,brocade url,False,,,,,,,,,,,,,,
+800a737f-702d-5511-90d6-413cfaa127fa,tg:lhps:24863,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fe0f66f9-b270-580c-bfc2-a2200b2a44db"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f86a47f7-bb22-4a11-9290-61dc161583fd"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

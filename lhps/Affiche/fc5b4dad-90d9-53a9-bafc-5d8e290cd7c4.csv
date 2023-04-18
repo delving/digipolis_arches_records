@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,tg:lhps:25613,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25613,https://data.letterenhuis.be/ark:/24970/fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,Affiches,,,,
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,tg:lhps:25613,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Druk: Roman Greulich, Berlin</p>
+","<p>Druk: Roman Greulich, Berlin</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,tg:lhps:25613,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1963.0,2078,In Copyright
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,tg:lhps:25613,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19630800,,,,,,,,,,,,,,,,,,,,
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,tg:lhps:25613,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19631000,,,,,,,,,,,,,,,,,,,,
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,tg:lhps:25613,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1963-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,tg:lhps:25613,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Szönyi J.  
+Malerei Graphik  
+Staatliche Museen zu Berlin Nationalgalerie",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024947,referentienummer,False,,,,,,,,,,,,,,
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25613,brocade id,False,,,,,,,,,,,,,,
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25613/N,brocade url,False,,,,,,,,,,,,,,
+fc5b4dad-90d9-53a9-bafc-5d8e290cd7c4,tg:lhps:25613,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""54f4e8cd-3442-5dfa-a24a-35894936c08e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2da02192-5997-4074-bdf3-3c0730e28c68"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

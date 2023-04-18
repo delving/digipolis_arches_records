@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+196adbb3-965e-570d-a209-2eff243a4f0c,tg:lhps:13071,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:13071,https://data.letterenhuis.be/ark:/24970/196adbb3-965e-570d-a209-2eff243a4f0c,Affiches,,,,
+196adbb3-965e-570d-a209-2eff243a4f0c,tg:lhps:13071,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+196adbb3-965e-570d-a209-2eff243a4f0c,tg:lhps:13071,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810314,,,,,,,,,,,,,,,,,,,,
+196adbb3-965e-570d-a209-2eff243a4f0c,tg:lhps:13071,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810314,,,,,,,,,,,,,,,,,,,,
+196adbb3-965e-570d-a209-2eff243a4f0c,tg:lhps:13071,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-03-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196adbb3-965e-570d-a209-2eff243a4f0c,tg:lhps:13071,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"CCH  
+De Csardasvorstin  
+E. Kalman  
+dirigent: Rudy van Nuffelen  
+regie: Leo Brant",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+196adbb3-965e-570d-a209-2eff243a4f0c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012598,referentienummer,False,,,,,,,,,,,,,,
+196adbb3-965e-570d-a209-2eff243a4f0c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:13071,brocade id,False,,,,,,,,,,,,,,
+196adbb3-965e-570d-a209-2eff243a4f0c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:13071/N,brocade url,False,,,,,,,,,,,,,,
+196adbb3-965e-570d-a209-2eff243a4f0c,tg:lhps:13071,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c83bf1d6-6e1e-571c-a6c3-dae524f5d038"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5cbf1096-d464-4164-be13-e2b1ea28174b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

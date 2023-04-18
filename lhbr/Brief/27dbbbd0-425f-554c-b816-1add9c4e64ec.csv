@@ -1,0 +1,9 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+27dbbbd0-425f-554c-b816-1add9c4e64ec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:227907_#1,https://data.letterenhuis.be/ark:/24970/27dbbbd0-425f-554c-b816-1add9c4e64ec,,,
+27dbbbd0-425f-554c-b816-1add9c4e64ec,,,,201180,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27dbbbd0-425f-554c-b816-1add9c4e64ec,tr:lh:7762,"dlod={""name"":""Schenking van Jack Verstappen"",""ark"":""ark:/24970/x0/ac38117a-377a-5292-940f-90aadd29ffa5"",""uri"":""/repositories/11/accessions/830537"",""id"":""tr:lh:7762"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/ac38117a-377a-5292-940f-90aadd29ffa5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27dbbbd0-425f-554c-b816-1add9c4e64ec,,,,,,,,,,,,,,,lhbr,tr:lh:7762,tg:lhbr:227907_#1,201180,,DD 165 / B1,27dbbbd0-425f-554c-b816-1add9c4e64ec,,,,,,,,,,,,,,,
+27dbbbd0-425f-554c-b816-1add9c4e64ec,,,,,,kenmerken.lhschrijfhs,bi,,,,,,,,,,,,,,,,,,,,,ball-point pens,,,,,,,,
+27dbbbd0-425f-554c-b816-1add9c4e64ec,,,,,,kenmerken.lhtypebr,brvc,,,,,,,,,,,,,,,,,,,,,,,,,,,visiting cards,,
+27dbbbd0-425f-554c-b816-1add9c4e64ec,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+27dbbbd0-425f-554c-b816-1add9c4e64ec,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1988,permission required

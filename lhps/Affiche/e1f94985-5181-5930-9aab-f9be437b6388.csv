@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e1f94985-5181-5930-9aab-f9be437b6388,tg:lhps:29205,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29205,https://data.letterenhuis.be/ark:/24970/e1f94985-5181-5930-9aab-f9be437b6388,Affiches,,,,
+e1f94985-5181-5930-9aab-f9be437b6388,tg:lhps:29205,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 94.26.1</p>
+<p>Interieuraffiche</p>
+","<p>Oude nummering Volkskunde: 94.26.1</p>
+<p>Interieuraffiche</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1f94985-5181-5930-9aab-f9be437b6388,tg:lhps:29205,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1910.0,2025,In Copyright
+e1f94985-5181-5930-9aab-f9be437b6388,tg:lhps:29205,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19100000,,,,,,,,,,,,,,,,,,,,
+e1f94985-5181-5930-9aab-f9be437b6388,tg:lhps:29205,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1910,circa,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1f94985-5181-5930-9aab-f9be437b6388,tg:lhps:29205,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Véritable Vieux Système / Distillerie Les Deux Lions / Joseph Theunissen  
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e1f94985-5181-5930-9aab-f9be437b6388,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028517,referentienummer,False,,,,,,,,,,,,,,
+e1f94985-5181-5930-9aab-f9be437b6388,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29205,brocade id,False,,,,,,,,,,,,,,
+e1f94985-5181-5930-9aab-f9be437b6388,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29205/N,brocade url,False,,,,,,,,,,,,,,
+e1f94985-5181-5930-9aab-f9be437b6388,tg:lhps:29205,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6ad6f593-67d0-593f-98ab-0f23b78761a7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5d69914c-9859-41b2-bd3e-fd82dbff1caf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+e1f94985-5181-5930-9aab-f9be437b6388,tg:lhps:29205,e73_OriginalBrocade,,,au::61028,,,,lhps,,,c9b6fb17-85fe-50ec-9668-dfc0564b1a72,kw,,au::61028:1,au::61028g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Reclame (sterke dranken)"",""ark"":""ark:/83110/x0/c9b6fb17-85fe-50ec-9668-dfc0564b1a72"",""uri"":""/subjects/6529996"",""id"":""au::61028"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/c9b6fb17-85fe-50ec-9668-dfc0564b1a72,topic,,,,,,,,

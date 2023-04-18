@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+dec6ab35-367c-5910-b10b-f9328e3731f7,tg:lhps:25050,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25050,https://data.letterenhuis.be/ark:/24970/dec6ab35-367c-5910-b10b-f9328e3731f7,Affiches,,,,
+dec6ab35-367c-5910-b10b-f9328e3731f7,tg:lhps:25050,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+dec6ab35-367c-5910-b10b-f9328e3731f7,tg:lhps:25050,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830925,,,,,,,,,,,,,,,,,,,,
+dec6ab35-367c-5910-b10b-f9328e3731f7,tg:lhps:25050,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19831120,,,,,,,,,,,,,,,,,,,,
+dec6ab35-367c-5910-b10b-f9328e3731f7,tg:lhps:25050,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-11-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dec6ab35-367c-5910-b10b-f9328e3731f7,tg:lhps:25050,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Carl-Henning Pedersen  
+""Sandhedens Vej"" Fire Aspekter  
+Hernig Kunstmuseum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+dec6ab35-367c-5910-b10b-f9328e3731f7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024389,referentienummer,False,,,,,,,,,,,,,,
+dec6ab35-367c-5910-b10b-f9328e3731f7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25050,brocade id,False,,,,,,,,,,,,,,
+dec6ab35-367c-5910-b10b-f9328e3731f7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25050/N,brocade url,False,,,,,,,,,,,,,,
+dec6ab35-367c-5910-b10b-f9328e3731f7,tg:lhps:25050,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""da267346-ee3f-554d-b41d-5aebd96e9e6e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""20e00507-e832-4f78-8417-c8fdd96c7f46"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

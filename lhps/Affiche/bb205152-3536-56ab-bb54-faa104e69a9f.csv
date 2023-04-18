@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+bb205152-3536-56ab-bb54-faa104e69a9f,tg:lhps:23142,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23142,https://data.letterenhuis.be/ark:/24970/bb205152-3536-56ab-bb54-faa104e69a9f,Affiches,,,,
+bb205152-3536-56ab-bb54-faa104e69a9f,tg:lhps:23142,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+bb205152-3536-56ab-bb54-faa104e69a9f,tg:lhps:23142,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670415,,,,,,,,,,,,,,,,,,,,
+bb205152-3536-56ab-bb54-faa104e69a9f,tg:lhps:23142,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670528,,,,,,,,,,,,,,,,,,,,
+bb205152-3536-56ab-bb54-faa104e69a9f,tg:lhps:23142,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-05-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bb205152-3536-56ab-bb54-faa104e69a9f,tg:lhps:23142,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"David Smith  
+Skulpturen  
+Wilhelm-Lehmbruck-Museum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+bb205152-3536-56ab-bb54-faa104e69a9f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022487,referentienummer,False,,,,,,,,,,,,,,
+bb205152-3536-56ab-bb54-faa104e69a9f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23142,brocade id,False,,,,,,,,,,,,,,
+bb205152-3536-56ab-bb54-faa104e69a9f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23142/N,brocade url,False,,,,,,,,,,,,,,
+bb205152-3536-56ab-bb54-faa104e69a9f,tg:lhps:23142,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""121a3864-ae07-5297-9ac8-ce943c3656fa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""19bec713-b36c-4c0a-b23f-f388927b0905"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

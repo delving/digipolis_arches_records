@@ -1,0 +1,19 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+bc610418-7665-5ad2-92d5-b1f28146b366,tg:lhps:63414,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:63414,https://data.letterenhuis.be/ark:/24970/bc610418-7665-5ad2-92d5-b1f28146b366,Affiches,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,tg:lhps:63414,e73_AnnotationsImmaterial,1,note.lhalg,"<p>c concept Kaat Flamey</p>
+<p>foto Kaat Pype</p>
+<p>model Bérengère Bodin</p>
+","<p>c concept Kaat Flamey</p>
+<p>foto Kaat Pype</p>
+<p>model Bérengère Bodin</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,tg:lhps:63414,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018.0,2133,In Copyright
+bc610418-7665-5ad2-92d5-b1f28146b366,tg:lhps:63414,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,20180725,,,,,,,,,,,,,,,,,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,tg:lhps:63414,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,20180804,,,,,,,,,,,,,,,,,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,tg:lhps:63414,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,2018-08-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,tg:lhps:63414,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,TAZ#2018 / theateraanzee.be,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000059189,referentienummer,False,,,,,,,,,,,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:63414,brocade id,False,,,,,,,,,,,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:63414/N,brocade url,False,,,,,,,,,,,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,tg:lhps:63414,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""67fecbda-9e33-575f-b978-6e460b324cf3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""876c5431-c0f9-4b23-8119-e2ad22904f09"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+bc610418-7665-5ad2-92d5-b1f28146b366,tg:lhps:63414,e73_OriginalBrocade,,,au::49695,,,,lhps,,,07fa8170-014c-50c5-a1cf-e2606bc9be62,vb,,au::49695:1,au::49695g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/5317365"",""au::49695"",""au::49695:1"",""ark:/83110/x0/07fa8170-014c-50c5-a1cf-e2606bc9be62"",""Theater aan Zee""],""name"":""Theater aan Zee"",""ark"":""ark:/83110/x0/07fa8170-014c-50c5-a1cf-e2606bc9be62"",""uri"":""/agents/corporate_entities/5317365"",""id"":""au::49695:1"",""isCapacity"":false}",ark:/83110/x0/07fa8170-014c-50c5-a1cf-e2606bc9be62,agent,,,,,,,,

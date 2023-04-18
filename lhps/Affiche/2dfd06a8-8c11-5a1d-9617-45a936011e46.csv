@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+2dfd06a8-8c11-5a1d-9617-45a936011e46,tg:lhps:13075,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:13075,https://data.letterenhuis.be/ark:/24970/2dfd06a8-8c11-5a1d-9617-45a936011e46,Affiches,,,,
+2dfd06a8-8c11-5a1d-9617-45a936011e46,tg:lhps:13075,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+2dfd06a8-8c11-5a1d-9617-45a936011e46,tg:lhps:13075,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810423,,,,,,,,,,,,,,,,,,,,
+2dfd06a8-8c11-5a1d-9617-45a936011e46,tg:lhps:13075,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810423,,,,,,,,,,,,,,,,,,,,
+2dfd06a8-8c11-5a1d-9617-45a936011e46,tg:lhps:13075,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-04-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2dfd06a8-8c11-5a1d-9617-45a936011e46,tg:lhps:13075,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"CCH  
+toneelgroep theater  
+schakels  
+herman heijermans  
+regie: Jochen Neuhaus  
+decor en kostuums: Tom Schenk",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+2dfd06a8-8c11-5a1d-9617-45a936011e46,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012602,referentienummer,False,,,,,,,,,,,,,,
+2dfd06a8-8c11-5a1d-9617-45a936011e46,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:13075,brocade id,False,,,,,,,,,,,,,,
+2dfd06a8-8c11-5a1d-9617-45a936011e46,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:13075/N,brocade url,False,,,,,,,,,,,,,,
+2dfd06a8-8c11-5a1d-9617-45a936011e46,tg:lhps:13075,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""bf993078-c310-5293-bdd2-4f7b9a2df8e5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b3b1a2a8-535d-475a-a62b-60283ef4df74"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

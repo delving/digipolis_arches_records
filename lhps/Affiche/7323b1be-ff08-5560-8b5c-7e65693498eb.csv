@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+7323b1be-ff08-5560-8b5c-7e65693498eb,tg:lhps:18323,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:18323,https://data.letterenhuis.be/ark:/24970/7323b1be-ff08-5560-8b5c-7e65693498eb,Affiches,,,,
+7323b1be-ff08-5560-8b5c-7e65693498eb,tg:lhps:18323,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1971.0,2086,In Copyright
+7323b1be-ff08-5560-8b5c-7e65693498eb,tg:lhps:18323,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19710219,,,,,,,,,,,,,,,,,,,,
+7323b1be-ff08-5560-8b5c-7e65693498eb,tg:lhps:18323,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19710302,,,,,,,,,,,,,,,,,,,,
+7323b1be-ff08-5560-8b5c-7e65693498eb,tg:lhps:18323,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1971-03-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7323b1be-ff08-5560-8b5c-7e65693498eb,tg:lhps:18323,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Galerij De Eik  
+Tentoonstelling  
+Schilderijen en Tekeningen  
+Guy Commerman  
+Inleidend woord: Senator Willy Callewaert",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+7323b1be-ff08-5560-8b5c-7e65693498eb,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000017708,referentienummer,False,,,,,,,,,,,,,,
+7323b1be-ff08-5560-8b5c-7e65693498eb,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:18323,brocade id,False,,,,,,,,,,,,,,
+7323b1be-ff08-5560-8b5c-7e65693498eb,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:18323/N,brocade url,False,,,,,,,,,,,,,,
+7323b1be-ff08-5560-8b5c-7e65693498eb,tg:lhps:18323,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""aa69a9c2-48e6-5fcd-869e-84b07bdc76fa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bf831548-4d4a-4bfa-a036-18ba95d32714"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+7323b1be-ff08-5560-8b5c-7e65693498eb,tg:lhps:18323,e73_OriginalBrocade,,,au::4258,,,,lhps,,,019f73a3-b348-5fa7-91a7-26741a023382,kw,,au::4258:1,au::4258g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/455606"",""au::4258"",""au::4258:1"",""ark:/83110/x0/019f73a3-b348-5fa7-91a7-26741a023382"",""Guy Commerman""],""name"":""Guy Commerman"",""ark"":""ark:/83110/x0/019f73a3-b348-5fa7-91a7-26741a023382"",""uri"":""/agents/people/455606"",""id"":""au::4258:1"",""isCapacity"":false}",ark:/83110/x0/019f73a3-b348-5fa7-91a7-26741a023382,agent,,,,,,,,

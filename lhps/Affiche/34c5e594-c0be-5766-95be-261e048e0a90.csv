@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+34c5e594-c0be-5766-95be-261e048e0a90,tg:lhps:24954,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24954,https://data.letterenhuis.be/ark:/24970/34c5e594-c0be-5766-95be-261e048e0a90,Affiches,,,,
+34c5e594-c0be-5766-95be-261e048e0a90,tg:lhps:24954,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+34c5e594-c0be-5766-95be-261e048e0a90,tg:lhps:24954,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19831124,,,,,,,,,,,,,,,,,,,,
+34c5e594-c0be-5766-95be-261e048e0a90,tg:lhps:24954,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840102,,,,,,,,,,,,,,,,,,,,
+34c5e594-c0be-5766-95be-261e048e0a90,tg:lhps:24954,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1984-01-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34c5e594-c0be-5766-95be-261e048e0a90,tg:lhps:24954,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Albert Flocon-Mentzel  
+Katja Rose  
+Bauhaus-Archiv Museum für Gestaltung  
+[entwurf: Nicolaus Ott + Bernard Stein]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+34c5e594-c0be-5766-95be-261e048e0a90,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024294,referentienummer,False,,,,,,,,,,,,,,
+34c5e594-c0be-5766-95be-261e048e0a90,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24954,brocade id,False,,,,,,,,,,,,,,
+34c5e594-c0be-5766-95be-261e048e0a90,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24954/N,brocade url,False,,,,,,,,,,,,,,
+34c5e594-c0be-5766-95be-261e048e0a90,tg:lhps:24954,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7faeca59-6f9d-5800-be5e-ccf0cfc7bb7a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c33622ed-e0bd-4888-a6fa-6ea3959d3171"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

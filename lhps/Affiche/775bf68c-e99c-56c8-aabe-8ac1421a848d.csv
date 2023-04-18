@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+775bf68c-e99c-56c8-aabe-8ac1421a848d,tg:lhps:22312,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22312,https://data.letterenhuis.be/ark:/24970/775bf68c-e99c-56c8-aabe-8ac1421a848d,Affiches,,,,
+775bf68c-e99c-56c8-aabe-8ac1421a848d,tg:lhps:22312,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Harwalik, Reutlingen</p>
+","<p>druk: Harwalik, Reutlingen</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+775bf68c-e99c-56c8-aabe-8ac1421a848d,tg:lhps:22312,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+775bf68c-e99c-56c8-aabe-8ac1421a848d,tg:lhps:22312,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830000,,,,,,,,,,,,,,,,,,,,
+775bf68c-e99c-56c8-aabe-8ac1421a848d,tg:lhps:22312,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+775bf68c-e99c-56c8-aabe-8ac1421a848d,tg:lhps:22312,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Hundertwasser  
+IGA 83 München  
+Natur in der Stadt - erlebenswert!",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+775bf68c-e99c-56c8-aabe-8ac1421a848d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021660,referentienummer,False,,,,,,,,,,,,,,
+775bf68c-e99c-56c8-aabe-8ac1421a848d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22312,brocade id,False,,,,,,,,,,,,,,
+775bf68c-e99c-56c8-aabe-8ac1421a848d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22312/N,brocade url,False,,,,,,,,,,,,,,
+775bf68c-e99c-56c8-aabe-8ac1421a848d,tg:lhps:22312,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a5f9f6aa-330d-5d31-b6cc-a9f22f834bec"", ""ontologyProperty"": """", ""resourceXresourceId"": ""976f5bb2-4b00-49d7-a785-a9c83c82c1e1"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

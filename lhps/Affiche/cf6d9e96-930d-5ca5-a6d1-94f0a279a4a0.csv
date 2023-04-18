@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,tg:lhps:26012,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26012,https://data.letterenhuis.be/ark:/24970/cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,Affiches,,,,
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,tg:lhps:26012,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1971.0,2086,In Copyright
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,tg:lhps:26012,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19710514,,,,,,,,,,,,,,,,,,,,
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,tg:lhps:26012,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19710524,,,,,,,,,,,,,,,,,,,,
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,tg:lhps:26012,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1971-05-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,tg:lhps:26012,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Eurodomus 3  
+Palazzo dell'arte al parco  
+[design: Giulio Confalonieri]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025340,referentienummer,False,,,,,,,,,,,,,,
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26012,brocade id,False,,,,,,,,,,,,,,
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26012/N,brocade url,False,,,,,,,,,,,,,,
+cf6d9e96-930d-5ca5-a6d1-94f0a279a4a0,tg:lhps:26012,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ae601ec4-e69c-5878-a325-91be827bc762"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c363d62c-b3f1-4dd4-9c54-f7feb46316fc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

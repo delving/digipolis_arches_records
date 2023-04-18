@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,tg:lhps:23564,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23564,https://data.letterenhuis.be/ark:/24970/6c3ceb97-4a33-541f-9c47-4660ed0c60ab,Affiches,,,,
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,tg:lhps:23564,e73_AnnotationsImmaterial,1,note.lhalg,"<p>ontwerp: Sally Jeffery</p>
+","<p>ontwerp: Sally Jeffery</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,tg:lhps:23564,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1982.0,2097,In Copyright
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,tg:lhps:23564,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820220,,,,,,,,,,,,,,,,,,,,
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,tg:lhps:23564,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820328,,,,,,,,,,,,,,,,,,,,
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,tg:lhps:23564,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1982-03-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,tg:lhps:23564,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Circle  
+International Survey of Constructive Art  
+Kettle's Yard Gallery",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022908,referentienummer,False,,,,,,,,,,,,,,
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23564,brocade id,False,,,,,,,,,,,,,,
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23564/N,brocade url,False,,,,,,,,,,,,,,
+6c3ceb97-4a33-541f-9c47-4660ed0c60ab,tg:lhps:23564,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fb82df58-f9fb-531a-b16c-886bc2c71d5c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4e0bc7db-c49c-4acf-ae30-5627e1d4270b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+58d1667a-e74b-5ca5-a0a6-a593d294d350,tg:lhps:26056,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26056,https://data.letterenhuis.be/ark:/24970/58d1667a-e74b-5ca5-a0a6-a593d294d350,Affiches,,,,
+58d1667a-e74b-5ca5-a0a6-a593d294d350,tg:lhps:26056,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+58d1667a-e74b-5ca5-a0a6-a593d294d350,tg:lhps:26056,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810000,,,,,,,,,,,,,,,,,,,,
+58d1667a-e74b-5ca5-a0a6-a593d294d350,tg:lhps:26056,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58d1667a-e74b-5ca5-a0a6-a593d294d350,tg:lhps:26056,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Otto Eckert  
+Keramické dilo  
+Narodni Galerie v Praze",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+58d1667a-e74b-5ca5-a0a6-a593d294d350,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025383,referentienummer,False,,,,,,,,,,,,,,
+58d1667a-e74b-5ca5-a0a6-a593d294d350,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26056,brocade id,False,,,,,,,,,,,,,,
+58d1667a-e74b-5ca5-a0a6-a593d294d350,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26056/N,brocade url,False,,,,,,,,,,,,,,
+58d1667a-e74b-5ca5-a0a6-a593d294d350,tg:lhps:26056,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""74b801f8-7817-5bee-a21d-9d17c964c988"", ""ontologyProperty"": """", ""resourceXresourceId"": ""195531ce-0710-4795-913e-01dfff619abb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

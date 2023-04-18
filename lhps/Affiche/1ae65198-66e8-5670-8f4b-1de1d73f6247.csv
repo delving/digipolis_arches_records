@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+1ae65198-66e8-5670-8f4b-1de1d73f6247,tg:lhps:23162,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23162,https://data.letterenhuis.be/ark:/24970/1ae65198-66e8-5670-8f4b-1de1d73f6247,Affiches,,,,
+1ae65198-66e8-5670-8f4b-1de1d73f6247,tg:lhps:23162,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+1ae65198-66e8-5670-8f4b-1de1d73f6247,tg:lhps:23162,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670311,,,,,,,,,,,,,,,,,,,,
+1ae65198-66e8-5670-8f4b-1de1d73f6247,tg:lhps:23162,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19670507,,,,,,,,,,,,,,,,,,,,
+1ae65198-66e8-5670-8f4b-1de1d73f6247,tg:lhps:23162,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-05-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1ae65198-66e8-5670-8f4b-1de1d73f6247,tg:lhps:23162,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Hoflehner  
+Skulpturen  
+Haus am Waldsee",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+1ae65198-66e8-5670-8f4b-1de1d73f6247,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022507,referentienummer,False,,,,,,,,,,,,,,
+1ae65198-66e8-5670-8f4b-1de1d73f6247,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23162,brocade id,False,,,,,,,,,,,,,,
+1ae65198-66e8-5670-8f4b-1de1d73f6247,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23162/N,brocade url,False,,,,,,,,,,,,,,
+1ae65198-66e8-5670-8f4b-1de1d73f6247,tg:lhps:23162,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""313b586a-e9c1-5568-b03c-a0acec8f77c7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ddd2556a-b4db-4e4b-8ace-b596efc1a1af"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

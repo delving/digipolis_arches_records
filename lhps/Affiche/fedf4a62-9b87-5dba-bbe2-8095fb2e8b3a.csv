@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,tg:lhps:23002,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23002,https://data.letterenhuis.be/ark:/24970/fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,Affiches,,,,
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,tg:lhps:23002,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,tg:lhps:23002,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680720,,,,,,,,,,,,,,,,,,,,
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,tg:lhps:23002,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680915,,,,,,,,,,,,,,,,,,,,
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,tg:lhps:23002,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-09-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,tg:lhps:23002,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Deutscher Künstlerbund Nürnberg 1968  
+16. Ausstellung  
+Kunsthalle - Künstlerhaus",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022347,referentienummer,False,,,,,,,,,,,,,,
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23002,brocade id,False,,,,,,,,,,,,,,
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23002/N,brocade url,False,,,,,,,,,,,,,,
+fedf4a62-9b87-5dba-bbe2-8095fb2e8b3a,tg:lhps:23002,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e2e7bc6c-6dd5-5799-ae83-6dc6a9ae9793"", ""ontologyProperty"": """", ""resourceXresourceId"": ""802a533b-76d6-4e3f-8679-9fd049fbb07f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

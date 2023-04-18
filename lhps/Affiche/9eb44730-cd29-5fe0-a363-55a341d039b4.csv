@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+9eb44730-cd29-5fe0-a363-55a341d039b4,tg:lhps:25997,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25997,https://data.letterenhuis.be/ark:/24970/9eb44730-cd29-5fe0-a363-55a341d039b4,Affiches,,,,
+9eb44730-cd29-5fe0-a363-55a341d039b4,tg:lhps:25997,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972.0,2087,In Copyright
+9eb44730-cd29-5fe0-a363-55a341d039b4,tg:lhps:25997,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19721122,,,,,,,,,,,,,,,,,,,,
+9eb44730-cd29-5fe0-a363-55a341d039b4,tg:lhps:25997,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19730121,,,,,,,,,,,,,,,,,,,,
+9eb44730-cd29-5fe0-a363-55a341d039b4,tg:lhps:25997,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1973-01-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9eb44730-cd29-5fe0-a363-55a341d039b4,tg:lhps:25997,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"African Terra Cottas  
+South of the Sahara  
+The Detroit Institute of Arts  
+[design: A. Bostick]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+9eb44730-cd29-5fe0-a363-55a341d039b4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025325,referentienummer,False,,,,,,,,,,,,,,
+9eb44730-cd29-5fe0-a363-55a341d039b4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25997,brocade id,False,,,,,,,,,,,,,,
+9eb44730-cd29-5fe0-a363-55a341d039b4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25997/N,brocade url,False,,,,,,,,,,,,,,
+9eb44730-cd29-5fe0-a363-55a341d039b4,tg:lhps:25997,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""dba6d164-45ce-5102-945b-337d87207328"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a4f61c05-1304-4420-ad25-9fca9b156ccb"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+3fe335c5-8974-5224-b4e5-cb0ddd68f79e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:207463_#1,https://data.letterenhuis.be/ark:/24970/3fe335c5-8974-5224-b4e5-cb0ddd68f79e,,,
+3fe335c5-8974-5224-b4e5-cb0ddd68f79e,,,,198363/2a-b,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3fe335c5-8974-5224-b4e5-cb0ddd68f79e,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+3fe335c5-8974-5224-b4e5-cb0ddd68f79e,,,,,,,,,,,,,,,lhbr,,tg:lhbr:207463_#1,198363/2a-b,,FF 123 / B1,3fe335c5-8974-5224-b4e5-cb0ddd68f79e,,,,,,,,,,,,,,,
+3fe335c5-8974-5224-b4e5-cb0ddd68f79e,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+3fe335c5-8974-5224-b4e5-cb0ddd68f79e,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+3fe335c5-8974-5224-b4e5-cb0ddd68f79e,,,,,,default_restriction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,permission required

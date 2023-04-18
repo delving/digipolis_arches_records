@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+4ac755b5-e599-5af3-b6b6-13ece885608e,tg:lhps:25932,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25932,https://data.letterenhuis.be/ark:/24970/4ac755b5-e599-5af3-b6b6-13ece885608e,Affiches,,,,
+4ac755b5-e599-5af3-b6b6-13ece885608e,tg:lhps:25932,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+4ac755b5-e599-5af3-b6b6-13ece885608e,tg:lhps:25932,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810227,,,,,,,,,,,,,,,,,,,,
+4ac755b5-e599-5af3-b6b6-13ece885608e,tg:lhps:25932,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810426,,,,,,,,,,,,,,,,,,,,
+4ac755b5-e599-5af3-b6b6-13ece885608e,tg:lhps:25932,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-04-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4ac755b5-e599-5af3-b6b6-13ece885608e,tg:lhps:25932,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"37 aktuella kostnärer fran Frankrike  
+Liljevalchs  
+[prent: Peter Klasen]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+4ac755b5-e599-5af3-b6b6-13ece885608e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025263,referentienummer,False,,,,,,,,,,,,,,
+4ac755b5-e599-5af3-b6b6-13ece885608e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25932,brocade id,False,,,,,,,,,,,,,,
+4ac755b5-e599-5af3-b6b6-13ece885608e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25932/N,brocade url,False,,,,,,,,,,,,,,
+4ac755b5-e599-5af3-b6b6-13ece885608e,tg:lhps:25932,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c46ab762-fb21-54e2-a5e9-554aa2060fea"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b08e55cf-2543-4cad-ba40-cf69c37fe46e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

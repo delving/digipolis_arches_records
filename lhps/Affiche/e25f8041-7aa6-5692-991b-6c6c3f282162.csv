@@ -1,0 +1,19 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e25f8041-7aa6-5692-991b-6c6c3f282162,tg:lhps:12985,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:12985,https://data.letterenhuis.be/ark:/24970/e25f8041-7aa6-5692-991b-6c6c3f282162,Affiches,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,tg:lhps:12985,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1992.0,2107,In Copyright
+e25f8041-7aa6-5692-991b-6c6c3f282162,tg:lhps:12985,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920409,,,,,,,,,,,,,,,,,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,tg:lhps:12985,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920409,,,,,,,,,,,,,,,,,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,tg:lhps:12985,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1992-04-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,tg:lhps:12985,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"CCB  
+Festival Cultureel Gekleurd  
+Dubbele Invitatie  
+tentoonstelling  
+Katia Haja  
+Aime Ntakiyica  
+Katelijne Laroy",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012520,referentienummer,False,,,,,,,,,,,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:12985,brocade id,False,,,,,,,,,,,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:12985/N,brocade url,False,,,,,,,,,,,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,tg:lhps:12985,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""53f11a69-a438-565b-8e12-beb652dc87cd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0c48bfd1-b97b-4946-ad78-cee4d8960565"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,tg:lhps:12985,e73_MaterialRecords,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""7df7baad-31e8-5980-ae56-65a6e36f0f4c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""09b7b746-2bec-4f6e-b326-89ae3362e809"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+e25f8041-7aa6-5692-991b-6c6c3f282162,tg:lhps:12985,e73_OriginalBrocade,,,au::4712,,,,lhps,,,55f0942b-7552-5985-b4ea-fb30f716519f,kw,,au::4712:1,au::4712g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/corporate_entities/504184"",""au::4712"",""au::4712:1"",""ark:/83110/x0/55f0942b-7552-5985-b4ea-fb30f716519f"",""Cultureel Centrum Berchem""],""name"":""Cultureel Centrum Berchem"",""ark"":""ark:/83110/x0/55f0942b-7552-5985-b4ea-fb30f716519f"",""uri"":""/agents/corporate_entities/504184"",""id"":""au::4712:1"",""isCapacity"":false}",ark:/83110/x0/55f0942b-7552-5985-b4ea-fb30f716519f,agent,,,,,,,,

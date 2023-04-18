@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+377ef881-38cf-5c5f-8117-98c7d1e48539,tg:lhps:23085,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23085,https://data.letterenhuis.be/ark:/24970/377ef881-38cf-5c5f-8117-98c7d1e48539,Affiches,,,,
+377ef881-38cf-5c5f-8117-98c7d1e48539,tg:lhps:23085,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+377ef881-38cf-5c5f-8117-98c7d1e48539,tg:lhps:23085,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680914,,,,,,,,,,,,,,,,,,,,
+377ef881-38cf-5c5f-8117-98c7d1e48539,tg:lhps:23085,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19681117,,,,,,,,,,,,,,,,,,,,
+377ef881-38cf-5c5f-8117-98c7d1e48539,tg:lhps:23085,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-11-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+377ef881-38cf-5c5f-8117-98c7d1e48539,tg:lhps:23085,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"10. Darmstädter Gespräch  
+Mensch und Menschenbilder  
+Otto-Berndt-Halle  
+Kunsthalle",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+377ef881-38cf-5c5f-8117-98c7d1e48539,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022430,referentienummer,False,,,,,,,,,,,,,,
+377ef881-38cf-5c5f-8117-98c7d1e48539,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23085,brocade id,False,,,,,,,,,,,,,,
+377ef881-38cf-5c5f-8117-98c7d1e48539,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23085/N,brocade url,False,,,,,,,,,,,,,,
+377ef881-38cf-5c5f-8117-98c7d1e48539,tg:lhps:23085,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""48ccdc32-5712-5102-8b3f-5d0bd9fa4790"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7345d9ed-b17d-4691-a427-2b8fd18dc4ce"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

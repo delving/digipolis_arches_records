@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,tg:lhps:26809,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26809,https://data.letterenhuis.be/ark:/24970/c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,Affiches,,,,
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,tg:lhps:26809,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,tg:lhps:26809,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19731201,,,,,,,,,,,,,,,,,,,,
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,tg:lhps:26809,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19740127,,,,,,,,,,,,,,,,,,,,
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,tg:lhps:26809,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1974-01-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,tg:lhps:26809,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Kanovitz  
+Hedendaagse Kunst Utrecht  
+[ontwerp: Frits Gramberg]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026132,referentienummer,False,,,,,,,,,,,,,,
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26809,brocade id,False,,,,,,,,,,,,,,
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26809/N,brocade url,False,,,,,,,,,,,,,,
+c9d389f6-aebf-5a7b-b336-49ffd5f98ee8,tg:lhps:26809,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a5ad47b0-f9e2-52da-a968-8ca6c2c80264"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6a0ad315-4aac-4ee0-a1b6-05b81ba3dd4b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

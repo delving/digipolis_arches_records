@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d66d20cb-5ce8-5394-8755-180be04ebc81,tg:lhps:26238,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26238,https://data.letterenhuis.be/ark:/24970/d66d20cb-5ce8-5394-8755-180be04ebc81,Affiches,,,,
+d66d20cb-5ce8-5394-8755-180be04ebc81,tg:lhps:26238,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1985.0,2100,In Copyright
+d66d20cb-5ce8-5394-8755-180be04ebc81,tg:lhps:26238,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19851006,,,,,,,,,,,,,,,,,,,,
+d66d20cb-5ce8-5394-8755-180be04ebc81,tg:lhps:26238,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19851124,,,,,,,,,,,,,,,,,,,,
+d66d20cb-5ce8-5394-8755-180be04ebc81,tg:lhps:26238,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1985-11-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d66d20cb-5ce8-5394-8755-180be04ebc81,tg:lhps:26238,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Bonalumi  
+Assessorato Institutioni Culturali Palazzo dei Diamanti  
+Galerie Civiche d'Arte Moderna",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d66d20cb-5ce8-5394-8755-180be04ebc81,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025564,referentienummer,False,,,,,,,,,,,,,,
+d66d20cb-5ce8-5394-8755-180be04ebc81,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26238,brocade id,False,,,,,,,,,,,,,,
+d66d20cb-5ce8-5394-8755-180be04ebc81,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26238/N,brocade url,False,,,,,,,,,,,,,,
+d66d20cb-5ce8-5394-8755-180be04ebc81,tg:lhps:26238,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b9cee70c-3b19-53ff-be02-2812ee07f2fa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e9cd267a-c2ca-44d8-b13f-690516e63618"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

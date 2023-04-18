@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,tg:lhps:28393,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28393,https://data.letterenhuis.be/ark:/24970/9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,Affiches,,,,
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,tg:lhps:28393,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering: 60.2.175</p>
+<p>druk: Strobbe, Izegem</p>
+","<p>Oude nummering: 60.2.175</p>
+<p>druk: Strobbe, Izegem</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,tg:lhps:28393,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1939.0,2054,In Copyright
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,tg:lhps:28393,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19390815,,,,,,,,,,,,,,,,,,,,
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,tg:lhps:28393,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1939-08-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,tg:lhps:28393,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Negendaagsche Plechtigheid ter eere van O.L. Vrouw ter Ruste  
+In de Parochiale Kerk van Emelgem",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000027706,referentienummer,False,,,,,,,,,,,,,,
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28393,brocade id,False,,,,,,,,,,,,,,
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28393/N,brocade url,False,,,,,,,,,,,,,,
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,tg:lhps:28393,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ea888e25-c5f7-5623-b919-580061331db9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e6d53417-f135-44eb-ad8c-088a0e344bc8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+9efa9b6b-ae47-5ddd-8e68-bf4cc03083c9,tg:lhps:28393,e73_OriginalBrocade,,,au::47430,,,,lhps,,,67605112-321b-549a-8435-2182a5210b57,kw,,au::47430:1,au::47430g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Religie"",""ark"":""ark:/83110/x0/67605112-321b-549a-8435-2182a5210b57"",""uri"":""/subjects/5075010"",""id"":""au::47430"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/67605112-321b-549a-8435-2182a5210b57,topic,,,,,,,,

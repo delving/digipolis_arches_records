@@ -1,0 +1,18 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,tg:lhps:23862,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23862,https://data.letterenhuis.be/ark:/24970/a8180206-3ca6-5f7a-93cd-24cda43f2ce7,Affiches,,,,
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,tg:lhps:23862,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Cramer, Greven</p>
+","<p>druk: Cramer, Greven</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,tg:lhps:23862,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977.0,2092,In Copyright
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,tg:lhps:23862,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19771120,,,,,,,,,,,,,,,,,,,,
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,tg:lhps:23862,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780108,,,,,,,,,,,,,,,,,,,,
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,tg:lhps:23862,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1978-01-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,tg:lhps:23862,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Porträt 1  
+Der Herscher  
+Graphische Bildnisse aus dem Porträtarchiv Diepenbroick  
+Westfälisches Landesmuseum für Kunst und Kulturgeschichte Münster  
+[Ontwerp: Dmitrij Werschbizkij]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023204,referentienummer,False,,,,,,,,,,,,,,
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23862,brocade id,False,,,,,,,,,,,,,,
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23862/N,brocade url,False,,,,,,,,,,,,,,
+a8180206-3ca6-5f7a-93cd-24cda43f2ce7,tg:lhps:23862,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""496e053f-ad35-5235-adbe-d56f0e471bde"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f1ed2b4c-bcc4-4693-93bd-c211e72fffe3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

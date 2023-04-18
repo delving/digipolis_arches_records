@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c11a3424-9d86-564a-98a0-1ce48277a41d,tg:lhps:28569,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28569,https://data.letterenhuis.be/ark:/24970/c11a3424-9d86-564a-98a0-1ce48277a41d,Affiches,,,,
+c11a3424-9d86-564a-98a0-1ce48277a41d,tg:lhps:28569,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering: 61.43.53</p>
+","<p>Oude nummering: 61.43.53</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c11a3424-9d86-564a-98a0-1ce48277a41d,tg:lhps:28569,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1957.0,2072,In Copyright
+c11a3424-9d86-564a-98a0-1ce48277a41d,tg:lhps:28569,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19570000,,,,,,,,,,,,,,,,,,,,
+c11a3424-9d86-564a-98a0-1ce48277a41d,tg:lhps:28569,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1957,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c11a3424-9d86-564a-98a0-1ce48277a41d,tg:lhps:28569,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Josmah's moderne 1000 wonderen-show - Abracadabra,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+c11a3424-9d86-564a-98a0-1ce48277a41d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000027882,referentienummer,False,,,,,,,,,,,,,,
+c11a3424-9d86-564a-98a0-1ce48277a41d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28569,brocade id,False,,,,,,,,,,,,,,
+c11a3424-9d86-564a-98a0-1ce48277a41d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28569/N,brocade url,False,,,,,,,,,,,,,,
+c11a3424-9d86-564a-98a0-1ce48277a41d,tg:lhps:28569,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""17cea1fe-fb2e-5791-bc92-d9ddd384cd62"", ""ontologyProperty"": """", ""resourceXresourceId"": ""427b39bf-229d-49a1-bc01-cadb299d53ed"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

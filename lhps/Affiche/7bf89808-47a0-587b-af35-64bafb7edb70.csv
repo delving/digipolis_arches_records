@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+7bf89808-47a0-587b-af35-64bafb7edb70,tg:lhps:26368,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26368,https://data.letterenhuis.be/ark:/24970/7bf89808-47a0-587b-af35-64bafb7edb70,Affiches,,,,
+7bf89808-47a0-587b-af35-64bafb7edb70,tg:lhps:26368,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1991.0,2106,In Copyright
+7bf89808-47a0-587b-af35-64bafb7edb70,tg:lhps:26368,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19910706,,,,,,,,,,,,,,,,,,,,
+7bf89808-47a0-587b-af35-64bafb7edb70,tg:lhps:26368,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19910831,,,,,,,,,,,,,,,,,,,,
+7bf89808-47a0-587b-af35-64bafb7edb70,tg:lhps:26368,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1991-08-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7bf89808-47a0-587b-af35-64bafb7edb70,tg:lhps:26368,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"An artist never learns how to...  
+An installation..a 31 years old retrospective produced by Eliphanté  
+Creative Arts Complex - Northern Arizona University",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+7bf89808-47a0-587b-af35-64bafb7edb70,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025692,referentienummer,False,,,,,,,,,,,,,,
+7bf89808-47a0-587b-af35-64bafb7edb70,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26368,brocade id,False,,,,,,,,,,,,,,
+7bf89808-47a0-587b-af35-64bafb7edb70,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26368/N,brocade url,False,,,,,,,,,,,,,,
+7bf89808-47a0-587b-af35-64bafb7edb70,tg:lhps:26368,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""292fc0d4-34a4-5c24-bedf-18e2f2fa0e7e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2c4de4e4-befa-40cb-9ba9-19bb6562570e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

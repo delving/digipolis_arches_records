@@ -1,0 +1,47 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,source_date,Copyright Revision Date,Copyright Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Type,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Depicted Item Role,Depicted Item Note,Depicted Item Widget,Depicted Item Identifier,Depicted Item Type,Description,Description Type,Description Language,Legacy Information Code,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Original Entity Relation,ISAAR Brocade ID,Keeper,Object Number,Object Identifier,Record Type
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhph:3773,https://data.letterenhuis.be/ark:/24970/a3770dc5-3ddb-54b0-87be-7df930bee219,Foto's
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_AnnotationsImmaterial,1,note.lhalg,"<p>(1) Foto in omslag;</p>
+<p>(2) Orig.foto op karton gekleefd;</p>
+<p>(3) Tekstvermelding op achterkant_Aan mijn goede vriend E. de Bom_;</p>
+<p>(4) Orig. foto;</p>
+<p>(5) Vermelding op achterkant&quot;_ Foto genomen en bestemd voor het prachtalbum op<br />
+grooter formaat_;</p>
+<p>(6) Vermelding op achterkant_&quot;Foto genomen en bestemd voor'Naar volle pracht'<br />
+even als Frans Verschoren die U ook moeten ontvangen hebben&quot;; _</p>
+<p>(7-8-9) Foto's genre passe partout met droogstempel;</p>
+<p>(10-11-12-13) Foto als postkaart uit de &quot;Vlaamse Weeldereeks&quot;;</p>
+<p>(14) Foto als prentkaart</p>
+","<p>(1) Foto in omslag;</p>
+<p>(2) Orig.foto op karton gekleefd;</p>
+<p>(3) Tekstvermelding op achterkant_Aan mijn goede vriend E. de Bom_;</p>
+<p>(4) Orig. foto;</p>
+<p>(5) Vermelding op achterkant&quot;_ Foto genomen en bestemd voor het prachtalbum op<br />
+grooter formaat_;</p>
+<p>(6) Vermelding op achterkant_&quot;Foto genomen en bestemd voor'Naar volle pracht'<br />
+even als Frans Verschoren die U ook moeten ontvangen hebben&quot;; _</p>
+<p>(7-8-9) Foto's genre passe partout met droogstempel;</p>
+<p>(10-11-12-13) Foto als postkaart uit de &quot;Vlaamse Weeldereeks&quot;;</p>
+<p>(14) Foto als prentkaart</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_Copyrights,,,,,,,1929.0,2044,In Copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_CreationActors,,,au::1087,,,,,,,lhph,lhph,Foto,de1feef5-1554-5c9a-80a6-ce87f3ba38a9,fo,photographers,au::1087:1,au::1087g:1,,"dlod={""suggest"":[""/agents/people/116309"",""au::1087"",""au::1087:1"",""ark:/83110/x0/de1feef5-1554-5c9a-80a6-ce87f3ba38a9"",""Edgar Barbaix""],""name"":""Edgar Barbaix"",""ark"":""ark:/83110/x0/de1feef5-1554-5c9a-80a6-ce87f3ba38a9"",""uri"":""/agents/people/116309"",""id"":""au::1087:1"",""isCapacity"":false}",ark:/83110/x0/de1feef5-1554-5c9a-80a6-ce87f3ba38a9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_CreationTimeSpanSourceNotes,0,id/date.exposure/so,,,,,,,,,,,,,,,,,,,,,,,,,,,,19290921,,,,,,,,,,,,,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,,,,1929-09-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_DepictedItems,,,au::3337,,,,,,,lhph,,,926e8066-a9a8-5187-b89f-bd396c781611,kw,,au::3337:1,au::3337g:1,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/357059"",""au::3337"",""au::3337:1"",""ark:/83110/x0/926e8066-a9a8-5187-b89f-bd396c781611"",""Cyriel Buysse""],""name"":""Cyriel Buysse"",""ark"":""ark:/83110/x0/926e8066-a9a8-5187-b89f-bd396c781611"",""uri"":""/agents/people/357059"",""id"":""au::3337:1"",""isCapacity"":false}",ark:/83110/x0/926e8066-a9a8-5187-b89f-bd396c781611,agent,,,,,,,,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cyriel Buysse, Borststuk met hoofd lichtjes naar links gedraaid",descriptive note,Nederlands,,,,,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ph/000003512,referentienummer,False,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhph:3773,brocade id,False,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhph:3773/N,brocade url,False,,,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9220cc8e-66c5-57a8-a6ac-2b1feb7ea59a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8c2843f7-7808-4dab-a32b-43d279d94144"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b17d7ad9-cee3-568f-a21f-4855749de907"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d7724084-0e66-4a3c-b878-fbf1a4275d6a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""df0146ca-fa94-598e-b38e-0dc343abbe65"", ""ontologyProperty"": """", ""resourceXresourceId"": ""4bc102cc-4063-4202-bdd2-b93bd826775b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c8201955-88c2-5005-96c1-cb006aadbc6f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""59dee4b8-dcb8-4003-9c12-b34c742d8f35"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e32213d7-6952-5ace-b2e0-29e0f8e5ea05"", ""ontologyProperty"": """", ""resourceXresourceId"": ""beb00122-36a6-4293-8da6-a7b9f533766a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9b5e1126-eef7-51d1-b104-b3e41f157f10"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d35b366b-9244-4c8a-9877-c48d60d03184"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1bf183e8-09b1-575a-b032-2c9c4bda9f94"", ""ontologyProperty"": """", ""resourceXresourceId"": ""102ad6f6-9f67-49a5-bbdf-f0894f8dda9d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""93aecb90-56ff-5573-9356-b8dad63ea98e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""574a91a9-0ee7-47cb-ab5e-2109afbc1d3d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""a11c6255-a81e-5645-849b-c34c42656b31"", ""ontologyProperty"": """", ""resourceXresourceId"": ""556438db-a875-47f2-8e93-c75382bc4332"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""80ba384b-96f8-5557-bd8c-897d42dcbfba"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6b969d83-515c-4f1b-951e-84e954b79c5d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1bd8df42-ac5c-5d87-ab38-f0243d4cbd9d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""33d2df6c-144d-452f-824a-5883b75611d2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""816f9a22-95c0-55fe-854f-58c640dbd017"", ""ontologyProperty"": """", ""resourceXresourceId"": ""50887f55-b8b8-4619-915d-a4e544473b37"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,
+a3770dc5-3ddb-54b0-87be-7df930bee219,tg:lhph:3773,e73_MaterialRecords,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c99574da-4a85-5b62-9b2a-e8b7bcc68a3d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1daf998e-6ff9-4dea-a844-c6cc442a5963"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,

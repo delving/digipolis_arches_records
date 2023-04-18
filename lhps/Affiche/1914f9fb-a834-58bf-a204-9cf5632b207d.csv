@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+1914f9fb-a834-58bf-a204-9cf5632b207d,tg:lhps:29280,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29280,https://data.letterenhuis.be/ark:/24970/1914f9fb-a834-58bf-a204-9cf5632b207d,Affiches,,,,
+1914f9fb-a834-58bf-a204-9cf5632b207d,tg:lhps:29280,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 58.33.42</p>
+<p>druk: F. Janssens, Antwerpen</p>
+","<p>Oude nummering Volkskunde: 58.33.42</p>
+<p>druk: F. Janssens, Antwerpen</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1914f9fb-a834-58bf-a204-9cf5632b207d,tg:lhps:29280,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined
+1914f9fb-a834-58bf-a204-9cf5632b207d,tg:lhps:29280,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"De noodklok  
+De burgerij is in rouw over de berooving harer burgerrechten",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+1914f9fb-a834-58bf-a204-9cf5632b207d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028592,referentienummer,False,,,,,,,,,,,,,,
+1914f9fb-a834-58bf-a204-9cf5632b207d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29280,brocade id,False,,,,,,,,,,,,,,
+1914f9fb-a834-58bf-a204-9cf5632b207d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29280/N,brocade url,False,,,,,,,,,,,,,,
+1914f9fb-a834-58bf-a204-9cf5632b207d,tg:lhps:29280,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b96d5521-361c-53cc-9b07-ddc26bdfee66"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c6cc864b-19b1-4a32-8b8f-88f71c84a71d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

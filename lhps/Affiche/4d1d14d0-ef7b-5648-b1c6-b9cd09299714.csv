@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,tg:lhps:26403,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26403,https://data.letterenhuis.be/ark:/24970/4d1d14d0-ef7b-5648-b1c6-b9cd09299714,Affiches,,,,
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,tg:lhps:26403,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1992.0,2107,In Copyright
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,tg:lhps:26403,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920313,,,,,,,,,,,,,,,,,,,,
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,tg:lhps:26403,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19920607,,,,,,,,,,,,,,,,,,,,
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,tg:lhps:26403,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1992-06-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,tg:lhps:26403,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Calder  
+Royal Academy of Arts  
+[design: Philip Miles]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025727,referentienummer,False,,,,,,,,,,,,,,
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26403,brocade id,False,,,,,,,,,,,,,,
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26403/N,brocade url,False,,,,,,,,,,,,,,
+4d1d14d0-ef7b-5648-b1c6-b9cd09299714,tg:lhps:26403,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ccb5aeab-c187-580b-bca2-bf1cc34b3e95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""30a02ea3-3012-4386-b158-e62cd1b0724c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

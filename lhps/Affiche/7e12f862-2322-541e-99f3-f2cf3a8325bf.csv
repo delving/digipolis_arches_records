@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+7e12f862-2322-541e-99f3-f2cf3a8325bf,tg:lhps:24705,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24705,https://data.letterenhuis.be/ark:/24970/7e12f862-2322-541e-99f3-f2cf3a8325bf,Affiches,,,,
+7e12f862-2322-541e-99f3-f2cf3a8325bf,tg:lhps:24705,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1979.0,2094,In Copyright
+7e12f862-2322-541e-99f3-f2cf3a8325bf,tg:lhps:24705,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19791129,,,,,,,,,,,,,,,,,,,,
+7e12f862-2322-541e-99f3-f2cf3a8325bf,tg:lhps:24705,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19800229,,,,,,,,,,,,,,,,,,,,
+7e12f862-2322-541e-99f3-f2cf3a8325bf,tg:lhps:24705,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1980-02-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7e12f862-2322-541e-99f3-f2cf3a8325bf,tg:lhps:24705,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Die Numider  
+Reiter und Könige nördlich der Sahara  
+Rheinisches Landesmuseum Bonn  
+[entwurf: J. Kraft]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+7e12f862-2322-541e-99f3-f2cf3a8325bf,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024046,referentienummer,False,,,,,,,,,,,,,,
+7e12f862-2322-541e-99f3-f2cf3a8325bf,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24705,brocade id,False,,,,,,,,,,,,,,
+7e12f862-2322-541e-99f3-f2cf3a8325bf,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24705/N,brocade url,False,,,,,,,,,,,,,,
+7e12f862-2322-541e-99f3-f2cf3a8325bf,tg:lhps:24705,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3787455a-0cd8-5878-b84e-4bebb1ec4e52"", ""ontologyProperty"": """", ""resourceXresourceId"": ""63fce47d-bb80-4bef-941a-86c9846eb96c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

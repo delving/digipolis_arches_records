@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a8b27e9a-73bc-5476-bd91-802871a2411a,tg:lhps:23374,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23374,https://data.letterenhuis.be/ark:/24970/a8b27e9a-73bc-5476-bd91-802871a2411a,Affiches,,,,
+a8b27e9a-73bc-5476-bd91-802871a2411a,tg:lhps:23374,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+a8b27e9a-73bc-5476-bd91-802871a2411a,tg:lhps:23374,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830415,,,,,,,,,,,,,,,,,,,,
+a8b27e9a-73bc-5476-bd91-802871a2411a,tg:lhps:23374,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830521,,,,,,,,,,,,,,,,,,,,
+a8b27e9a-73bc-5476-bd91-802871a2411a,tg:lhps:23374,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-05-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a8b27e9a-73bc-5476-bd91-802871a2411a,tg:lhps:23374,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Het boek model voor den uitgever  
+Johan van Eikeren en de reeks modellen voor den uitgever en Corvey-modellen 1936-1970  
+Rijksmuseum Meermanno-Westreenianum  
+[vormgeving: Karel F. Treebus]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a8b27e9a-73bc-5476-bd91-802871a2411a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022719,referentienummer,False,,,,,,,,,,,,,,
+a8b27e9a-73bc-5476-bd91-802871a2411a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23374,brocade id,False,,,,,,,,,,,,,,
+a8b27e9a-73bc-5476-bd91-802871a2411a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23374/N,brocade url,False,,,,,,,,,,,,,,
+a8b27e9a-73bc-5476-bd91-802871a2411a,tg:lhps:23374,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6f42d2bd-d95b-5108-8511-c1be9a064b2a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b8d6053d-bde0-467a-a47f-322f6653945d"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b23bcbfc-c196-5607-8470-c06798198143,tg:lhps:24033,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24033,https://data.letterenhuis.be/ark:/24970/b23bcbfc-c196-5607-8470-c06798198143,Affiches,,,,
+b23bcbfc-c196-5607-8470-c06798198143,tg:lhps:24033,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977.0,2092,In Copyright
+b23bcbfc-c196-5607-8470-c06798198143,tg:lhps:24033,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19771018,,,,,,,,,,,,,,,,,,,,
+b23bcbfc-c196-5607-8470-c06798198143,tg:lhps:24033,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19771124,,,,,,,,,,,,,,,,,,,,
+b23bcbfc-c196-5607-8470-c06798198143,tg:lhps:24033,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1977-11-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b23bcbfc-c196-5607-8470-c06798198143,tg:lhps:24033,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Räume  
+Studienarbeiten an der Universität Karlsruhe  
+Badischer Kunstverein",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b23bcbfc-c196-5607-8470-c06798198143,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023375,referentienummer,False,,,,,,,,,,,,,,
+b23bcbfc-c196-5607-8470-c06798198143,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24033,brocade id,False,,,,,,,,,,,,,,
+b23bcbfc-c196-5607-8470-c06798198143,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24033/N,brocade url,False,,,,,,,,,,,,,,
+b23bcbfc-c196-5607-8470-c06798198143,tg:lhps:24033,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""849d6bbe-25f0-5f2f-8926-1bdd44f7cf13"", ""ontologyProperty"": """", ""resourceXresourceId"": ""29e42c07-0f2b-471a-922b-0c7eb3750089"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

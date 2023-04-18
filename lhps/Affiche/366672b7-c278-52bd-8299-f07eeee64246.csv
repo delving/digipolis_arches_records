@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+366672b7-c278-52bd-8299-f07eeee64246,tg:lhps:23917,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23917,https://data.letterenhuis.be/ark:/24970/366672b7-c278-52bd-8299-f07eeee64246,Affiches,,,,
+366672b7-c278-52bd-8299-f07eeee64246,tg:lhps:23917,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Aschendorff</p>
+","<p>druk: Aschendorff</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+366672b7-c278-52bd-8299-f07eeee64246,tg:lhps:23917,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1978.0,2093,In Copyright
+366672b7-c278-52bd-8299-f07eeee64246,tg:lhps:23917,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780628,,,,,,,,,,,,,,,,,,,,
+366672b7-c278-52bd-8299-f07eeee64246,tg:lhps:23917,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780930,,,,,,,,,,,,,,,,,,,,
+366672b7-c278-52bd-8299-f07eeee64246,tg:lhps:23917,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1978-09-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+366672b7-c278-52bd-8299-f07eeee64246,tg:lhps:23917,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Padua vor den Römern  
+Westfälisches Landesmuseum für Vor- und Frühgeschichte  
+[design: Hilm Böckmann]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+366672b7-c278-52bd-8299-f07eeee64246,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023259,referentienummer,False,,,,,,,,,,,,,,
+366672b7-c278-52bd-8299-f07eeee64246,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23917,brocade id,False,,,,,,,,,,,,,,
+366672b7-c278-52bd-8299-f07eeee64246,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23917/N,brocade url,False,,,,,,,,,,,,,,
+366672b7-c278-52bd-8299-f07eeee64246,tg:lhps:23917,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e8477d65-e6b7-5fa2-9b55-144a7950126e"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6cd30c6d-4280-4b07-886d-6ff81d3cf992"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

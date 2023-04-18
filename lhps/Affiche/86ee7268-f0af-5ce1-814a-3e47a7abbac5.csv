@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+86ee7268-f0af-5ce1-814a-3e47a7abbac5,tg:lhps:44669,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:44669,https://data.letterenhuis.be/ark:/24970/86ee7268-f0af-5ce1-814a-3e47a7abbac5,Affiches,,,,
+86ee7268-f0af-5ce1-814a-3e47a7abbac5,tg:lhps:44669,e73_CreationTimeSpans,,default_copyright,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Copyright Undetermined
+86ee7268-f0af-5ce1-814a-3e47a7abbac5,tg:lhps:44669,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gent  
+Belgie  
+Belgique  
+Belgium  
+Belgien",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+86ee7268-f0af-5ce1-814a-3e47a7abbac5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000040585,referentienummer,False,,,,,,,,,,,,,,
+86ee7268-f0af-5ce1-814a-3e47a7abbac5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:44669,brocade id,False,,,,,,,,,,,,,,
+86ee7268-f0af-5ce1-814a-3e47a7abbac5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:44669/N,brocade url,False,,,,,,,,,,,,,,
+86ee7268-f0af-5ce1-814a-3e47a7abbac5,tg:lhps:44669,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""73862c6a-da7d-5c2c-afc8-50d578b79e1b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b4df089c-ac69-4c0e-b5b3-1e0591ef1d71"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+86ee7268-f0af-5ce1-814a-3e47a7abbac5,tg:lhps:44669,e73_OriginalBrocade,,,au::100654,,,,lhps,,,a43ec5c9-9a52-53c3-8cfc-af6cef59a6d2,kw,,au::100654:1,au::100654g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Gent (Arrondissement Gent)"",""ark"":""ark:/83110/x0/a43ec5c9-9a52-53c3-8cfc-af6cef59a6d2"",""uri"":""/subjects/10769978"",""id"":""au::100654"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/a43ec5c9-9a52-53c3-8cfc-af6cef59a6d2,place,,,,,,,,

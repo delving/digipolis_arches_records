@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,tg:lhps:24979,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24979,https://data.letterenhuis.be/ark:/24970/bbc20441-cbc2-58eb-b0fc-e29b51f3abef,Affiches,,,,
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,tg:lhps:24979,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,tg:lhps:24979,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19831119,,,,,,,,,,,,,,,,,,,,
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,tg:lhps:24979,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840108,,,,,,,,,,,,,,,,,,,,
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,tg:lhps:24979,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1984-01-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,tg:lhps:24979,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Deutscher Künstlerbund  
+31. Jahresausstellung Berlin  
+Nationalgalerie - Martin Gropius Bau",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024318,referentienummer,False,,,,,,,,,,,,,,
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24979,brocade id,False,,,,,,,,,,,,,,
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24979/N,brocade url,False,,,,,,,,,,,,,,
+bbc20441-cbc2-58eb-b0fc-e29b51f3abef,tg:lhps:24979,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2590c1ac-af96-5eba-a252-416e63aecee9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""76d39077-4e5a-4c20-8be6-bc55e6234227"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

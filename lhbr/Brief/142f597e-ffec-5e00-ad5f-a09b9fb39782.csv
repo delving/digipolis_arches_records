@@ -1,0 +1,9 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+142f597e-ffec-5e00-ad5f-a09b9fb39782,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:216682_#1,https://data.letterenhuis.be/ark:/24970/142f597e-ffec-5e00-ad5f-a09b9fb39782,,,
+142f597e-ffec-5e00-ad5f-a09b9fb39782,,,,199506/1,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142f597e-ffec-5e00-ad5f-a09b9fb39782,tr:lh:7653,"dlod={""name"":""Aankoop bij Demian"",""ark"":""ark:/24970/x0/91f77143-9ce7-5b6a-8dc1-1a68ddd206d3"",""uri"":""/repositories/11/accessions/818874"",""id"":""tr:lh:7653"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/91f77143-9ce7-5b6a-8dc1-1a68ddd206d3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142f597e-ffec-5e00-ad5f-a09b9fb39782,,,,,,,,,,,,,,,lhbr,tr:lh:7653,tg:lhbr:216682_#1,199506/1,,J 33543 / B,142f597e-ffec-5e00-ad5f-a09b9fb39782,,,,,,,,,,,,,,,
+142f597e-ffec-5e00-ad5f-a09b9fb39782,,,,,,kenmerken.lhschrijfhs,bi,,,,,,,,,,,,,,,,,,,,,ball-point pens,,,,,,,,
+142f597e-ffec-5e00-ad5f-a09b9fb39782,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+142f597e-ffec-5e00-ad5f-a09b9fb39782,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+142f597e-ffec-5e00-ad5f-a09b9fb39782,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973,permission required

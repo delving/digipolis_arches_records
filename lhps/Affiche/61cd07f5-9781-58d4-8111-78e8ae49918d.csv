@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+61cd07f5-9781-58d4-8111-78e8ae49918d,tg:lhps:26873,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26873,https://data.letterenhuis.be/ark:/24970/61cd07f5-9781-58d4-8111-78e8ae49918d,Affiches,,,,
+61cd07f5-9781-58d4-8111-78e8ae49918d,tg:lhps:26873,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright
+61cd07f5-9781-58d4-8111-78e8ae49918d,tg:lhps:26873,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19730511,,,,,,,,,,,,,,,,,,,,
+61cd07f5-9781-58d4-8111-78e8ae49918d,tg:lhps:26873,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19730617,,,,,,,,,,,,,,,,,,,,
+61cd07f5-9781-58d4-8111-78e8ae49918d,tg:lhps:26873,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1973-06-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61cd07f5-9781-58d4-8111-78e8ae49918d,tg:lhps:26873,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Rougemont  
+Graphisches Werk 1966-73  
+Mittelrhein-Museum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+61cd07f5-9781-58d4-8111-78e8ae49918d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026196,referentienummer,False,,,,,,,,,,,,,,
+61cd07f5-9781-58d4-8111-78e8ae49918d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26873,brocade id,False,,,,,,,,,,,,,,
+61cd07f5-9781-58d4-8111-78e8ae49918d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26873/N,brocade url,False,,,,,,,,,,,,,,
+61cd07f5-9781-58d4-8111-78e8ae49918d,tg:lhps:26873,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e68feaaf-405c-5cae-976c-74bb1bc554ec"", ""ontologyProperty"": """", ""resourceXresourceId"": ""a76a9407-bd4a-4727-baf3-dc016757d0f2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

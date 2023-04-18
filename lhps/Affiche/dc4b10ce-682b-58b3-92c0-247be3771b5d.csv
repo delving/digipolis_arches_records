@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+dc4b10ce-682b-58b3-92c0-247be3771b5d,tg:lhps:28781,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:28781,https://data.letterenhuis.be/ark:/24970/dc4b10ce-682b-58b3-92c0-247be3771b5d,Affiches,,,,
+dc4b10ce-682b-58b3-92c0-247be3771b5d,tg:lhps:28781,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering Volkskunde: 93.21.87</p>
+","<p>Oude nummering Volkskunde: 93.21.87</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc4b10ce-682b-58b3-92c0-247be3771b5d,tg:lhps:28781,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1938.0,2053,In Copyright
+dc4b10ce-682b-58b3-92c0-247be3771b5d,tg:lhps:28781,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19380000,,,,,,,,,,,,,,,,,,,,
+dc4b10ce-682b-58b3-92c0-247be3771b5d,tg:lhps:28781,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1938,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dc4b10ce-682b-58b3-92c0-247be3771b5d,tg:lhps:28781,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Antwerpsche Hypotheekkas,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+dc4b10ce-682b-58b3-92c0-247be3771b5d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000028093,referentienummer,False,,,,,,,,,,,,,,
+dc4b10ce-682b-58b3-92c0-247be3771b5d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:28781,brocade id,False,,,,,,,,,,,,,,
+dc4b10ce-682b-58b3-92c0-247be3771b5d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:28781/N,brocade url,False,,,,,,,,,,,,,,
+dc4b10ce-682b-58b3-92c0-247be3771b5d,tg:lhps:28781,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b4779a9e-8275-591b-84c7-ebfc545aad57"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5f0efb19-0a78-444f-8bec-802d07cfc550"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

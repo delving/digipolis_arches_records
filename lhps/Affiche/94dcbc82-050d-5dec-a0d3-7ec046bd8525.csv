@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,tg:lhps:25632,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25632,https://data.letterenhuis.be/ark:/24970/94dcbc82-050d-5dec-a0d3-7ec046bd8525,Affiches,,,,
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,tg:lhps:25632,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1964.0,2079,In Copyright
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,tg:lhps:25632,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640600,,,,,,,,,,,,,,,,,,,,
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,tg:lhps:25632,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640800,,,,,,,,,,,,,,,,,,,,
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,tg:lhps:25632,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,tg:lhps:25632,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Anklage und Aufruf  
+Die deutsche Kunst zwischen den Kriegen  
+Staatliche Museen zu Berlin - National Galerie",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024965,referentienummer,False,,,,,,,,,,,,,,
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25632,brocade id,False,,,,,,,,,,,,,,
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25632/N,brocade url,False,,,,,,,,,,,,,,
+94dcbc82-050d-5dec-a0d3-7ec046bd8525,tg:lhps:25632,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""485684d8-3aef-5594-98d8-0e685a557097"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b6788b8b-857c-4f31-b3e8-849734890182"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,tg:lhps:24064,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24064,https://data.letterenhuis.be/ark:/24970/59ffe5ab-d8e7-5f33-8442-d31962e50cca,Affiches,,,,
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,tg:lhps:24064,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1979.0,2094,In Copyright
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,tg:lhps:24064,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19790126,,,,,,,,,,,,,,,,,,,,
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,tg:lhps:24064,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19790304,,,,,,,,,,,,,,,,,,,,
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,tg:lhps:24064,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1979-03-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,tg:lhps:24064,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Georg Cadora  
+Wilhelm-Lehmbruck-Museum der Stadt Duisburg  
+[design: Th. Windges]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023406,referentienummer,False,,,,,,,,,,,,,,
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24064,brocade id,False,,,,,,,,,,,,,,
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24064/N,brocade url,False,,,,,,,,,,,,,,
+59ffe5ab-d8e7-5f33-8442-d31962e50cca,tg:lhps:24064,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5031b9c5-6770-5cb3-8520-7afc9b9eadbe"", ""ontologyProperty"": """", ""resourceXresourceId"": ""100c6b43-1edc-442f-adbb-39923b69e835"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+99315f39-ecd5-559d-81d1-e7fda88c26ca,tg:lhps:22977,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22977,https://data.letterenhuis.be/ark:/24970/99315f39-ecd5-559d-81d1-e7fda88c26ca,Affiches,,,,
+99315f39-ecd5-559d-81d1-e7fda88c26ca,tg:lhps:22977,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: F. Xaver Leipold</p>
+","<p>druk: F. Xaver Leipold</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99315f39-ecd5-559d-81d1-e7fda88c26ca,tg:lhps:22977,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1968.0,2083,In Copyright
+99315f39-ecd5-559d-81d1-e7fda88c26ca,tg:lhps:22977,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680402,,,,,,,,,,,,,,,,,,,,
+99315f39-ecd5-559d-81d1-e7fda88c26ca,tg:lhps:22977,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19680512,,,,,,,,,,,,,,,,,,,,
+99315f39-ecd5-559d-81d1-e7fda88c26ca,tg:lhps:22977,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1968-05-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99315f39-ecd5-559d-81d1-e7fda88c26ca,tg:lhps:22977,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Yves Klein in Nürnberg  
+Kunsthalle - Künstlerhaus  
+[design: Redl]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+99315f39-ecd5-559d-81d1-e7fda88c26ca,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022322,referentienummer,False,,,,,,,,,,,,,,
+99315f39-ecd5-559d-81d1-e7fda88c26ca,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22977,brocade id,False,,,,,,,,,,,,,,
+99315f39-ecd5-559d-81d1-e7fda88c26ca,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22977/N,brocade url,False,,,,,,,,,,,,,,
+99315f39-ecd5-559d-81d1-e7fda88c26ca,tg:lhps:22977,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f61d413d-d4d9-544b-aaaa-29dd5a321b51"", ""ontologyProperty"": """", ""resourceXresourceId"": ""be99e55b-2877-43af-b505-ca0bb47e65af"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

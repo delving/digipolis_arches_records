@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+72d539cb-77ed-5418-86b6-136b325b1f86,tg:lhps:32553,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:32553,https://data.letterenhuis.be/ark:/24970/72d539cb-77ed-5418-86b6-136b325b1f86,Affiches,,,,
+72d539cb-77ed-5418-86b6-136b325b1f86,tg:lhps:32553,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Aankondiging voor de publicatie van de roman &quot;Lulu&quot; van Félicien Champsaur</p>
+<p>Kleurenlitho; niet gesign.</p>
+","<p>Aankondiging voor de publicatie van de roman &quot;Lulu&quot; van Félicien Champsaur</p>
+<p>Kleurenlitho; niet gesign.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72d539cb-77ed-5418-86b6-136b325b1f86,tg:lhps:32553,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1901.0,2016,No Known Copyright
+72d539cb-77ed-5418-86b6-136b325b1f86,tg:lhps:32553,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19010000,,,,,,,,,,,,,,,,,,,,
+72d539cb-77ed-5418-86b6-136b325b1f86,tg:lhps:32553,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1901,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72d539cb-77ed-5418-86b6-136b325b1f86,tg:lhps:32553,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Eugène Fasquelle, éditeur, Paris / Lulu / roman clownesque / par Félicien Champsaur / Avec 200 dessins de maîtres / Prix: 3frs50 / Chez tous les librairies / Imp. Charle Verneau",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+72d539cb-77ed-5418-86b6-136b325b1f86,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000031802,referentienummer,False,,,,,,,,,,,,,,
+72d539cb-77ed-5418-86b6-136b325b1f86,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:32553,brocade id,False,,,,,,,,,,,,,,
+72d539cb-77ed-5418-86b6-136b325b1f86,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:32553/N,brocade url,False,,,,,,,,,,,,,,
+72d539cb-77ed-5418-86b6-136b325b1f86,tg:lhps:32553,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""cef29417-2276-5396-a849-5d8dc1a893a5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""ee1da0ff-8d38-49a0-b472-30d58377fcdf"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

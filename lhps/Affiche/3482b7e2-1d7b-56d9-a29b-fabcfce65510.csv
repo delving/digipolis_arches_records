@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,tg:lhps:22338,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22338,https://data.letterenhuis.be/ark:/24970/3482b7e2-1d7b-56d9-a29b-fabcfce65510,Affiches,,,,
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,tg:lhps:22338,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1961.0,2076,In Copyright
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,tg:lhps:22338,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19610527,,,,,,,,,,,,,,,,,,,,
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,tg:lhps:22338,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19610614,,,,,,,,,,,,,,,,,,,,
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,tg:lhps:22338,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1961-06-14,reconstructie,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,tg:lhps:22338,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"AKG  
+Amersfoorts Kunstenaars Genootschap  
+Zonnehof",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021686,referentienummer,False,,,,,,,,,,,,,,
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22338,brocade id,False,,,,,,,,,,,,,,
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22338/N,brocade url,False,,,,,,,,,,,,,,
+3482b7e2-1d7b-56d9-a29b-fabcfce65510,tg:lhps:22338,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""c8bf7daf-82cd-5f1e-940a-6c708686a9ac"", ""ontologyProperty"": """", ""resourceXresourceId"": ""8ba85a62-bd18-46f5-9d55-d70395d017c8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

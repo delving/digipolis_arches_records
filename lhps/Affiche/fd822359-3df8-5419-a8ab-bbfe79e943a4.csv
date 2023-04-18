@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+fd822359-3df8-5419-a8ab-bbfe79e943a4,tg:lhps:23875,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23875,https://data.letterenhuis.be/ark:/24970/fd822359-3df8-5419-a8ab-bbfe79e943a4,Affiches,,,,
+fd822359-3df8-5419-a8ab-bbfe79e943a4,tg:lhps:23875,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972.0,2087,In Copyright
+fd822359-3df8-5419-a8ab-bbfe79e943a4,tg:lhps:23875,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19720709,,,,,,,,,,,,,,,,,,,,
+fd822359-3df8-5419-a8ab-bbfe79e943a4,tg:lhps:23875,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19720820,,,,,,,,,,,,,,,,,,,,
+fd822359-3df8-5419-a8ab-bbfe79e943a4,tg:lhps:23875,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1972-08-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fd822359-3df8-5419-a8ab-bbfe79e943a4,tg:lhps:23875,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Karl Gerstner  
+Color Sounds  
+Leopold Hoesch Museum Düren",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+fd822359-3df8-5419-a8ab-bbfe79e943a4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023217,referentienummer,False,,,,,,,,,,,,,,
+fd822359-3df8-5419-a8ab-bbfe79e943a4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23875,brocade id,False,,,,,,,,,,,,,,
+fd822359-3df8-5419-a8ab-bbfe79e943a4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23875/N,brocade url,False,,,,,,,,,,,,,,
+fd822359-3df8-5419-a8ab-bbfe79e943a4,tg:lhps:23875,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""629bd28b-8640-5f70-9101-3030e8ee911b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""71551f79-619f-418e-9dbf-d209a977c37c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

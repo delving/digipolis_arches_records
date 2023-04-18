@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,tg:lhps:14264,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:14264,https://data.letterenhuis.be/ark:/24970/fa74085b-84a6-5bf7-954f-f9c3b8c858a7,Affiches,,,,
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,tg:lhps:14264,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,tg:lhps:14264,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,00000216,,,,,,,,,,,,,,,,,,,,
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,tg:lhps:14264,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,00000302,,,,,,,,,,,,,,,,,,,,
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,tg:lhps:14264,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,XXXX-03-02,circa,circa,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,tg:lhps:14264,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Kunst van journalisten  
+Zaal ""het Wapenschild"" van het Gemeentekrediet  
+tentoonstellingen van schilderijen, tekeningen en beeldhouwwerk  
+van de hand van beroepsjournalisten die  
+kunst als hobby hebben",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000013757,referentienummer,False,,,,,,,,,,,,,,
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:14264,brocade id,False,,,,,,,,,,,,,,
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:14264/N,brocade url,False,,,,,,,,,,,,,,
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,tg:lhps:14264,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""987db30c-b8db-556b-84e6-ca0b36e2910a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e807e396-102d-4f47-8632-230959bcc79e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+fa74085b-84a6-5bf7-954f-f9c3b8c858a7,tg:lhps:14264,e73_OriginalBrocade,,,au::7074,,,,lhps,,,31bd6aca-958d-52b5-8382-7f1f1f7e6194,kw,,au::7074:1,au::7074g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Galerijen"",""ark"":""ark:/83110/x0/31bd6aca-958d-52b5-8382-7f1f1f7e6194"",""uri"":""/subjects/756918"",""id"":""au::7074"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/31bd6aca-958d-52b5-8382-7f1f1f7e6194,topic,,,,,,,,

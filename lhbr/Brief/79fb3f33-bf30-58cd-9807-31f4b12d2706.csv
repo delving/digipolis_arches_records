@@ -1,0 +1,8 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+79fb3f33-bf30-58cd-9807-31f4b12d2706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:232988_#1,https://data.letterenhuis.be/ark:/24970/79fb3f33-bf30-58cd-9807-31f4b12d2706,,,
+79fb3f33-bf30-58cd-9807-31f4b12d2706,,,,202495/2,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79fb3f33-bf30-58cd-9807-31f4b12d2706,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+79fb3f33-bf30-58cd-9807-31f4b12d2706,,,,,,,,,,,,,,,lhbr,,tg:lhbr:232988_#1,202495/2,,AA 236 / B2,79fb3f33-bf30-58cd-9807-31f4b12d2706,,,,,,,,,,,,,,,
+79fb3f33-bf30-58cd-9807-31f4b12d2706,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+79fb3f33-bf30-58cd-9807-31f4b12d2706,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+79fb3f33-bf30-58cd-9807-31f4b12d2706,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2002,permission required

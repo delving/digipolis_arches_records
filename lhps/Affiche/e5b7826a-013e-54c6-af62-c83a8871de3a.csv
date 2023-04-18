@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e5b7826a-013e-54c6-af62-c83a8871de3a,tg:lhps:24282,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24282,https://data.letterenhuis.be/ark:/24970/e5b7826a-013e-54c6-af62-c83a8871de3a,Affiches,,,,
+e5b7826a-013e-54c6-af62-c83a8871de3a,tg:lhps:24282,e73_AnnotationsImmaterial,1,note.lhalg,"<p>affiche bedrukt aan beide kanten</p>
+","<p>affiche bedrukt aan beide kanten</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e5b7826a-013e-54c6-af62-c83a8871de3a,tg:lhps:24282,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1964.0,2079,In Copyright
+e5b7826a-013e-54c6-af62-c83a8871de3a,tg:lhps:24282,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19641006,,,,,,,,,,,,,,,,,,,,
+e5b7826a-013e-54c6-af62-c83a8871de3a,tg:lhps:24282,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-10-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e5b7826a-013e-54c6-af62-c83a8871de3a,tg:lhps:24282,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Bianchini Gallery presents:  
+The Grand Opening of the American Supermarket",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e5b7826a-013e-54c6-af62-c83a8871de3a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023624,referentienummer,False,,,,,,,,,,,,,,
+e5b7826a-013e-54c6-af62-c83a8871de3a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24282,brocade id,False,,,,,,,,,,,,,,
+e5b7826a-013e-54c6-af62-c83a8871de3a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24282/N,brocade url,False,,,,,,,,,,,,,,
+e5b7826a-013e-54c6-af62-c83a8871de3a,tg:lhps:24282,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3396cada-93e6-59f9-ab2e-2b4a03af1f52"", ""ontologyProperty"": """", ""resourceXresourceId"": ""75e383c2-ba55-4cd2-8d4d-642803a737ee"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

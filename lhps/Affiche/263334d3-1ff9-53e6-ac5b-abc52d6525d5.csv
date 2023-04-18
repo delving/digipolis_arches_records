@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,tg:lhps:23177,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23177,https://data.letterenhuis.be/ark:/24970/263334d3-1ff9-53e6-ac5b-abc52d6525d5,Affiches,,,,
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,tg:lhps:23177,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: F. Knoche, Solingen-Wald</p>
+","<p>druk: F. Knoche, Solingen-Wald</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,tg:lhps:23177,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,tg:lhps:23177,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19671013,,,,,,,,,,,,,,,,,,,,
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,tg:lhps:23177,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19671203,,,,,,,,,,,,,,,,,,,,
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,tg:lhps:23177,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-12-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,tg:lhps:23177,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Piene  
+Fire Flower Power  
+Museum am Ostwall",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022522,referentienummer,False,,,,,,,,,,,,,,
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23177,brocade id,False,,,,,,,,,,,,,,
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23177/N,brocade url,False,,,,,,,,,,,,,,
+263334d3-1ff9-53e6-ac5b-abc52d6525d5,tg:lhps:23177,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""78d9e4a3-74c0-51c0-81e6-31968c4ee889"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e78fb693-bf81-4c5b-a070-99da3e3b2e9e"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+d6d30431-543b-5c77-af00-d94095b0f0c6,tg:lhps:23496,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23496,https://data.letterenhuis.be/ark:/24970/d6d30431-543b-5c77-af00-d94095b0f0c6,Affiches,,,,
+d6d30431-543b-5c77-af00-d94095b0f0c6,tg:lhps:23496,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+d6d30431-543b-5c77-af00-d94095b0f0c6,tg:lhps:23496,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830305,,,,,,,,,,,,,,,,,,,,
+d6d30431-543b-5c77-af00-d94095b0f0c6,tg:lhps:23496,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830410,,,,,,,,,,,,,,,,,,,,
+d6d30431-543b-5c77-af00-d94095b0f0c6,tg:lhps:23496,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-04-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d6d30431-543b-5c77-af00-d94095b0f0c6,tg:lhps:23496,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Indonesië  
+Andre Kerkhoven reisimpressies  
+Stedelijk Museum Zutphen",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+d6d30431-543b-5c77-af00-d94095b0f0c6,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022841,referentienummer,False,,,,,,,,,,,,,,
+d6d30431-543b-5c77-af00-d94095b0f0c6,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23496,brocade id,False,,,,,,,,,,,,,,
+d6d30431-543b-5c77-af00-d94095b0f0c6,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23496/N,brocade url,False,,,,,,,,,,,,,,
+d6d30431-543b-5c77-af00-d94095b0f0c6,tg:lhps:23496,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""16b7e7a2-a043-5921-ae8b-2d8d14d820f5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c34e0064-a1db-42a0-8d57-d9e3be6cae90"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

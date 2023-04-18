@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,tg:lhps:13057,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:13057,https://data.letterenhuis.be/ark:/24970/2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,Affiches,,,,
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,tg:lhps:13057,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1987.0,2102,In Copyright
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,tg:lhps:13057,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19870926,,,,,,,,,,,,,,,,,,,,
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,tg:lhps:13057,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19871018,,,,,,,,,,,,,,,,,,,,
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,tg:lhps:13057,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1987-10-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,tg:lhps:13057,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"CCH  
+Mei'86 stelt tentoon  
+Mirjam Van Nyveiseel  
+Jan Hemerijkx  
+Ron Van de Vyver  
+Stefaan Wouters",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012584,referentienummer,False,,,,,,,,,,,,,,
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:13057,brocade id,False,,,,,,,,,,,,,,
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:13057/N,brocade url,False,,,,,,,,,,,,,,
+2ebbf8a3-1a4a-5bc4-b1f7-03d3f34ad87c,tg:lhps:13057,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""381b17a1-0713-5eb5-a19c-cdb6961502c7"", ""ontologyProperty"": """", ""resourceXresourceId"": ""11df0dde-edc8-4ba9-b413-541cab1cc91f"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

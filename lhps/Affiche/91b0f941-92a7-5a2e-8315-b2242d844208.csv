@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+91b0f941-92a7-5a2e-8315-b2242d844208,tg:lhps:34248,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:34248,https://data.letterenhuis.be/ark:/24970/91b0f941-92a7-5a2e-8315-b2242d844208,Affiches,,,,
+91b0f941-92a7-5a2e-8315-b2242d844208,tg:lhps:34248,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Kleurenlithografie; niet gesign.</p>
+","<p>Kleurenlithografie; niet gesign.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91b0f941-92a7-5a2e-8315-b2242d844208,tg:lhps:34248,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1900.0,2015,No Known Copyright
+91b0f941-92a7-5a2e-8315-b2242d844208,tg:lhps:34248,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19000000,,,,,,,,,,,,,,,,,,,,
+91b0f941-92a7-5a2e-8315-b2242d844208,tg:lhps:34248,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19000000,,,,,,,,,,,,,,,,,,,,
+91b0f941-92a7-5a2e-8315-b2242d844208,tg:lhps:34248,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,19XX,circa,circa,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91b0f941-92a7-5a2e-8315-b2242d844208,tg:lhps:34248,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Saïd / l'Indien / Malabariste - Charmeur de Pigeons,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+91b0f941-92a7-5a2e-8315-b2242d844208,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000033420,referentienummer,False,,,,,,,,,,,,,,
+91b0f941-92a7-5a2e-8315-b2242d844208,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:34248,brocade id,False,,,,,,,,,,,,,,
+91b0f941-92a7-5a2e-8315-b2242d844208,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:34248/N,brocade url,False,,,,,,,,,,,,,,
+91b0f941-92a7-5a2e-8315-b2242d844208,tg:lhps:34248,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""5ddd797c-8411-522b-ab4a-4d676a272778"", ""ontologyProperty"": """", ""resourceXresourceId"": ""69417215-0572-4bbf-8e53-f2795cac9464"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

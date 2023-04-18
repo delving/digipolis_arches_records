@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+fec98810-c430-5e53-acdf-567f7f4bd3ec,tg:lhps:27078,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27078,https://data.letterenhuis.be/ark:/24970/fec98810-c430-5e53-acdf-567f7f4bd3ec,Affiches,,,,
+fec98810-c430-5e53-acdf-567f7f4bd3ec,tg:lhps:27078,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+fec98810-c430-5e53-acdf-567f7f4bd3ec,tg:lhps:27078,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810219,,,,,,,,,,,,,,,,,,,,
+fec98810-c430-5e53-acdf-567f7f4bd3ec,tg:lhps:27078,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810831,,,,,,,,,,,,,,,,,,,,
+fec98810-c430-5e53-acdf-567f7f4bd3ec,tg:lhps:27078,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-08-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fec98810-c430-5e53-acdf-567f7f4bd3ec,tg:lhps:27078,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"David Bolduc/Painting/1975-1980  
+Mendel Art Gallery and Conservatory  
+Glenbow Museum  
+Medicine hat Museum and Art Gallery  
+Southern Alberta Art Gallery",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+fec98810-c430-5e53-acdf-567f7f4bd3ec,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026399,referentienummer,False,,,,,,,,,,,,,,
+fec98810-c430-5e53-acdf-567f7f4bd3ec,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27078,brocade id,False,,,,,,,,,,,,,,
+fec98810-c430-5e53-acdf-567f7f4bd3ec,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27078/N,brocade url,False,,,,,,,,,,,,,,
+fec98810-c430-5e53-acdf-567f7f4bd3ec,tg:lhps:27078,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""373540ff-0e33-54ac-8a57-2928461c9288"", ""ontologyProperty"": """", ""resourceXresourceId"": ""21378197-726e-491e-ba71-bf818356c0d9"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+34695784-57e4-5037-a2a8-3553e858dc75,tg:lhps:24138,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24138,https://data.letterenhuis.be/ark:/24970/34695784-57e4-5037-a2a8-3553e858dc75,Affiches,,,,
+34695784-57e4-5037-a2a8-3553e858dc75,tg:lhps:24138,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Mourlot</p>
+","<p>druk: Mourlot</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34695784-57e4-5037-a2a8-3553e858dc75,tg:lhps:24138,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1965.0,2080,In Copyright
+34695784-57e4-5037-a2a8-3553e858dc75,tg:lhps:24138,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19650000,,,,,,,,,,,,,,,,,,,,
+34695784-57e4-5037-a2a8-3553e858dc75,tg:lhps:24138,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1965,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34695784-57e4-5037-a2a8-3553e858dc75,tg:lhps:24138,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Martial Raysse  
+Galerie Alexandre Iolas",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+34695784-57e4-5037-a2a8-3553e858dc75,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023480,referentienummer,False,,,,,,,,,,,,,,
+34695784-57e4-5037-a2a8-3553e858dc75,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24138,brocade id,False,,,,,,,,,,,,,,
+34695784-57e4-5037-a2a8-3553e858dc75,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24138/N,brocade url,False,,,,,,,,,,,,,,
+34695784-57e4-5037-a2a8-3553e858dc75,tg:lhps:24138,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b4d396a5-4c63-5845-819e-d397fbf29ec2"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f12e7d55-7565-40a5-9650-14815697a7ab"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

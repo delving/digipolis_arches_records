@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,tg:lhps:24433,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24433,https://data.letterenhuis.be/ark:/24970/1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,Affiches,,,,
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,tg:lhps:24433,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Dr. Köhler, München</p>
+","<p>druk: Dr. Köhler, München</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,tg:lhps:24433,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,tg:lhps:24433,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19761200,,,,,,,,,,,,,,,,,,,,
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,tg:lhps:24433,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19770100,,,,,,,,,,,,,,,,,,,,
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,tg:lhps:24433,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1977-01,reconstructie,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,tg:lhps:24433,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Die Neue Sammlung  
+Ausstellungen der Neuerwerbungen aus den letzten drei Jahren  
+[entwurf: Wilfried Minks]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023775,referentienummer,False,,,,,,,,,,,,,,
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24433,brocade id,False,,,,,,,,,,,,,,
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24433/N,brocade url,False,,,,,,,,,,,,,,
+1bc0d131-49f9-5e9f-bc26-3b0c7ffc39c3,tg:lhps:24433,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fa2a1ebf-131f-5e9f-99e2-f17ca8536854"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7ffee781-17b2-4c4a-8957-7ee5d5067255"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

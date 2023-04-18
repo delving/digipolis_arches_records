@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,tg:lhps:25127,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25127,https://data.letterenhuis.be/ark:/24970/e2418ded-0a7e-5831-b9d2-690f3b51a1ae,Affiches,,,,
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,tg:lhps:25127,e73_AnnotationsImmaterial,1,note.lhalg,"<p>serigrafie: Marquet, Paris</p>
+","<p>serigrafie: Marquet, Paris</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,tg:lhps:25127,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1970.0,2085,In Copyright
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,tg:lhps:25127,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19700519,,,,,,,,,,,,,,,,,,,,
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,tg:lhps:25127,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19700710,,,,,,,,,,,,,,,,,,,,
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,tg:lhps:25127,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1970-07-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,tg:lhps:25127,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Cesar - Plastiques  
+Centre National d'Art Contemporain",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024466,referentienummer,False,,,,,,,,,,,,,,
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25127,brocade id,False,,,,,,,,,,,,,,
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25127/N,brocade url,False,,,,,,,,,,,,,,
+e2418ded-0a7e-5831-b9d2-690f3b51a1ae,tg:lhps:25127,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f3dbbb2a-89f2-5e02-83d7-25c5225bc7a9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e73f3147-05d2-485c-a25a-77f78d7ad82b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a28cb793-d749-5e79-9518-ba712047ed3f,tg:lhps:45125,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:45125,https://data.letterenhuis.be/ark:/24970/a28cb793-d749-5e79-9518-ba712047ed3f,Affiches,,,,
+a28cb793-d749-5e79-9518-ba712047ed3f,tg:lhps:45125,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1982.0,2097,In Copyright
+a28cb793-d749-5e79-9518-ba712047ed3f,tg:lhps:45125,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820805,,,,,,,,,,,,,,,,,,,,
+a28cb793-d749-5e79-9518-ba712047ed3f,tg:lhps:45125,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19820826,,,,,,,,,,,,,,,,,,,,
+a28cb793-d749-5e79-9518-ba712047ed3f,tg:lhps:45125,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1982-08-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a28cb793-d749-5e79-9518-ba712047ed3f,tg:lhps:45125,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Hasselt 750 jaar Stad  
+300 jaar Virga - Jessefeesten  
+Hasselt 750 jaar Stad  
+Orgelconcerten Augusutus 1982  
+Sint-Quintinuskathedraal  
+Onze Lieve Vrouwekerk",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a28cb793-d749-5e79-9518-ba712047ed3f,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000041039,referentienummer,False,,,,,,,,,,,,,,
+a28cb793-d749-5e79-9518-ba712047ed3f,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:45125,brocade id,False,,,,,,,,,,,,,,
+a28cb793-d749-5e79-9518-ba712047ed3f,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:45125/N,brocade url,False,,,,,,,,,,,,,,
+a28cb793-d749-5e79-9518-ba712047ed3f,tg:lhps:45125,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""99343cfd-2bd7-54bb-bd45-aa51a79ae055"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c723171c-24a3-49a5-a800-6ee8b67c2cad"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+a28cb793-d749-5e79-9518-ba712047ed3f,tg:lhps:45125,e73_OriginalBrocade,,,au::100339,,,,lhps,,,cce1a344-f134-5bd6-9234-8b6656bf8c83,kw,,au::100339:1,au::100339g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Hasselt (Arrondissement Hasselt)"",""ark"":""ark:/83110/x0/cce1a344-f134-5bd6-9234-8b6656bf8c83"",""uri"":""/subjects/10736273"",""id"":""au::100339"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/cce1a344-f134-5bd6-9234-8b6656bf8c83,place,,,,,,,,

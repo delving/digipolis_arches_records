@@ -1,0 +1,19 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,tg:lhps:13065,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:13065,https://data.letterenhuis.be/ark:/24970/b783259f-6f93-5855-96c2-78d9f4b6c2d8,Affiches,,,,
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,tg:lhps:13065,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,Copyright Undetermined
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,tg:lhps:13065,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,00000205,,,,,,,,,,,,,,,,,,,,
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,tg:lhps:13065,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,00000205,,,,,,,,,,,,,,,,,,,,
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,tg:lhps:13065,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,XXXX-02-05,circa,circa,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,tg:lhps:13065,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"CCH  
+De zachtmoedige  
+van dostojevski  
+Jules Croiset  
+25 jarig toneeljubileum Jules Croiset  
+100 jarige herdenking sterfdag Dostojevski  
+begeleiding Ton Lutz  
+Toneelbeeld Lou Steenbergen  
+Org.Impresariaat Lumen",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012592,referentienummer,False,,,,,,,,,,,,,,
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:13065,brocade id,False,,,,,,,,,,,,,,
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:13065/N,brocade url,False,,,,,,,,,,,,,,
+b783259f-6f93-5855-96c2-78d9f4b6c2d8,tg:lhps:13065,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""ffac4b62-c95a-5759-a50b-041326ea73fa"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bd636186-784e-4911-9823-085787a001c8"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

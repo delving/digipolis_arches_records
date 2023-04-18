@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,tg:lhps:24465,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24465,https://data.letterenhuis.be/ark:/24970/e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,Affiches,,,,
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,tg:lhps:24465,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,tg:lhps:24465,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760519,,,,,,,,,,,,,,,,,,,,
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,tg:lhps:24465,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760718,,,,,,,,,,,,,,,,,,,,
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,tg:lhps:24465,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1976-07-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,tg:lhps:24465,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Turner und die Landschaft zeiner Zeit  
+Hamburger Kunsthalle  
+[entwurf: Ernst Ludwig Kretzer/Wilhelm Peters]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023807,referentienummer,False,,,,,,,,,,,,,,
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24465,brocade id,False,,,,,,,,,,,,,,
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24465/N,brocade url,False,,,,,,,,,,,,,,
+e58d2039-ae6f-51ba-b8f0-2ac80e37b96e,tg:lhps:24465,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""478da847-7f34-5f4e-a881-fb287e721677"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0bd9bd0c-bd54-46be-a549-cc5126ff53b3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

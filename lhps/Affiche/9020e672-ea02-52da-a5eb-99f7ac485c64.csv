@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+9020e672-ea02-52da-a5eb-99f7ac485c64,tg:lhps:24656,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24656,https://data.letterenhuis.be/ark:/24970/9020e672-ea02-52da-a5eb-99f7ac485c64,Affiches,,,,
+9020e672-ea02-52da-a5eb-99f7ac485c64,tg:lhps:24656,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1980.0,2095,In Copyright
+9020e672-ea02-52da-a5eb-99f7ac485c64,tg:lhps:24656,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19800812,,,,,,,,,,,,,,,,,,,,
+9020e672-ea02-52da-a5eb-99f7ac485c64,tg:lhps:24656,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19800907,,,,,,,,,,,,,,,,,,,,
+9020e672-ea02-52da-a5eb-99f7ac485c64,tg:lhps:24656,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1980-09-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9020e672-ea02-52da-a5eb-99f7ac485c64,tg:lhps:24656,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Dieter Koch  
+So oder so  
+Oder ganz anders  
+Leopold-Hoesch-Museum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+9020e672-ea02-52da-a5eb-99f7ac485c64,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023997,referentienummer,False,,,,,,,,,,,,,,
+9020e672-ea02-52da-a5eb-99f7ac485c64,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24656,brocade id,False,,,,,,,,,,,,,,
+9020e672-ea02-52da-a5eb-99f7ac485c64,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24656/N,brocade url,False,,,,,,,,,,,,,,
+9020e672-ea02-52da-a5eb-99f7ac485c64,tg:lhps:24656,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6089a7ff-257e-5e39-88e1-6e55279e3efe"", ""ontologyProperty"": """", ""resourceXresourceId"": ""9ba245dd-ff94-4817-9577-d0abcc208f4c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

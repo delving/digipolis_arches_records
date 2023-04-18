@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+44fa987a-a09b-5d27-96a7-1cf4ea7c2105,tg:lhps:24252,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24252,https://data.letterenhuis.be/ark:/24970/44fa987a-a09b-5d27-96a7-1cf4ea7c2105,Affiches,,,,
+44fa987a-a09b-5d27-96a7-1cf4ea7c2105,tg:lhps:24252,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1967.0,2082,In Copyright
+44fa987a-a09b-5d27-96a7-1cf4ea7c2105,tg:lhps:24252,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19671212,,,,,,,,,,,,,,,,,,,,
+44fa987a-a09b-5d27-96a7-1cf4ea7c2105,tg:lhps:24252,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1967-12-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44fa987a-a09b-5d27-96a7-1cf4ea7c2105,tg:lhps:24252,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gunpowder drawings  
+Edward Ruscha  
+Alexandre Iolas [Gallery]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+44fa987a-a09b-5d27-96a7-1cf4ea7c2105,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023594,referentienummer,False,,,,,,,,,,,,,,
+44fa987a-a09b-5d27-96a7-1cf4ea7c2105,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24252,brocade id,False,,,,,,,,,,,,,,
+44fa987a-a09b-5d27-96a7-1cf4ea7c2105,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24252/N,brocade url,False,,,,,,,,,,,,,,
+44fa987a-a09b-5d27-96a7-1cf4ea7c2105,tg:lhps:24252,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fdb31597-cfb8-5f56-8bef-96f65d936121"", ""ontologyProperty"": """", ""resourceXresourceId"": ""57ec9b67-7d50-4791-b5d4-e76282b2dbae"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

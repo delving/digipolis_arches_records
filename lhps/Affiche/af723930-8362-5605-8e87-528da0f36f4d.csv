@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+af723930-8362-5605-8e87-528da0f36f4d,tg:lhps:23480,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23480,https://data.letterenhuis.be/ark:/24970/af723930-8362-5605-8e87-528da0f36f4d,Affiches,,,,
+af723930-8362-5605-8e87-528da0f36f4d,tg:lhps:23480,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+af723930-8362-5605-8e87-528da0f36f4d,tg:lhps:23480,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830624,,,,,,,,,,,,,,,,,,,,
+af723930-8362-5605-8e87-528da0f36f4d,tg:lhps:23480,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19830819,,,,,,,,,,,,,,,,,,,,
+af723930-8362-5605-8e87-528da0f36f4d,tg:lhps:23480,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1983-08-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+af723930-8362-5605-8e87-528da0f36f4d,tg:lhps:23480,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Kriester  
+Skulpturen - Zeichnungen  
+Galerie Heinz Holtmann Köln",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+af723930-8362-5605-8e87-528da0f36f4d,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022825,referentienummer,False,,,,,,,,,,,,,,
+af723930-8362-5605-8e87-528da0f36f4d,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23480,brocade id,False,,,,,,,,,,,,,,
+af723930-8362-5605-8e87-528da0f36f4d,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23480/N,brocade url,False,,,,,,,,,,,,,,
+af723930-8362-5605-8e87-528da0f36f4d,tg:lhps:23480,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""66a7ff93-5fa5-5097-847b-b4c0a19b68c8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""dcb9240a-7b35-4735-b369-6fc9411557b2"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

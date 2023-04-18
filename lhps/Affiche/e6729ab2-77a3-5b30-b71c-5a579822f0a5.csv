@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,tg:lhps:35306,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:35306,https://data.letterenhuis.be/ark:/24970/e6729ab2-77a3-5b30-b71c-5a579822f0a5,Affiches,,,,
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,tg:lhps:35306,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Ontwerp: Melki '87</p>
+<p>Twee exempl.</p>
+","<p>Ontwerp: Melki '87</p>
+<p>Twee exempl.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,tg:lhps:35306,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1994.0,2109,In Copyright
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,tg:lhps:35306,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1987,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,tg:lhps:35306,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,Joey / Une aventure supernaturelle / Réalisé par Roland Emmerich,descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000034477,referentienummer,False,,,,,,,,,,,,,,
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:35306,brocade id,False,,,,,,,,,,,,,,
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:35306/N,brocade url,False,,,,,,,,,,,,,,
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,tg:lhps:35306,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""88ecb259-a098-5219-834c-e67f333fa4a3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fdce0e3f-85e7-4918-a9d7-bcf0b88b7c67"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+e6729ab2-77a3-5b30-b71c-5a579822f0a5,tg:lhps:35306,e73_OriginalBrocade,,,au::6754,,,,lhps,,,e13aee2e-5fa9-5d19-ba0a-f40af4ad7968,kw,,au::6754:1,au::6754g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Film"",""ark"":""ark:/83110/x0/e13aee2e-5fa9-5d19-ba0a-f40af4ad7968"",""uri"":""/subjects/722678"",""id"":""au::6754"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/e13aee2e-5fa9-5d19-ba0a-f40af4ad7968,topic,,,,,,,,

@@ -1,0 +1,18 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,tg:lhps:29737,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:29737,https://data.letterenhuis.be/ark:/24970/0a06955b-636f-5c64-aa47-2b079d5d1cf7,Affiches,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,tg:lhps:29737,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Ontwerp: Godelieve Baert</p>
+<p>Oude nummering Volkskunde: 93.21.58</p>
+","<p>Ontwerp: Godelieve Baert</p>
+<p>Oude nummering Volkskunde: 93.21.58</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,tg:lhps:29737,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1961.0,2076,In Copyright
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,tg:lhps:29737,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19610815,,,,,,,,,,,,,,,,,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,tg:lhps:29737,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1961-08-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,tg:lhps:29737,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Oogstfeest Veurne  
+",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000029046,referentienummer,False,,,,,,,,,,,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:29737,brocade id,False,,,,,,,,,,,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:29737/N,brocade url,False,,,,,,,,,,,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,tg:lhps:29737,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""16c00286-0d4d-5001-b56a-9dfef7f7dc08"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fcb4f0aa-b7b2-4f6f-82fe-8f8d09d57659"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,tg:lhps:29737,e73_MaterialRecords,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""80e044d6-633d-5815-b9b8-ba6ef7308b74"", ""ontologyProperty"": """", ""resourceXresourceId"": ""1a3edbda-ef40-4fed-aae4-ab47204005b0"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+0a06955b-636f-5c64-aa47-2b079d5d1cf7,tg:lhps:29737,e73_OriginalBrocade,,,au::101251,,,,lhps,,,129c0d7f-79ff-5adb-8578-a11bd0d13d12,kw,,au::101251:1,au::101251g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Veurne (Arrondissement Veurne)"",""ark"":""ark:/83110/x0/129c0d7f-79ff-5adb-8578-a11bd0d13d12"",""uri"":""/subjects/10833857"",""id"":""au::101251"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/129c0d7f-79ff-5adb-8578-a11bd0d13d12,place,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f4a779ee-0ba6-5609-a60a-1be91afddee9,tg:lhps:27121,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27121,https://data.letterenhuis.be/ark:/24970/f4a779ee-0ba6-5609-a60a-1be91afddee9,Affiches,,,,
+f4a779ee-0ba6-5609-a60a-1be91afddee9,tg:lhps:27121,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1991.0,2106,In Copyright
+f4a779ee-0ba6-5609-a60a-1be91afddee9,tg:lhps:27121,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19910413,,,,,,,,,,,,,,,,,,,,
+f4a779ee-0ba6-5609-a60a-1be91afddee9,tg:lhps:27121,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19910602,,,,,,,,,,,,,,,,,,,,
+f4a779ee-0ba6-5609-a60a-1be91afddee9,tg:lhps:27121,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1991-06-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f4a779ee-0ba6-5609-a60a-1be91afddee9,tg:lhps:27121,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"In negatief gesneden  
+Penningen van Niel Steenbergen  
+Museum Kempenland",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f4a779ee-0ba6-5609-a60a-1be91afddee9,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026442,referentienummer,False,,,,,,,,,,,,,,
+f4a779ee-0ba6-5609-a60a-1be91afddee9,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27121,brocade id,False,,,,,,,,,,,,,,
+f4a779ee-0ba6-5609-a60a-1be91afddee9,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27121/N,brocade url,False,,,,,,,,,,,,,,
+f4a779ee-0ba6-5609-a60a-1be91afddee9,tg:lhps:27121,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2ba90045-918b-53d0-9569-2f42635e83c9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""fb759092-521e-4bea-bb5c-d3bfdd545f8c"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,14 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+7b63e8f4-7f1d-5654-875c-09a7efff0718,tg:lhps:13066,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:13066,https://data.letterenhuis.be/ark:/24970/7b63e8f4-7f1d-5654-875c-09a7efff0718,Affiches,,,,
+7b63e8f4-7f1d-5654-875c-09a7efff0718,tg:lhps:13066,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1981.0,2096,In Copyright
+7b63e8f4-7f1d-5654-875c-09a7efff0718,tg:lhps:13066,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810221,,,,,,,,,,,,,,,,,,,,
+7b63e8f4-7f1d-5654-875c-09a7efff0718,tg:lhps:13066,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19810221,,,,,,,,,,,,,,,,,,,,
+7b63e8f4-7f1d-5654-875c-09a7efff0718,tg:lhps:13066,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1981-02-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b63e8f4-7f1d-5654-875c-09a7efff0718,tg:lhps:13066,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"CCH  
+Karnavals  
+Konsaar  
+Lucas Vis dirigeert het LSO",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+7b63e8f4-7f1d-5654-875c-09a7efff0718,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000012593,referentienummer,False,,,,,,,,,,,,,,
+7b63e8f4-7f1d-5654-875c-09a7efff0718,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:13066,brocade id,False,,,,,,,,,,,,,,
+7b63e8f4-7f1d-5654-875c-09a7efff0718,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:13066/N,brocade url,False,,,,,,,,,,,,,,
+7b63e8f4-7f1d-5654-875c-09a7efff0718,tg:lhps:13066,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3663dbad-6bb8-5b43-98c6-694d780379c6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3ae50015-075c-4962-9128-c3ae75fd1e08"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

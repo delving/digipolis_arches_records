@@ -1,0 +1,19 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:21972,https://data.letterenhuis.be/ark:/24970/f47a6a01-9fad-5efa-a645-1af1a97db7d3,Affiches,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,e73_AnnotationsImmaterial,1,note.lhalg,"<p>Oude nummering NSM: E 33702</p>
+<p>Printed in Belgium by N.V. Cartoprint, Sint-Niklaas</p>
+","<p>Oude nummering NSM: E 33702</p>
+<p>Printed in Belgium by N.V. Cartoprint, Sint-Niklaas</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1979.0,2094,In Copyright
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19790908,,,,,,,,,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19790916,,,,,,,,,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1979-09-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"800 jaar Kallo 1979 / Chanelaus poorte ende heerlijckheyt / Massaspel /  
+Regie Jaak Van der Helst / Realisatie ""Const Ieveraers"" / Gemeentepark",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021320,referentienummer,False,,,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:21972,brocade id,False,,,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:21972/N,brocade url,False,,,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""866262d5-0c4e-5f40-8e18-56a64473ddcd"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c5fe3e0f-17ad-4328-af6e-509a784c36be"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,e73_MaterialRecords,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""9c75c021-9547-5918-aa70-cf53d805f9e8"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b93c3894-bafc-4caa-bbac-7094f9550008"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+f47a6a01-9fad-5efa-a645-1af1a97db7d3,tg:lhps:21972,e73_OriginalBrocade,,,au::100759,,,,lhps,,,f47b1ebd-92ed-5349-aa5b-8a6d5e9a3e21,kw,,au::100759:1,au::100759g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Kallo (Beveren)"",""ark"":""ark:/83110/x0/f47b1ebd-92ed-5349-aa5b-8a6d5e9a3e21"",""uri"":""/subjects/10781213"",""id"":""au::100759"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""place""}",ark:/83110/x0/f47b1ebd-92ed-5349-aa5b-8a6d5e9a3e21,place,,,,,,,,

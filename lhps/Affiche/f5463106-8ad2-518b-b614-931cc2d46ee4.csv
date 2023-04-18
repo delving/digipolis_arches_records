@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f5463106-8ad2-518b-b614-931cc2d46ee4,tg:lhps:24415,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24415,https://data.letterenhuis.be/ark:/24970/f5463106-8ad2-518b-b614-931cc2d46ee4,Affiches,,,,
+f5463106-8ad2-518b-b614-931cc2d46ee4,tg:lhps:24415,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright
+f5463106-8ad2-518b-b614-931cc2d46ee4,tg:lhps:24415,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760908,,,,,,,,,,,,,,,,,,,,
+f5463106-8ad2-518b-b614-931cc2d46ee4,tg:lhps:24415,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19761017,,,,,,,,,,,,,,,,,,,,
+f5463106-8ad2-518b-b614-931cc2d46ee4,tg:lhps:24415,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1976-10-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f5463106-8ad2-518b-b614-931cc2d46ee4,tg:lhps:24415,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Arwed D. Gorella  
+Realität, Symbol und Imagination  
+Badischer Kunstverein",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f5463106-8ad2-518b-b614-931cc2d46ee4,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023757,referentienummer,False,,,,,,,,,,,,,,
+f5463106-8ad2-518b-b614-931cc2d46ee4,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24415,brocade id,False,,,,,,,,,,,,,,
+f5463106-8ad2-518b-b614-931cc2d46ee4,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24415/N,brocade url,False,,,,,,,,,,,,,,
+f5463106-8ad2-518b-b614-931cc2d46ee4,tg:lhps:24415,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""55c77323-58b1-58d4-ba70-91ec009347d0"", ""ontologyProperty"": """", ""resourceXresourceId"": ""e49404ad-1357-43b6-9e6e-e1b06345bed6"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

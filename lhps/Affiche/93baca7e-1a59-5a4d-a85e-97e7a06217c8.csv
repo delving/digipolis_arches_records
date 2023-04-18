@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,tg:lhps:24546,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24546,https://data.letterenhuis.be/ark:/24970/93baca7e-1a59-5a4d-a85e-97e7a06217c8,Affiches,,,,
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,tg:lhps:24546,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1975.0,2090,In Copyright
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,tg:lhps:24546,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19750912,,,,,,,,,,,,,,,,,,,,
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,tg:lhps:24546,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19751026,,,,,,,,,,,,,,,,,,,,
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,tg:lhps:24546,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1975-10-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,tg:lhps:24546,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Let's mix all feelings together  
+Baruchello Erro Fahlström Liebig  
+Städtisches Museum Leverkusen Schloss Morsbroich",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023888,referentienummer,False,,,,,,,,,,,,,,
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24546,brocade id,False,,,,,,,,,,,,,,
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24546/N,brocade url,False,,,,,,,,,,,,,,
+93baca7e-1a59-5a4d-a85e-97e7a06217c8,tg:lhps:24546,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""e0319e8d-8c3d-54fe-a084-7a41c4896865"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b0dccf79-25bf-4e85-9919-0f816caf9a99"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

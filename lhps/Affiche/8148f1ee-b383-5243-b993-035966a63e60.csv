@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+8148f1ee-b383-5243-b993-035966a63e60,tg:lhps:26887,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26887,https://data.letterenhuis.be/ark:/24970/8148f1ee-b383-5243-b993-035966a63e60,Affiches,,,,
+8148f1ee-b383-5243-b993-035966a63e60,tg:lhps:26887,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: C. Brandt, Bonn</p>
+","<p>druk: C. Brandt, Bonn</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8148f1ee-b383-5243-b993-035966a63e60,tg:lhps:26887,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1964.0,2079,In Copyright
+8148f1ee-b383-5243-b993-035966a63e60,tg:lhps:26887,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640915,,,,,,,,,,,,,,,,,,,,
+8148f1ee-b383-5243-b993-035966a63e60,tg:lhps:26887,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19641011,,,,,,,,,,,,,,,,,,,,
+8148f1ee-b383-5243-b993-035966a63e60,tg:lhps:26887,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-10-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8148f1ee-b383-5243-b993-035966a63e60,tg:lhps:26887,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Kunsthistoriker Sammler und Mäzene  
+Bildnisse des 20. Jahrhunderts  
+Städtische Kunstsammlungen Bonn",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+8148f1ee-b383-5243-b993-035966a63e60,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026210,referentienummer,False,,,,,,,,,,,,,,
+8148f1ee-b383-5243-b993-035966a63e60,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26887,brocade id,False,,,,,,,,,,,,,,
+8148f1ee-b383-5243-b993-035966a63e60,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26887/N,brocade url,False,,,,,,,,,,,,,,
+8148f1ee-b383-5243-b993-035966a63e60,tg:lhps:26887,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2cc34600-5f59-5b99-8760-c8e5ddbfec64"", ""ontologyProperty"": """", ""resourceXresourceId"": ""bdcdead4-5bec-4d2f-b79a-70438fb5dfbc"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

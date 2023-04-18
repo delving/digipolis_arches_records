@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+8835a485-c26d-5b1c-9e19-313145702335,tg:lhps:24980,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24980,https://data.letterenhuis.be/ark:/24970/8835a485-c26d-5b1c-9e19-313145702335,Affiches,,,,
+8835a485-c26d-5b1c-9e19-313145702335,tg:lhps:24980,e73_AnnotationsImmaterial,1,note.lhalg,"<p>vormgeving: Rineke Borman</p>
+","<p>vormgeving: Rineke Borman</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8835a485-c26d-5b1c-9e19-313145702335,tg:lhps:24980,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983.0,2098,In Copyright
+8835a485-c26d-5b1c-9e19-313145702335,tg:lhps:24980,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19831112,,,,,,,,,,,,,,,,,,,,
+8835a485-c26d-5b1c-9e19-313145702335,tg:lhps:24980,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19840205,,,,,,,,,,,,,,,,,,,,
+8835a485-c26d-5b1c-9e19-313145702335,tg:lhps:24980,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1984-02-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8835a485-c26d-5b1c-9e19-313145702335,tg:lhps:24980,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Luther in de Lage landen  
+Rijksmuseum Het Catherijneconvent",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+8835a485-c26d-5b1c-9e19-313145702335,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000024319,referentienummer,False,,,,,,,,,,,,,,
+8835a485-c26d-5b1c-9e19-313145702335,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24980,brocade id,False,,,,,,,,,,,,,,
+8835a485-c26d-5b1c-9e19-313145702335,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24980/N,brocade url,False,,,,,,,,,,,,,,
+8835a485-c26d-5b1c-9e19-313145702335,tg:lhps:24980,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""1d8df962-0fd8-5eb5-adb5-70319324bcd1"", ""ontologyProperty"": """", ""resourceXresourceId"": ""24fc2ec5-03e6-49f7-bb35-33300294427a"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,tg:lhps:25763,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:25763,https://data.letterenhuis.be/ark:/24970/a171261c-b2dc-5e51-9699-c2f6158a0c5c,Affiches,,,,
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,tg:lhps:25763,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1973.0,2088,In Copyright
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,tg:lhps:25763,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19730918,,,,,,,,,,,,,,,,,,,,
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,tg:lhps:25763,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19731008,,,,,,,,,,,,,,,,,,,,
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,tg:lhps:25763,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1973-10-08,reconstructie,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,tg:lhps:25763,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Hoogstraten-Campbell  
+Owens Art Gallery  
+Mount Allison University",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000025096,referentienummer,False,,,,,,,,,,,,,,
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:25763,brocade id,False,,,,,,,,,,,,,,
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:25763/N,brocade url,False,,,,,,,,,,,,,,
+a171261c-b2dc-5e51-9699-c2f6158a0c5c,tg:lhps:25763,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""31288e94-23bc-51d5-9419-d1721f2757c3"", ""ontologyProperty"": """", ""resourceXresourceId"": ""c000b83c-940c-41ef-b0e2-621bb0c2649b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

@@ -1,0 +1,9 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+d60a2308-3175-5155-8a67-deb64cbd9b00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:174826_#1,https://data.letterenhuis.be/ark:/24970/d60a2308-3175-5155-8a67-deb64cbd9b00,,,
+d60a2308-3175-5155-8a67-deb64cbd9b00,,,,174231/3,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d60a2308-3175-5155-8a67-deb64cbd9b00,tr:lh:6974,"dlod={""name"":""Aankoop bij De Slegte"",""ark"":""ark:/24970/x0/830bb3eb-fbca-5bb8-a180-5b7f6904008b"",""uri"":""/repositories/11/accessions/746221"",""id"":""tr:lh:6974"",""isCapacity"":false,""orgID"":""lh"",""suggestType"":""accessions""}",ark:/24970/x0/830bb3eb-fbca-5bb8-a180-5b7f6904008b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d60a2308-3175-5155-8a67-deb64cbd9b00,,,,,,,,,,,,,,,lhbr,tr:lh:6974,tg:lhbr:174826_#1,174231/3,,L 157 / B1,d60a2308-3175-5155-8a67-deb64cbd9b00,,,,,,,,,,,,,,,
+d60a2308-3175-5155-8a67-deb64cbd9b00,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+d60a2308-3175-5155-8a67-deb64cbd9b00,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+d60a2308-3175-5155-8a67-deb64cbd9b00,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+d60a2308-3175-5155-8a67-deb64cbd9b00,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1929,permission required

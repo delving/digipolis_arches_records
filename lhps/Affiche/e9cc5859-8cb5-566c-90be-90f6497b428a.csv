@@ -1,0 +1,19 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+e9cc5859-8cb5-566c-90be-90f6497b428a,tg:lhps:4949,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:4949,https://data.letterenhuis.be/ark:/24970/e9cc5859-8cb5-566c-90be-90f6497b428a,Affiches,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,tg:lhps:4949,e73_AnnotationsImmaterial,1,note.lhalg,"<p>pub.: L. Neels en K. Ronse, <em>Waarde Landgenoten</em>, BRT-Open School, 1979, p.<br />
+53, ill.</p>
+","<p>pub.: L. Neels en K. Ronse, <em>Waarde Landgenoten</em>, BRT-Open School, 1979, p.<br />
+53, ill.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,tg:lhps:4949,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1944.0,2059,In Copyright
+e9cc5859-8cb5-566c-90be-90f6497b428a,tg:lhps:4949,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19440000,,,,,,,,,,,,,,,,,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,tg:lhps:4949,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19500000,,,,,,,,,,,,,,,,,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,tg:lhps:4949,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1950,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,tg:lhps:4949,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Gelukkig Nieuwjaar  
+het weze voorspoedig  
+en brenge de Koning terug op de troon.",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000004834,referentienummer,False,,,,,,,,,,,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:4949,brocade id,False,,,,,,,,,,,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:4949/N,brocade url,False,,,,,,,,,,,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,tg:lhps:4949,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""49ce4f76-4645-51eb-b826-a567048df97a"", ""ontologyProperty"": """", ""resourceXresourceId"": ""6143644a-f16c-48c3-ac67-d3276763c0aa"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+e9cc5859-8cb5-566c-90be-90f6497b428a,tg:lhps:4949,e73_OriginalBrocade,,,au::11367,,,,lhps,,,421cf3dd-a783-5ba6-96fe-47705bd54fef,kw,,au::11367:1,au::11367g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""suggest"":[""/agents/people/1216269"",""au::11367"",""au::11367:1"",""ark:/83110/x0/421cf3dd-a783-5ba6-96fe-47705bd54fef"",""Leopold III""],""name"":""Leopold III"",""ark"":""ark:/83110/x0/421cf3dd-a783-5ba6-96fe-47705bd54fef"",""uri"":""/agents/people/1216269"",""id"":""au::11367:1"",""isCapacity"":false}",ark:/83110/x0/421cf3dd-a783-5ba6-96fe-47705bd54fef,agent,,,,,,,,

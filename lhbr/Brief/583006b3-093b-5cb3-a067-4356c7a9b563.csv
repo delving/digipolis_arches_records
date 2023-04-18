@@ -1,0 +1,9 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+583006b3-093b-5cb3-a067-4356c7a9b563,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:190325_#1,https://data.letterenhuis.be/ark:/24970/583006b3-093b-5cb3-a067-4356c7a9b563,,,
+583006b3-093b-5cb3-a067-4356c7a9b563,,,,178855,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+583006b3-093b-5cb3-a067-4356c7a9b563,,,,,,kenmerken.lhorighs,fc,,,,,,,photocopies,,,,,,,,,,,,,,,,,,,,,,
+583006b3-093b-5cb3-a067-4356c7a9b563,,,,,,,,,,,,,,,lhbr,,tg:lhbr:190325_#1,178855,,W 213 / B1,583006b3-093b-5cb3-a067-4356c7a9b563,,,,,,,,,,,,,,,
+583006b3-093b-5cb3-a067-4356c7a9b563,,,,,,kenmerken.lhschrijfhs,in,,,,,,,,,,,,,,,,,,,,,ink,,,,,,,,
+583006b3-093b-5cb3-a067-4356c7a9b563,,,,,,kenmerken.lhtypebr,brbe,,,,,,,,,,,,,,,,,,,,,,,,,,,letters (correspondence),,
+583006b3-093b-5cb3-a067-4356c7a9b563,,,,,,kenmerken.lhtypohs,hs,,,,,,,,,,,,,,,,,,,,,,,handwriting,,,,,,
+583006b3-093b-5cb3-a067-4356c7a9b563,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1983,permission required

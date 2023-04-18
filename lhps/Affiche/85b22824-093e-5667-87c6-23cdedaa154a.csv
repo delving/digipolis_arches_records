@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+85b22824-093e-5667-87c6-23cdedaa154a,tg:lhps:23599,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:23599,https://data.letterenhuis.be/ark:/24970/85b22824-093e-5667-87c6-23cdedaa154a,Affiches,,,,
+85b22824-093e-5667-87c6-23cdedaa154a,tg:lhps:23599,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1977.0,2092,In Copyright
+85b22824-093e-5667-87c6-23cdedaa154a,tg:lhps:23599,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19770105,,,,,,,,,,,,,,,,,,,,
+85b22824-093e-5667-87c6-23cdedaa154a,tg:lhps:23599,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19770130,,,,,,,,,,,,,,,,,,,,
+85b22824-093e-5667-87c6-23cdedaa154a,tg:lhps:23599,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1977-01-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85b22824-093e-5667-87c6-23cdedaa154a,tg:lhps:23599,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Fass' dir ein Herz und komm  
+Wilhelm-Lehmbruck-Museum  
+[Gestaltung: Robert Schulte]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+85b22824-093e-5667-87c6-23cdedaa154a,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022943,referentienummer,False,,,,,,,,,,,,,,
+85b22824-093e-5667-87c6-23cdedaa154a,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:23599,brocade id,False,,,,,,,,,,,,,,
+85b22824-093e-5667-87c6-23cdedaa154a,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:23599/N,brocade url,False,,,,,,,,,,,,,,
+85b22824-093e-5667-87c6-23cdedaa154a,tg:lhps:23599,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""6c906596-33df-5dc6-8a67-b5a484512a5d"", ""ontologyProperty"": """", ""resourceXresourceId"": ""42430866-2db1-48f2-b89e-96f25b6b89b3"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

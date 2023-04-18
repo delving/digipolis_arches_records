@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+6f9e752b-47df-50c7-8dec-0439de4f3962,tg:lhps:27372,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27372,https://data.letterenhuis.be/ark:/24970/6f9e752b-47df-50c7-8dec-0439de4f3962,Affiches,,,,
+6f9e752b-47df-50c7-8dec-0439de4f3962,tg:lhps:27372,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1975.0,2090,In Copyright
+6f9e752b-47df-50c7-8dec-0439de4f3962,tg:lhps:27372,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19750620,,,,,,,,,,,,,,,,,,,,
+6f9e752b-47df-50c7-8dec-0439de4f3962,tg:lhps:27372,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19750824,,,,,,,,,,,,,,,,,,,,
+6f9e752b-47df-50c7-8dec-0439de4f3962,tg:lhps:27372,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1975-08-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6f9e752b-47df-50c7-8dec-0439de4f3962,tg:lhps:27372,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"A day of takes - A place of takes  
+Paul Zelevansky  
+Wright State University Art Gallery",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+6f9e752b-47df-50c7-8dec-0439de4f3962,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026693,referentienummer,False,,,,,,,,,,,,,,
+6f9e752b-47df-50c7-8dec-0439de4f3962,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27372,brocade id,False,,,,,,,,,,,,,,
+6f9e752b-47df-50c7-8dec-0439de4f3962,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27372/N,brocade url,False,,,,,,,,,,,,,,
+6f9e752b-47df-50c7-8dec-0439de4f3962,tg:lhps:27372,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""d7e02cbb-f78e-55d1-a47f-6936acc018c4"", ""ontologyProperty"": """", ""resourceXresourceId"": ""21ac93fc-a4b1-462f-ba05-7cdd83513d72"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

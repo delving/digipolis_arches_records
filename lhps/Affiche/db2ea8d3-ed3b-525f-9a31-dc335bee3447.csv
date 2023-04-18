@@ -1,0 +1,12 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+db2ea8d3-ed3b-525f-9a31-dc335bee3447,tg:lhps:43241,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:43241,https://data.letterenhuis.be/ark:/24970/db2ea8d3-ed3b-525f-9a31-dc335bee3447,Affiches,,,,
+db2ea8d3-ed3b-525f-9a31-dc335bee3447,tg:lhps:43241,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1988.0,2103,In Copyright
+db2ea8d3-ed3b-525f-9a31-dc335bee3447,tg:lhps:43241,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19880423,,,,,,,,,,,,,,,,,,,,
+db2ea8d3-ed3b-525f-9a31-dc335bee3447,tg:lhps:43241,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1988-04-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+db2ea8d3-ed3b-525f-9a31-dc335bee3447,tg:lhps:43241,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Woelsbeke  
+Onthulling  
+De Vlasser",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+db2ea8d3-ed3b-525f-9a31-dc335bee3447,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000039170,referentienummer,False,,,,,,,,,,,,,,
+db2ea8d3-ed3b-525f-9a31-dc335bee3447,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:43241,brocade id,False,,,,,,,,,,,,,,
+db2ea8d3-ed3b-525f-9a31-dc335bee3447,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:43241/N,brocade url,False,,,,,,,,,,,,,,
+db2ea8d3-ed3b-525f-9a31-dc335bee3447,tg:lhps:43241,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""0c24616c-4e7c-5135-93f8-6e49171ee012"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0cf780bb-0e16-464c-8c09-e10d1a350027"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

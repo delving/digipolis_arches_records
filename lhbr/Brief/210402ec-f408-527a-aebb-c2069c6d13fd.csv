@@ -1,0 +1,19 @@
+ResourceID,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,source_ire_type,Connected Subject Role,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,dataset,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+210402ec-f408-527a-aebb-c2069c6d13fd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:230270,https://data.letterenhuis.be/ark:/24970/210402ec-f408-527a-aebb-c2069c6d13fd,Brieven,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,note.lhalg,"<p>Briefwisseling m.b.t. publicatie <em>La Sculpture de ce Siècle-Dictionnaire de la<br />
+Sculpture Moderne.</em></p>
+<p>Documentatie bijgevoegd.</p>
+","<p>Briefwisseling m.b.t. publicatie <em>La Sculpture de ce Siècle-Dictionnaire de la<br />
+Sculpture Moderne.</em></p>
+<p>Documentatie bijgevoegd.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1958.0,2073,In Copyright
+210402ec-f408-527a-aebb-c2069c6d13fd,,au::57076,,,,lhbr,bs,,au::57076g:1,,,,,lhbr,Brief,correspondents (correspondence writers),,"dlod={""suggest"":[""/agents/people/6107132"",""au::57076"",""au::57076:1"",""ark:/83110/x0/0f06a804-0bf5-5535-ae6d-70640ac6c68a"",""Henri Holz-Fay""],""name"":""Henri Holz-Fay"",""ark"":""ark:/83110/x0/0f06a804-0bf5-5535-ae6d-70640ac6c68a"",""uri"":""/agents/people/6107132"",""id"":""au::57076:1"",""isCapacity"":false}",ark:/83110/x0/0f06a804-0bf5-5535-ae6d-70640ac6c68a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,,au::16864,,,,lhbr,co,,au::16864g:1,,,,,lhbr,Brief,recipients (people),,"dlod={""suggest"":[""/agents/people/1804448"",""au::16864"",""au::16864:1"",""ark:/83110/x0/ec088980-6865-51bc-953c-71bb468e9977"",""Michel Seuphor""],""name"":""Michel Seuphor"",""ark"":""ark:/83110/x0/ec088980-6865-51bc-953c-71bb468e9977"",""uri"":""/agents/people/1804448"",""id"":""au::16864:1"",""isCapacity"":false}",ark:/83110/x0/ec088980-6865-51bc-953c-71bb468e9977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19580811,,,,,,,,,,,,,,,,,,,,,,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,,,,,,,,,,,,,,,,,,,,1958-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,kenmerken.lhlanguagehs,fre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,French (language),,,,,,,,,,,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000219507,referentienummer,False,,,,,,,,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:230270,brocade id,False,,,,,,,,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:230270/N,brocade url,False,,,,,,,,,,,
+210402ec-f408-527a-aebb-c2069c6d13fd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""fba25dd6-b498-5fa6-afaf-8591ce5019f5"", ""ontologyProperty"": """", ""resourceXresourceId"": ""0e5e8022-84ad-4e63-a748-50cf993a8933"", ""inverseOntologyProperty"": """"}]",,,,,,,,

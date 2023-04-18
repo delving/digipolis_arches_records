@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,tg:lhps:19671,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:19671,https://data.letterenhuis.be/ark:/24970/320d2ce6-1ac0-54b4-bca7-eb143ea89e03,Affiches,,,,
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,tg:lhps:19671,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1958.0,2073,In Copyright
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,tg:lhps:19671,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19580501,,,,,,,,,,,,,,,,,,,,
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,tg:lhps:19671,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1958-05-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,tg:lhps:19671,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"B.S.P. Lokeren  
+1958 een mei  
+Groots Meiavondfeest  
+Opvoering van De Rode Banier  
+Strijdbetoging",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000019048,referentienummer,False,,,,,,,,,,,,,,
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:19671,brocade id,False,,,,,,,,,,,,,,
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:19671/N,brocade url,False,,,,,,,,,,,,,,
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,tg:lhps:19671,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""15c85ab8-e390-56de-8017-a1655255444c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""f240f4af-317c-4c5a-80c1-206b1555f8e4"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
+320d2ce6-1ac0-54b4-bca7-eb143ea89e03,tg:lhps:19671,e73_OriginalBrocade,,,au::6207,,,,lhps,,,4f08b124-6cc4-5c75-b93f-252ed493d5f4,kw,,au::6207:1,au::6207g:1,,,,,,,,,,,,,,,,,,,,,keywords,,"dlod={""name"":""Eén Mei"",""ark"":""ark:/83110/x0/4f08b124-6cc4-5c75-b93f-252ed493d5f4"",""uri"":""/subjects/664149"",""id"":""au::6207"",""isCapacity"":false,""orgID"":""digipolis"",""suggestType"":""topic""}",ark:/83110/x0/4f08b124-6cc4-5c75-b93f-252ed493d5f4,topic,,,,,,,,

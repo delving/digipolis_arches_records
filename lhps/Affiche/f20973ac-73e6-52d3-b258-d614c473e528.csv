@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f20973ac-73e6-52d3-b258-d614c473e528,tg:lhps:24456,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24456,https://data.letterenhuis.be/ark:/24970/f20973ac-73e6-52d3-b258-d614c473e528,Affiches,,,,
+f20973ac-73e6-52d3-b258-d614c473e528,tg:lhps:24456,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1976.0,2091,In Copyright
+f20973ac-73e6-52d3-b258-d614c473e528,tg:lhps:24456,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760312,,,,,,,,,,,,,,,,,,,,
+f20973ac-73e6-52d3-b258-d614c473e528,tg:lhps:24456,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19760425,,,,,,,,,,,,,,,,,,,,
+f20973ac-73e6-52d3-b258-d614c473e528,tg:lhps:24456,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1976-04-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f20973ac-73e6-52d3-b258-d614c473e528,tg:lhps:24456,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Wolfram Erber  
+Zeichnungen 1963-1976  
+Städtisches Museum Leverkusen Schloss Morsbroich",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f20973ac-73e6-52d3-b258-d614c473e528,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023798,referentienummer,False,,,,,,,,,,,,,,
+f20973ac-73e6-52d3-b258-d614c473e528,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24456,brocade id,False,,,,,,,,,,,,,,
+f20973ac-73e6-52d3-b258-d614c473e528,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24456/N,brocade url,False,,,,,,,,,,,,,,
+f20973ac-73e6-52d3-b258-d614c473e528,tg:lhps:24456,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2720f521-a046-5080-a7fe-20d84bb0785f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""2759ac92-be0c-44b3-a4ea-9dd353da355b"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

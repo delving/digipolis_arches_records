@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+895e7c79-9e91-57a8-b534-186e6987efba,tg:lhps:27348,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:27348,https://data.letterenhuis.be/ark:/24970/895e7c79-9e91-57a8-b534-186e6987efba,Affiches,,,,
+895e7c79-9e91-57a8-b534-186e6987efba,tg:lhps:27348,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1978.0,2093,In Copyright
+895e7c79-9e91-57a8-b534-186e6987efba,tg:lhps:27348,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780129,,,,,,,,,,,,,,,,,,,,
+895e7c79-9e91-57a8-b534-186e6987efba,tg:lhps:27348,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780226,,,,,,,,,,,,,,,,,,,,
+895e7c79-9e91-57a8-b534-186e6987efba,tg:lhps:27348,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1978-02-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+895e7c79-9e91-57a8-b534-186e6987efba,tg:lhps:27348,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Peter Roehr  
+Kunstmuseum Luzern  
+[Gestaltung: Hans Peter Dubacher; Dora Wespi]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+895e7c79-9e91-57a8-b534-186e6987efba,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026669,referentienummer,False,,,,,,,,,,,,,,
+895e7c79-9e91-57a8-b534-186e6987efba,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:27348,brocade id,False,,,,,,,,,,,,,,
+895e7c79-9e91-57a8-b534-186e6987efba,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:27348/N,brocade url,False,,,,,,,,,,,,,,
+895e7c79-9e91-57a8-b534-186e6987efba,tg:lhps:27348,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""985174a1-c906-5a62-b1da-2e12cf34ab4f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""b9c44329-f02c-4688-a494-abf3f4632843"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

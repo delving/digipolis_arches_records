@@ -1,0 +1,19 @@
+ResourceID,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,source_ire_type,Connected Subject Role,place_au_code,Connected Subject Note,Connected Subject Widget,Connected Subject Identifier,Connected Subject Type,dataset,resource_model,Creation Actor Role,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,External Relation,External Relation Note,External Relation Note Language,External Relation Note Type,External Relation URL,External Relation URL Prefix,External Relation URL Type,Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,number,type,Material Records,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:230255,https://data.letterenhuis.be/ark:/24970/c57cacc2-1e1b-5105-b21a-c816c4ddf61c,Brieven,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,note.lhalg,"<p>Briefwisseling m.b.t. publicatie <em>La Sculpture de ce Siècle-Dictionnaire de la<br />
+Sculpture Moderne.</em></p>
+<p>Documentatie bijgevoegd.</p>
+","<p>Briefwisseling m.b.t. publicatie <em>La Sculpture de ce Siècle-Dictionnaire de la<br />
+Sculpture Moderne.</em></p>
+<p>Documentatie bijgevoegd.</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1958.0,2073,In Copyright
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,,au::16864,,,,lhbr,bs,,au::16864g:1,,,,,lhbr,Brief,correspondents (correspondence writers),,"dlod={""suggest"":[""/agents/people/1804448"",""au::16864"",""au::16864:1"",""ark:/83110/x0/ec088980-6865-51bc-953c-71bb468e9977"",""Michel Seuphor""],""name"":""Michel Seuphor"",""ark"":""ark:/83110/x0/ec088980-6865-51bc-953c-71bb468e9977"",""uri"":""/agents/people/1804448"",""id"":""au::16864:1"",""isCapacity"":false}",ark:/83110/x0/ec088980-6865-51bc-953c-71bb468e9977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,,au::55627,,,,lhbr,co,,au::55627g:1,,,,,lhbr,Brief,recipients (people),,"dlod={""suggest"":[""/agents/corporate_entities/5952089"",""au::55627"",""au::55627:1"",""ark:/83110/x0/1c2e3956-cac6-55d1-a476-d85fbf5fc07b"",""Galerie Creuze""],""name"":""Galerie Creuze"",""ark"":""ark:/83110/x0/1c2e3956-cac6-55d1-a476-d85fbf5fc07b"",""uri"":""/agents/corporate_entities/5952089"",""id"":""au::55627:1"",""isCapacity"":false}",ark:/83110/x0/1c2e3956-cac6-55d1-a476-d85fbf5fc07b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19580728,,,,,,,,,,,,,,,,,,,,,,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,,,,,,,,,,,,,,,,,,,,1958-07-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,kenmerken.lhlanguagehs,fre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,French (language),,,,,,,,,,,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/br/000219492,referentienummer,False,,,,,,,,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhbr:230255,brocade id,False,,,,,,,,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhbr:230255/N,brocade url,False,,,,,,,,,,,
+c57cacc2-1e1b-5105-b21a-c816c4ddf61c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""b3a90ba1-7356-5356-98de-cd067e7339c6"", ""ontologyProperty"": """", ""resourceXresourceId"": ""5dab1ec6-36f7-402b-bcba-93dd4ba08027"", ""inverseOntologyProperty"": """"}]",,,,,,,,

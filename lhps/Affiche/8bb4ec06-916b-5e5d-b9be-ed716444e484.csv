@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+8bb4ec06-916b-5e5d-b9be-ed716444e484,tg:lhps:24657,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24657,https://data.letterenhuis.be/ark:/24970/8bb4ec06-916b-5e5d-b9be-ed716444e484,Affiches,,,,
+8bb4ec06-916b-5e5d-b9be-ed716444e484,tg:lhps:24657,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1980.0,2095,In Copyright
+8bb4ec06-916b-5e5d-b9be-ed716444e484,tg:lhps:24657,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19800829,,,,,,,,,,,,,,,,,,,,
+8bb4ec06-916b-5e5d-b9be-ed716444e484,tg:lhps:24657,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19800928,,,,,,,,,,,,,,,,,,,,
+8bb4ec06-916b-5e5d-b9be-ed716444e484,tg:lhps:24657,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1980-09-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8bb4ec06-916b-5e5d-b9be-ed716444e484,tg:lhps:24657,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Portsmouth-Duisburg  
+32 Künstler aus Portsmouth  
+Wilhelm-Lehmbruck-Museum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+8bb4ec06-916b-5e5d-b9be-ed716444e484,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023998,referentienummer,False,,,,,,,,,,,,,,
+8bb4ec06-916b-5e5d-b9be-ed716444e484,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24657,brocade id,False,,,,,,,,,,,,,,
+8bb4ec06-916b-5e5d-b9be-ed716444e484,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24657/N,brocade url,False,,,,,,,,,,,,,,
+8bb4ec06-916b-5e5d-b9be-ed716444e484,tg:lhps:24657,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f530e942-0cda-5c93-8e11-cd9d0a47f1f9"", ""ontologyProperty"": """", ""resourceXresourceId"": ""3d3c6b45-65b1-4b95-96d7-12e79ca4f832"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

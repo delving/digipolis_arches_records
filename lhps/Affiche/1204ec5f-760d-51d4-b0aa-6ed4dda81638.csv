@@ -1,0 +1,17 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,tg:lhps:22764,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22764,https://data.letterenhuis.be/ark:/24970/1204ec5f-760d-51d4-b0aa-6ed4dda81638,Affiches,,,,
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,tg:lhps:22764,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Dr. Köhler &amp; Co, München</p>
+","<p>druk: Dr. Köhler &amp; Co, München</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,tg:lhps:22764,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1969.0,2084,In Copyright
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,tg:lhps:22764,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19690513,,,,,,,,,,,,,,,,,,,,
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,tg:lhps:22764,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19690706,,,,,,,,,,,,,,,,,,,,
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,tg:lhps:22764,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1969-07-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,tg:lhps:22764,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Spiel-Objekte  
+Variabilität als element des Kreativen  
+Die Neue Sammlung, Staatliches Museum für Angewandte Kunst  
+[Entwurf: Wilfried Minks]",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000022110,referentienummer,False,,,,,,,,,,,,,,
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22764,brocade id,False,,,,,,,,,,,,,,
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22764/N,brocade url,False,,,,,,,,,,,,,,
+1204ec5f-760d-51d4-b0aa-6ed4dda81638,tg:lhps:22764,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""3ecb85df-f934-5f9c-9306-9852636c4f95"", ""ontologyProperty"": """", ""resourceXresourceId"": ""d37abd44-f295-48c5-afec-b028d3425b14"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

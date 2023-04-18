@@ -1,0 +1,13 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+f3fbd3f5-c038-56da-8637-4c46813646e1,tg:lhps:26922,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:26922,https://data.letterenhuis.be/ark:/24970/f3fbd3f5-c038-56da-8637-4c46813646e1,Affiches,,,,
+f3fbd3f5-c038-56da-8637-4c46813646e1,tg:lhps:26922,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1964.0,2079,In Copyright
+f3fbd3f5-c038-56da-8637-4c46813646e1,tg:lhps:26922,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640710,,,,,,,,,,,,,,,,,,,,
+f3fbd3f5-c038-56da-8637-4c46813646e1,tg:lhps:26922,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19640927,,,,,,,,,,,,,,,,,,,,
+f3fbd3f5-c038-56da-8637-4c46813646e1,tg:lhps:26922,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1964-09-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f3fbd3f5-c038-56da-8637-4c46813646e1,tg:lhps:26922,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Ausgewählte Graphik  
+Neuerwerbungen 1955-1964  
+Kestner-Museum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+f3fbd3f5-c038-56da-8637-4c46813646e1,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000026244,referentienummer,False,,,,,,,,,,,,,,
+f3fbd3f5-c038-56da-8637-4c46813646e1,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:26922,brocade id,False,,,,,,,,,,,,,,
+f3fbd3f5-c038-56da-8637-4c46813646e1,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:26922/N,brocade url,False,,,,,,,,,,,,,,
+f3fbd3f5-c038-56da-8637-4c46813646e1,tg:lhps:26922,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""2e14baa5-bf17-5fa9-9cc3-6f6f0532995c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""7e2ecfcb-0dbe-4f46-b4e3-5a5142af14c7"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

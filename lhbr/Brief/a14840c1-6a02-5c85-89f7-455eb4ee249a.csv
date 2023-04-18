@@ -1,0 +1,5 @@
+ResourceID,Acquisition Brocade ID,Acquisition Widget,Acquisition Identifier,Acquisition Number,Acquisition Number Type,source_field,source_code,Annotation,Annotation Language,Annotation Type,Archive Brocade ID,Archive Widget,Archive Identifier,Document status,dataset,adm.acquiredVia,adm.id_mat,mpm_place_holder,adm.isadPartOf,Plaatsingsnummer,adm.uuid_mat,Volgnummer,Source Note,Warehouse Location (begin),Warehouse Location (end),Source Note Type,Source Note Language,Material,Product stadium,Production Technique Type,Keeper,Object Number,Object Identifier,Object Type,source_date,Restriction Type
+a14840c1-6a02-5c85-89f7-455eb4ee249a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhbr:13381_#1,https://data.letterenhuis.be/ark:/24970/a14840c1-6a02-5c85-89f7-455eb4ee249a,,,
+a14840c1-6a02-5c85-89f7-455eb4ee249a,,,,4461/3,aanwinst nummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a14840c1-6a02-5c85-89f7-455eb4ee249a,,,,,,,,,,,,,,,lhbr,,tg:lhbr:13381_#1,4461/3,,B 6791 / B,a14840c1-6a02-5c85-89f7-455eb4ee249a,,,,,,,,,,,,,,,
+a14840c1-6a02-5c85-89f7-455eb4ee249a,,,,,,id/date,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1951,permission required

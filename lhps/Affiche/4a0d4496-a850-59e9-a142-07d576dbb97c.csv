@@ -1,0 +1,15 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+4a0d4496-a850-59e9-a142-07d576dbb97c,tg:lhps:24079,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:24079,https://data.letterenhuis.be/ark:/24970/4a0d4496-a850-59e9-a142-07d576dbb97c,Affiches,,,,
+4a0d4496-a850-59e9-a142-07d576dbb97c,tg:lhps:24079,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Cramer, Greven</p>
+","<p>druk: Cramer, Greven</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4a0d4496-a850-59e9-a142-07d576dbb97c,tg:lhps:24079,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1978.0,2093,In Copyright
+4a0d4496-a850-59e9-a142-07d576dbb97c,tg:lhps:24079,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19780000,,,,,,,,,,,,,,,,,,,,
+4a0d4496-a850-59e9-a142-07d576dbb97c,tg:lhps:24079,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1978,reconstructie,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4a0d4496-a850-59e9-a142-07d576dbb97c,tg:lhps:24079,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Westfälische Künstler 1886-1934  
+Melchior Lechter  
+Westfälisches Landesmuseum",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+4a0d4496-a850-59e9-a142-07d576dbb97c,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000023421,referentienummer,False,,,,,,,,,,,,,,
+4a0d4496-a850-59e9-a142-07d576dbb97c,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:24079,brocade id,False,,,,,,,,,,,,,,
+4a0d4496-a850-59e9-a142-07d576dbb97c,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:24079/N,brocade url,False,,,,,,,,,,,,,,
+4a0d4496-a850-59e9-a142-07d576dbb97c,tg:lhps:24079,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""af5dfa05-50b6-5284-991b-0998dbf0882b"", ""ontologyProperty"": """", ""resourceXresourceId"": ""aaa7937f-36b5-4165-a2c5-c2221d379b01"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,

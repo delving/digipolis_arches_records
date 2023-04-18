@@ -1,0 +1,16 @@
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type,museum,dataset,resource_model,ire.isaar.uuid,source_ire_type,Creation Actor Role,ire.isaar.id,place_au_code,Creation Actor Note,Creation Actor Widget,Creation Actor Identifier,Start Date,Start Date Type,End Date Type,Start Date Note,Start Date Note Type,Start Date Note Language,End Date Note,End Date Note Type,End Date Note Language,Creation Time Span Source Note,Description,Description Type,Description Language,Legacy Information Value,Legacy Information Type,Legacy Information Published,Material Records,Original Entity Type,Original Entity Note,Original Entity Widget,Original Entity Identifier,Original Entity Type.1,Keeper,Object Number,Object Identifier,Record Type,Legacy Information Code,source_date,Copyright Revision Date,Copyright Type
+2da5568b-213f-5e84-b66a-30fa9e052b70,tg:lhps:22317,AA,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Letterenhuis,tg:lhps:22317,https://data.letterenhuis.be/ark:/24970/2da5568b-213f-5e84-b66a-30fa9e052b70,Affiches,,,,
+2da5568b-213f-5e84-b66a-30fa9e052b70,tg:lhps:22317,e73_AnnotationsImmaterial,1,note.lhalg,"<p>druk: Mourlot</p>
+","<p>druk: Mourlot</p>
+",Nederlands,remarks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2da5568b-213f-5e84-b66a-30fa9e052b70,tg:lhps:22317,e73_Copyrights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1961.0,2076,In Copyright
+2da5568b-213f-5e84-b66a-30fa9e052b70,tg:lhps:22317,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19610517,,,,,,,,,,,,,,,,,,,,
+2da5568b-213f-5e84-b66a-30fa9e052b70,tg:lhps:22317,e73_CreationTimeSpanSourceNotes,1,id/date.creationdate/so,,,,,,,,,,,,,,,,,,,,,,,,,19610617,,,,,,,,,,,,,,,,,,,,
+2da5568b-213f-5e84-b66a-30fa9e052b70,tg:lhps:22317,e73_CreationTimeSpans,,,,,,,,,,,,,,,,,,1961-06-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2da5568b-213f-5e84-b66a-30fa9e052b70,tg:lhps:22317,e73_Descriptions,,id.desc,,,,,,,,,,,,,,,,,,,,,,,,,,"Manolo 1872-1945  
+Sculptures - Gouaches - Dessins  
+Galerie Louise Leiris",descriptive note,Nederlands,,,,,,,,,,,,,,,,,
+2da5568b-213f-5e84-b66a-30fa9e052b70,,e73_LegacyInformation,0,id.objectNumber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BE-ANN07/ps/000021665,referentienummer,False,,,,,,,,,,,,,,
+2da5568b-213f-5e84-b66a-30fa9e052b70,,e73_LegacyInformation,1,brocade.id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tg:lhps:22317,brocade id,False,,,,,,,,,,,,,,
+2da5568b-213f-5e84-b66a-30fa9e052b70,,e73_LegacyInformation,1,brocade.url,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://anet.be/record/opaclhobj/tg:lhps:22317/N,brocade url,False,,,,,,,,,,,,,,
+2da5568b-213f-5e84-b66a-30fa9e052b70,tg:lhps:22317,e73_MaterialRecords,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[{""resourceId"": ""f6761f97-2900-595f-9787-949332ea6a2f"", ""ontologyProperty"": """", ""resourceXresourceId"": ""186ac615-e4c3-4b86-8ae4-ddd7afd5c296"", ""inverseOntologyProperty"": """"}]",,,,,,,,,,,,,
